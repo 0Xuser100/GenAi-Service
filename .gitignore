@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# Extra cache ignore
+**/__pycache__/
+*.pyc
 # C extensions
 *.so
 

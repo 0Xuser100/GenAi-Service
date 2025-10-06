@@ -1,17 +1,13 @@
 # GenAi-Service
 
-## Environment Reproducibility
+## Installation
 
-Export the full Conda environment (all packages and pinned versions) so you can recreate it elsewhere:
-
-```bash
-conda env export > environment_full.yml
-```
-
-On another machine, rebuild the exact same environment with:
+Set up the project environment with Conda and install dependencies in this order:
 
 ```bash
-conda env create -f environment_full.yml
+conda create -n genaiservice python=3.11
+conda activate genaiservice
+pip install -r requirements.txt
 ```
 
-Regenerate the file whenever you intentionally upgrade dependencies, and keep it committed so production boxes stay aligned with development.
+
