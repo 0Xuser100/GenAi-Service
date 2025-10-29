@@ -2,7 +2,7 @@ Page 1 (image, 120 DPI):
 ### Summary of Important Points from Page 1:
 
 1. **Company Name and Type**:
-   - The document pertains to **United Wire Factories Company**, which is identified as a **Joint Stock Company**.
+   - The document pertains to **United Wire Factories Company**, which is a **Joint Stock Company**.
 
 2. **Location**:
    - The company is based in **Riyadh, Kingdom of Saudi Arabia**.
@@ -17,7 +17,7 @@ Page 1 (image, 120 DPI):
 ### Key Takeaways:
 - This is the title page of a financial report for United Wire Factories Company.
 - The report is for the fiscal year ending on **31 December 2024**.
-- The company is located in Riyadh, Saudi Arabia, and operates as a Joint Stock Company.
+- The company is located in Riyadh, Saudi Arabia, and is a Joint Stock Company.
 - The inclusion of an Independent Auditor's Report suggests that the financial statements have been externally verified for accuracy and compliance. 
 
 This page serves as an introduction to the detailed financial information that follows.
@@ -25,69 +25,60 @@ This page serves as an introduction to the detailed financial information that f
 ---
 
 Page 2 (image, 120 DPI):
-This page is the **Index** of the financial statements for **United Wire Factories Company (Joint Stock Company)** for the year ended **31 December 2024**. It outlines the structure and organization of the document, listing the key sections and their corresponding page numbers. Here are the important points:
+This page is the **Index** of the financial statements for **United Wire Factories Company (Joint Stock Company)** for the year ended **31 December 2024**. Here are the key points summarized:
 
 1. **Title and Company Information**:
    - The document is for **United Wire Factories Company**, a Joint Stock Company.
    - It covers the financial statements for the year ended **31 December 2024**.
 
-2. **Sections Included**:
-   - **Independent Auditor's Report**: This section is not assigned a specific page number, indicating it may be on the preceding or following pages.
-   - **Statement of Financial Position**: Located on **Page 4**.
-   - **Statement of Profit or Loss and Other Comprehensive Income**: Located on **Page 5**.
-   - **Statement of Changes in Equity**: Located on **Page 6**.
-   - **Statement of Cash Flows**: Located on **Page 7**.
-   - **Notes to the Financial Statements**: Spanning from **Page 8 to Page 33**.
+2. **Contents of the Document**:
+   - The document includes:
+     - **Independent Auditor's Report**: This is typically on the first page (indicated by a dash, "-").
+     - **Statement of Financial Position**: Located on **Page 4**.
+     - **Statement of Profit or Loss and Other Comprehensive Income**: Located on **Page 5**.
+     - **Statement of Changes in Equity**: Located on **Page 6**.
+     - **Statement of Cash Flows**: Located on **Page 7**.
+     - **Notes to the Financial Statements**: Spanning from **Page 8 to Page 33**.
 
-3. **Purpose**:
-   - The index serves as a navigational tool, helping readers locate specific sections of the financial statements quickly.
+3. **Structure**:
+   - The index provides a clear outline of the financial statements and their respective pages.
+   - The notes to the financial statements are extensive, covering multiple pages (8–33), indicating detailed disclosures and explanations.
 
-### Summary of Key Points:
-- The document is a financial report for United Wire Factories Company for the year 2024.
-- It includes standard financial statements: balance sheet, income statement, equity statement, and cash flow statement.
-- Detailed notes supporting the financial statements are provided over multiple pages (8–33).
-- An independent auditor's report is included, though its page number is not specified.
+4. **Purpose**:
+   - The index serves as a navigational tool for readers to locate specific sections of the financial statements and the auditor's report.
 
-This index provides a clear roadmap for reviewing the company's financial performance and position.
+### Summary:
+This page is an **Index** that organizes the financial statements and related sections for the year 2024, providing a roadmap for readers to access key financial information and supporting details. The document includes standard financial statements (balance sheet, income statement, equity statement, and cash flow statement) along with comprehensive notes and an auditor's report.
 
 ---
 
 Page 3 (text-fallback):
-### Summary of Key Points from the Document (Page 3)
+### Summary of Important Points from the Document (Page 3)
 
 #### **Independent Auditor's Report**
-This section is an official report from the auditor addressing the shareholders of United Wire Factories Company (Joint Stock Company).
+- **Auditor's Opinion:**
+  - The auditor has audited the financial statements of **United Wire Factories Company (Joint Stock Company)** for the year ended **31 December 2024**.
+  - The financial statements include:
+    - Statement of financial position as at 31 December 2024.
+    - Statements of profit or loss and other comprehensive income.
+    - Statement of changes in equity.
+    - Statement of cash flows.
+    - Notes to the financial statements, including material accounting policies.
+  - The auditor opines that the financial statements **fairly present, in all material respects**, the financial position, financial performance, and cash flows of the Company for the year ended 31 December 2024.
+  - The financial statements are prepared in accordance with **International Financial Reporting Standards (IFRS)** endorsed in the **Kingdom of Saudi Arabia** and other standards and pronouncements issued by the **Saudi Organization for Chartered and Professional Accountants (SOCPA)**.
 
----
+#### **Basis for Opinion:**
+- The audit was conducted in accordance with the **International Standards on Auditing (ISA)** endorsed in the **Kingdom of Saudi Arabia**.
+- The auditor's responsibilities under these standards are described in the "Auditor's Responsibilities for the Audit of the Financial Statements" section of the report.
+- The auditor is **independent** of the Company in accordance with the **International Code of Ethics for Professional Accountants** endorsed in the **Kingdom of Saudi Arabia**.
 
-### **1. Opinion**
-- **Financial Statements Reviewed:** The auditor has audited the financial statements of the Company for the year ended **31 December 2024**. These statements include:
-  - Statement of financial position as at **31 December 2024**.
-  - Statements of profit or loss and other comprehensive income.
-  - Statement of changes in equity.
-  - Statement of cash flows.
-  - Notes to the financial statements, including material accounting policies.
+### Key Takeaways:
+1. **Auditor's Assurance:** The auditor confirms that the financial statements are a fair representation of the Company's financial position, performance, and cash flows for the year ended 31 December 2024.
+2. **Standards Used:** The financial statements comply with IFRS endorsed in Saudi Arabia and other standards issued by SOCPA.
+3. **Audit Conducted:** The audit was performed in accordance with ISAs endorsed in Saudi Arabia.
+4. **Independence:** The auditor is independent of the Company, adhering to the ethical standards set by the International Code of Ethics for Professional Accountants in Saudi Arabia.
 
-- **Auditor's Opinion:** The auditor opines that the financial statements **fairly present**, in all material respects, the financial position of the Company as at **31 December 2024**, and its financial performance and cash flows for the year then ended. This presentation is in accordance with:
-  - **International Financial Reporting Standards (IFRS)** endorsed in the Kingdom of Saudi Arabia.
-  - Other standards and pronouncements issued by the **Saudi Organization for Chartered and Professional Accountants (SOCPA)**.
-
----
-
-### **2. Basis for Opinion**
-- **Audit Conducted in Accordance with Standards:** The audit was conducted in accordance with the **International Standards on Auditing (ISA)** that are endorsed in the Kingdom of Saudi Arabia.
-- **Auditor's Responsibilities:** The auditor's responsibilities under these standards are detailed in the "Auditor's Responsibilities for the Audit of the Financial Statements" section of the report.
-- **Independence:** The auditor is independent of the Company, in compliance with the **International Code of Ethics for Professional Accountants** endorsed in the Kingdom of Saudi Arabia.
-
----
-
-### **Key Takeaways**
-1. The auditor has provided a **clean opinion**, stating that the financial statements are fairly presented in accordance with IFRS and other applicable standards.
-2. The audit was conducted in accordance with the **International Standards on Auditing** endorsed in Saudi Arabia.
-3. The auditor is independent, adhering to the ethical standards set by the International Code of Ethics for Professional Accountants.
-4. The financial statements cover the year ended **31 December 2024** and include all required components (financial position, profit or loss, cash flows, equity changes, and notes).
-
-This report serves as an assurance to the shareholders that the financial statements are reliable and comply with the relevant accounting and auditing standards.
+This report provides assurance to the shareholders that the financial statements are reliable and prepared in accordance with the relevant accounting and auditing standards.
 
 ---
 
@@ -139,15 +130,15 @@ Page 5 (image, 120 DPI):
    - The auditor acknowledges that the risk of not detecting a material misstatement due to fraud is higher than that due to error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or override of internal controls.
 
 2. **Understanding Internal Control:**
-   - The auditor obtains an understanding of the internal control relevant to the audit to design appropriate audit procedures. However, this understanding is not for the purpose of expressing an opinion on the effectiveness of the internal control.
+   - The auditor gains an understanding of the internal control relevant to the audit to design appropriate audit procedures. However, this understanding is not for the purpose of expressing an opinion on the effectiveness of internal control.
 
 3. **Evaluation of Accounting Policies and Estimates:**
    - The auditor evaluates the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
 
 4. **Going Concern Assessment:**
-   - The auditor concludes on the appropriateness of management's use of the going concern basis of accounting.
-   - If material uncertainty exists regarding the Company's ability to continue as a going concern due to events or conditions, the auditor is required to draw attention to this in the auditor's report or modify the opinion.
-   - The auditor's conclusions are based on the audit evidence obtained up to the date of the auditor's report, but future events or conditions may still cause the Company to cease as a going concern.
+   - The auditor assesses whether there is a material uncertainty related to events or conditions that may cast significant doubt on the company's ability to continue as a going concern.
+   - If such a material uncertainty exists, the auditor is required to draw attention to it in the auditor's report or modify the opinion accordingly.
+   - The conclusions are based on the audit evidence obtained up to the date of the auditor's report, but future events or conditions may still cause the company to cease as a going concern.
 
 5. **Overall Evaluation of Financial Statements:**
    - The auditor evaluates the overall presentation, structure, and content of the financial statements, including disclosures, to ensure they represent the underlying transactions and events in a manner that achieves fair presentation.
@@ -160,10 +151,10 @@ Page 5 (image, 120 DPI):
      - Relationships and other matters that may reasonably be thought to bear on the auditor's independence, and actions taken to eliminate threats or safeguards applied.
 
 7. **Key Audit Matters:**
-   - The auditor determines and communicates key audit matters that were of most significance in the audit of the financial statements of the current period, unless law or regulation precludes public disclosure or the adverse consequences of doing so would outweigh the public interest benefits.
+   - The auditor determines and communicates the key audit matters from the audit of the financial statements, unless law or regulation precludes public disclosure or the adverse consequences of doing so outweigh the public interest benefits.
 
 #### **Other Matter**
-- The financial statements of the Company for the year ended 31 December 2023 were audited by another auditor, who expressed an unmodified opinion on these financial statements on 18 Ramadan 1445H (corresponding to 28 March 2024).
+- The financial statements of the Company for the year ended 31 December 2023 have been audited by another auditor, who expressed an unmodified opinion on these financial statements on 18 Ramadan 1445H (corresponding to 28 March 2024).
 
 #### **Auditor's Details**
 - **Auditor:** RSM Allied Accountants Professional Services
@@ -174,174 +165,158 @@ Page 5 (image, 120 DPI):
 
 ### Key Takeaways:
 - The auditor's responsibilities include risk assessment, understanding internal controls, evaluating accounting policies, assessing going concern, and overall evaluation of financial statements.
-- Communication with governance is a critical aspect of the audit process.
-- The auditor highlights key audit matters and communicates material uncertainties regarding the going concern.
-- The financial statements for the year ended 31 December 2023 were previously audited by another auditor, who expressed an unmodified opinion.
+- Communication with governance is a critical aspect, covering audit scope, findings, and independence matters.
+- The financial statements for the year ended 31 December 2023 were previously audited by another auditor, who issued an unmodified opinion.
+- The report is signed by Mohammed Bin Farhan Bin Nader, with details of the auditor's license and location provided.
 
 ---
 
 Page 6 (text-fallback):
-### Summary of Key Points from the Document (Page 6)
+### Summary of Key Points from Page 6
 
 #### **Statement of Financial Position as at 31 December 2024**
 
-This document presents the financial position of **United Wire Factories Company (Joint Stock Company)** as of **31 December 2024**, with comparative figures for **2023**. The financial statements are presented in **Saudi Riyals (SAR)**.
+This page presents the **Statement of Financial Position** for **United Wire Factories Company (Joint Stock Company)** as of **31 December 2024**, in **Saudi Riyals (SAR)**. The statement is divided into **Assets**, **Equity and Liabilities**, and provides a comparison between the years **2024** and **2023**.
 
 ---
 
-### **Assets**
+### **1. Assets**
 
 #### **Non-Current Assets**
-1. **Property, Plant, and Equipment**:
-   - **2024**: 133,113,757 SAR
-   - **2023**: 105,044,649 SAR
-   - **Increase**: The value of property, plant, and equipment has increased significantly, reflecting potential capital investments or acquisitions.
+- **Property, Plant, and Equipment (Note 5):**
+  - **2024:** 133,113,757 SAR
+  - **2023:** 105,044,649 SAR
+  - **Increase:** 28,069,108 SAR (26.72% growth)
 
-2. **Right of Use Assets**:
-   - **2024**: 2,492,608 SAR
-   - **2023**: 3,497,226 SAR
-   - **Decrease**: There is a reduction in right-of-use assets, possibly due to lease terminations or revaluations.
+- **Right of Use Assets (Note 6):**
+  - **2024:** 2,492,608 SAR
+  - **2023:** 3,497,226 SAR
+  - **Decrease:** 1,004,618 SAR (28.72% decline)
 
-3. **Investment in an Associate**:
-   - **2024**: 4,962,593 SAR
-   - **2023**: 1,654,940 SAR
-   - **Increase**: The investment in an associate has grown substantially, indicating a strategic expansion or additional investments.
+- **Investment in an Associate (Note 7):**
+  - **2024:** 4,962,593 SAR
+  - **2023:** 1,654,940 SAR
+  - **Increase:** 3,307,653 SAR (199.84% growth)
 
-4. **Due from Related Parties (Non-Current Portion)**:
-   - **2024**: 11,250,000 SAR
-   - **2023**: Not specified (implied to be zero or negligible)
-   - **New Addition**: This is a new entry, suggesting increased transactions or loans with related parties.
+- **Due from Related Parties (Non-Current Portion) (Note 8):**
+  - **2024:** 11,250,000 SAR
+  - **2023:** Not mentioned (assumed to be 0 or negligible)
 
-   **Total Non-Current Assets**:
-   - **2024**: 151,818,958 SAR
-   - **2023**: 110,196,815 SAR
-   - **Increase**: Non-current assets have grown significantly.
+- **Total Non-Current Assets:**
+  - **2024:** 151,818,958 SAR
+  - **2023:** 110,196,815 SAR
+  - **Increase:** 41,622,143 SAR (37.77% growth)
 
 #### **Current Assets**
-1. **Due from Related Parties (Current Portion)**:
-   - **2024**: 642,776 SAR
-   - **2023**: 1,273,022 SAR
-   - **Decrease**: There is a reduction in the current portion of amounts due from related parties.
+- **Due from Related Parties (Current Portion) (Note 8):**
+  - **2024:** 642,776 SAR
+  - **2023:** 1,273,022 SAR
+  - **Decrease:** 630,246 SAR (49.50% decline)
 
-2. **Inventories**:
-   - **2024**: 141,460,190 SAR
-   - **2023**: 164,942,084 SAR
-   - **Decrease**: Inventories have decreased, which could indicate improved inventory management or reduced production levels.
+- **Inventories (Note 9):**
+  - **2024:** 141,460,190 SAR
+  - **2023:** 164,942,084 SAR
+  - **Decrease:** 23,481,894 SAR (14.23% decline)
 
-3. **Accounts Receivable**:
-   - **2024**: 88,834,080 SAR
-   - **2023**: 95,544,963 SAR
-   - **Decrease**: Accounts receivable have decreased, suggesting improved collections or reduced sales on credit.
+- **Accounts Receivable (Note 10):**
+  - **2024:** 88,834,080 SAR
+  - **2023:** 95,544,963 SAR
+  - **Decrease:** 6,710,883 SAR (7.02% decline)
 
-4. **Prepaid Expenses and Other Assets**:
-   - **2024**: 13,145,329 SAR
-   - **2023**: 45,782,648 SAR
-   - **Significant Decrease**: Prepaid expenses and other assets have decreased substantially, possibly due to the utilization of prepaid items or reclassification.
+- **Prepaid Expenses and Other Assets (Note 11):**
+  - **2024:** 13,145,329 SAR
+  - **2023:** 45,782,648 SAR
+  - **Decrease:** 32,637,319 SAR (71.30% decline)
 
-5. **Cash and Cash Equivalents**:
-   - **2024**: 44,424,344 SAR
-   - **2023**: 37,854,005 SAR
-   - **Increase**: Cash and cash equivalents have increased, indicating improved liquidity.
+- **Cash and Cash Equivalents (Note 12):**
+  - **2024:** 44,424,344 SAR
+  - **2023:** 37,854,005 SAR
+  - **Increase:** 6,570,339 SAR (17.36% growth)
 
-   **Total Current Assets**:
-   - **2024**: 288,506,719 SAR
-   - **2023**: 345,396,722 SAR
-   - **Decrease**: Current assets have decreased overall.
+- **Total Current Assets:**
+  - **2024:** 288,506,719 SAR
+  - **2023:** 345,396,722 SAR
+  - **Decrease:** 56,890,003 SAR (16.47% decline)
 
-#### **Total Assets**
-- **2024**: 440,325,677 SAR
-- **2023**: 455,593,537 SAR
-- **Decrease**: Total assets have decreased slightly, primarily driven by changes in current assets.
+#### **Total Assets:**
+- **2024:** 440,325,677 SAR
+- **2023:** 455,593,537 SAR
+- **Decrease:** 15,267,860 SAR (3.35% decline)
 
 ---
 
-### **Equity and Liabilities**
+### **2. Equity and Liabilities**
 
 #### **Equity**
-1. **Share Capital**:
-   - **2024**: 280,800,000 SAR
-   - **2023**: 280,800,000 SAR
-   - **No Change**: Share capital remains unchanged.
+- **Share Capital:**
+  - **2024:** 280,800,000 SAR
+  - **2023:** 280,800,000 SAR
+  - **No change**
 
-2. **Reserves**:
-   - **2024**: 79,951,194 SAR
-   - **2023**: Not specified (implied to be zero or negligible)
-   - **New Addition**: Reserves have been added, reflecting retained earnings or other reserves.
+- **Reserves:**
+  - **2024:** 79,951,194 SAR
+  - **2023:** Not mentioned (assumed to be 0 or negligible)
 
-3. **Retained Earnings**:
-   - **2024**: 83,511,075 SAR
-   - **2023**: 8,386,954 SAR
-   - **Significant Increase**: Retained earnings have grown substantially, indicating improved profitability or reduced distributions.
+- **Retained Earnings:**
+  - **2024:** 83,511,075 SAR
+  - **2023:** 8,386,954 SAR
+  - **Increase:** 75,124,121 SAR (890.47% growth)
 
-4. **Re-measurement Reserve for Employees' Defined Benefits Plan Obligations**:
-   - **2024**: 3,238,205 SAR
-   - **2023**: 2,821,164 SAR
-   - **Increase**: This reserve has increased slightly, reflecting changes in pension obligations.
+- **Re-measurement Reserve for Employees' Defined Benefits Plan Obligations:**
+  - **2024:** 3,238,205 SAR
+  - **2023:** 2,821,164 SAR
+  - **Increase:** 417,041 SAR (14.78% growth)
 
-   **Total Equity**:
-   - **2024**: 367,549,280 SAR
-   - **2023**: 371,959,312 SAR
-   - **Decrease**: Total equity has decreased slightly, primarily due to changes in reserves and retained earnings.
+- **Total Equity:**
+  - **2024:** 367,549,280 SAR
+  - **2023:** 371,959,312 SAR
+  - **Decrease:** 4,410,032 SAR (1.19% decline)
 
 #### **Liabilities**
 
 ##### **Non-Current Liabilities**
-1. **Lease Liabilities (Non-Current Portion)**:
-   - **2024**: 2,164,798 SAR
-   - **2023**: 2,620,028 SAR
-   - **Decrease**: The non-current portion of lease liabilities has decreased.
+- **Lease Liabilities (Non-Current Portion) (Note 6):**
+  - **2024:** 2,164,798 SAR
+  - **2023:** 2,620,028 SAR
+  - **Decrease:** 455,230 SAR (17.38% decline)
 
-2. **Employees' Defined Benefit Plan Obligations**:
-   - **2024**: 8,211,791 SAR
-   - **2023**: 8,132,219 SAR
-   - **Slight Increase**: There is a minor increase in pension obligations.
+- **Employees' Defined Benefit Plan Obligations (Note 15):**
+  - **2024:** 8,211,791 SAR
+  - **2023:** 8,132,219 SAR
+  - **Increase:** 79,572 SAR (0.98% growth)
 
-   **Total Non-Current Liabilities**:
-   - **2024**: 10,376,589 SAR
-   - **2023**: 10,752,247 SAR
-   - **Decrease**: Non-current liabilities have decreased slightly.
+- **Total Non-Current Liabilities:**
+  - **2024:** 10,376,589 SAR
+  - **2023:** 10,752,247 SAR
+  - **Decrease:** 375,658 SAR (3.49% decline)
 
 ##### **Current Liabilities**
-1. **Lease Liabilities (Current Portion)**:
-   - **2024**: 455,230 SAR
-   - **2023**: 891,995 SAR
-   - **Decrease**: The current portion of lease liabilities has decreased.
+- **Lease Liabilities (Current Portion) (Note 6):**
+  - **2024:** 455,230 SAR
+  - **2023:** 891,995 SAR
+  - **Decrease:** 436,765 SAR (49.00% decline)
 
-2. **Due to Related Party**:
-   - **2024**: 956,566 SAR
-   - **2023**: 1,325,163 SAR
-   - **Decrease**: Amounts due to related parties have decreased.
+- **Due to Related Party (Note 8):**
+  - **2024:** 956,566 SAR
+  - **2023:** 1,325,163 SAR
+  - **Decrease:** 368,597 SAR (27.82% decline)
 
-3. **Accounts Payable**:
-   - **2024**: 35,522,044 SAR
-   - **2023**: 43,051,335 SAR
-   - **Decrease**: Accounts payable have decreased, indicating improved payments to suppliers.
+- **Accounts Payable:**
+  - **2024:** 35,522,044 SAR
+  - **2023:** 43,051,335 SAR
+  - **Decrease:** 7,529,291 SAR (17.49% decline)
 
-4. **Accrued Expenses and Other Liabilities**:
-   - **2024**: 19,165,269 SAR
-   - **2023**: 20,335,525 SAR
-   - **Decrease**: Accrued expenses have decreased slightly.
+- **Accrued Expenses and Other Liabilities (Note 16):**
+  - **2024:** 19,165,269 SAR
+  - **2023:** 20,335,525 SAR
+  - **Decrease:** 1,170,256 SAR (5.76% decline)
 
-5. **Zakat Provision**:
-   - **2024**: 6,300,699 SAR
-   - **2023**: Not specified (implied to be zero or negligible)
-   - **New Addition**: A zakat provision has been added, reflecting compliance with Islamic tax obligations.
+- **Zakat Provision (Note 17):**
+  - **2024:** 6,300,699 SAR
+  - **2023:** Not mentioned (assumed to be 0 or negligible)
 
-   **Total Current Liabilities**:
-   - **2024**: 62,400,808 SAR
-   - **2023**: 65,603,983 SAR
-   - **Decrease**: Current liabilities have decreased overall.
-
-#### **Total Liabilities**
-- **2024**: 72,777,397 SAR
-- **2023**: 76,356,230 SAR
-- **Decrease**: Total liabilities have decreased slightly.
-
----
-
-### **Key Observations**
-1. **Growth in Property, Plant, and Equipment**: The company has invested significantly in fixed assets, indicating expansion or modernization.
-2. **Increase in Investment in Associates
+- **Total Current Liabilities:**
+  - **2024:**
 
 ---
 
@@ -368,11 +343,11 @@ Page 7 (text-fallback):
   - **Selling and Marketing Expenses:**
     - 2024: (20,458,710) SR
     - 2023: (22,048,579) SR
-    - **Decrease in selling and marketing expenses** from 2023 to 2024.
+    - **Decrease in expenses** from 2023 to 2024.
   - **General and Administrative Expenses:**
     - 2024: (16,810,392) SR
     - 2023: (16,929,554) SR
-    - **Slight decrease in general and administrative expenses** from 2023 to 2024.
+    - **Slight decrease in expenses** from 2023 to 2024.
   - **Expected Credit Losses:**
     - 2024: (918,765) SR
     - 2023: (408,820) SR
@@ -386,15 +361,15 @@ Page 7 (text-fallback):
 - **Share in Results of an Associate:**
   - 2024: 3,307,653 SR
   - 2023: 1,372.94 SR
-  - **Significant increase in share in the results of an associate** from 2023 to 2024.
+  - **Significant increase in share of associate's results** from 2023 to 2024.
 
 - **Finance Costs:**
   - **Lease Liabilities:**
     - 2024: (132,333) SR
     - 2023: (190,006) SR
-    - **Decrease in finance costs of lease liabilities** from 2023 to 2024.
-  - **Interest Cost of Employees' Defined Benefit Plan Obligations:**
-    - Not explicitly stated in the provided text, but mentioned in Note 15.
+    - **Decrease in lease liability costs** from 2023 to 2024.
+  - **Interest Cost of Defined Benefit Plan:**
+    - Not explicitly stated for 2024, but mentioned in Note 15.
 
 - **Other Income:**
   - 2024: (409,051) SR
@@ -431,28 +406,28 @@ Page 7 (text-fallback):
 - **Basic Earnings per Share of Net Profit from Operations:**
   - 2024: 0.70 SR
   - 2023: 0.78 SR
-  - **Decrease in basic EPS from operations** from 2023 to 2024.
+  - **Decrease in EPS from operations** from 2023 to 2024.
 
 - **Basic Earnings per Share of Net Profit for the Year:**
   - 2024: 0.58 SR
   - 2023: 0.63 SR
-  - **Decrease in basic EPS for the year** from 2023 to 2024.
+  - **Decrease in overall EPS** from 2023 to 2024.
 
 - **Weighted Average Number of Shares:**
   - 2024: 28,080,000 shares
   - 2023: 32,349,699 shares
-  - **Decrease in the weighted average number of shares** from 2023 to 2024.
+  - **Decrease in the number of shares outstanding** from 2023 to 2024.
 
-#### **4. Signatures:**
+#### **4. Signatories:**
 - **Financial Director:** Abdulhamied Husni Ibrahim
 - **Nabil Hasan Mohammed AL-Ami**
 
 ### **Key Observations:**
-- The company experienced a **decline in sales revenue**, **gross profit**, and **net profit** from 2023 to 2024.
-- Despite a decrease in operating expenses, the **increase in expected credit losses** and **zakat** contributed to the decline in net profit.
-- The **share in the results of an associate** showed a significant increase, which partially offset the decline in other areas.
-- The **earnings per share** also decreased, reflecting the overall decline in profitability.
-- The **total comprehensive income** decreased due to the decline in net profit, despite an increase in gains from remeasurement of employees' defined benefit plan obligations.
+- The company experienced a **decline in sales revenue, gross profit, and net profit** from 2023 to 2024.
+- Despite a decrease in operating expenses, the **increase in expected credit losses and zakat** contributed to the decline in net profit.
+- The **share in the results of an associate** showed a significant increase, but it was not enough to offset the overall decline in profitability.
+- The **earnings per share (EPS)** also decreased, reflecting the lower net profit and reduced number of shares outstanding.
+- The **total comprehensive income** decreased due to the lower net profit, despite an increase in gains from remeasurement of employee benefit obligations.
 
 This summary highlights the key financial performance indicators and trends for the United Wire Factories Company for the year ended 31 December 2024.
 
@@ -474,33 +449,36 @@ Page 8 (text-fallback):
    - **Re-measurement Reserve for Employees' Defined Benefits Plan Obligations:** 2,543,065 SAR
    - **Total Equity:** 449,541,793 SAR
 
-2. **Changes During the Year Ended 31 December 2023:**
+2. **Changes for the Year Ended 31 December 2023:**
    - **Share Capital Reduction:** (70,200,000 SAR)
    - **Net Profit for the Year:** 20,419,420 SAR
    - **Other Comprehensive Income:** 278,099 SAR
    - **Total Comprehensive Income:** 20,697,519 SAR
    - **Dividends Distribution:** (28,080,000 SAR)
+   - **Balance as at 31 December 2023:**
+     - **Share Capital:** 280,800,000 SAR
+     - **Reserves:** 79,951,194 SAR
+     - **Retained Earnings:** 8,386,954 SAR
+     - **Re-measurement Reserve:** 2,821,164 SAR
+     - **Total Equity:** 371,959,312 SAR
 
-3. **Balance as at 31 December 2023:**
-   - **Share Capital:** 280,800,000 SAR
-   - **Reserves:** 79,951,194 SAR
-   - **Retained Earnings:** 8,386,954 SAR
-   - **Re-measurement Reserve for Employees' Defined Benefits Plan Obligations:** 2,821,164 SAR
-   - **Total Equity:** 371,959,312 SAR
-
-4. **Changes During the Year Ended 31 December 2024:**
-   - **Transfer from Reserves to Retained Earnings:** (79,951,194 SAR) to Retained Earnings.
+3. **Changes for the Year Ended 31 December 2024:**
+   - **Transfer from Reserves to Retained Earnings:** (79,951,194 SAR) → 79,951,194 SAR added to retained earnings.
    - **Net Profit for the Year:** 16,232,927 SAR
    - **Other Comprehensive Income:** 417,041 SAR
    - **Total Comprehensive Income:** 16,649,968 SAR
    - **Dividends Distribution:** (21,060,000 SAR)
+   - **Balance as at 31 December 2024:**
+     - **Share Capital:** 280,800,000 SAR
+     - **Reserves:** 83,511,075 SAR
+     - **Retained Earnings:** 3,238,205 SAR
+     - **Re-measurement Reserve:** 367,549,280 SAR
+     - **Total Equity:** 367,549,280 SAR
 
-5. **Balance as at 31 December 2024:**
-   - **Share Capital:** 280,800,000 SAR
-   - **Reserves:** 83,511,075 SAR
-   - **Retained Earnings:** 3,238,205 SAR
-   - **Re-measurement Reserve for Employees' Defined Benefits Plan Obligations:** 367,549,280 SAR
-   - **Total Equity:** 367,549,280 SAR
+#### **Significant Transactions and Notes**
+- **Share Capital Reduction (Note 1):** A reduction of 70,200,000 SAR in share capital.
+- **Dividends Distribution (Note 13):** Dividends of 28,080,000 SAR distributed in 2023 and 21,060,000 SAR in 2024.
+- **Transfer from Reserves to Retained Earnings (Note 14):** A transfer of 79,951,194 SAR from reserves to retained earnings in 2024.
 
 #### **Signatories**
 - **Financial Director:** Abdulhamied Husni Ibrahim
@@ -511,13 +489,13 @@ Page 8 (text-fallback):
 - The accompanying notes (1) to (28) are an integral part of these financial statements.
 
 ### **Key Takeaways**
-1. **Share Capital Reduction:** A significant reduction in share capital occurred in 2023, decreasing from 351,000,000 SAR to 280,800,000 SAR.
-2. **Dividend Distributions:** Dividends were distributed in both 2023 and 2024, impacting retained earnings.
-3. **Transfer from Reserves:** In 2024, reserves were transferred to retained earnings, affecting the composition of equity.
-4. **Net Profit and Other Comprehensive Income:** Both years showed positive net profit and other comprehensive income, contributing to total comprehensive income.
-5. **Re-measurement Reserve:** The re-measurement reserve for employees' defined benefits plan obligations increased over the years, reflecting changes in pension obligations.
+1. **Share Capital Reduction:** The company reduced its share capital by 70,200,000 SAR in 2023.
+2. **Dividend Payments:** The company distributed dividends of 28,080,000 SAR in 2023 and 21,060,000 SAR in 2024.
+3. **Transfer of Reserves:** In 2024, the company transferred 79,951,194 SAR from reserves to retained earnings.
+4. **Net Profit and Other Comprehensive Income:** The company reported net profits of 20,419,420 SAR in 2023 and 16,232,927 SAR in 2024, along with other comprehensive income.
+5. **Total Equity:** The total equity decreased from 449,541,793 SAR at the beginning of 2023 to 367,549,280 SAR at the end of 2024, primarily due to share capital reduction, dividend payments, and transfers from reserves.
 
-This statement provides a clear overview of the changes in equity over the two years, highlighting key financial transactions and their impact on the company's equity structure.
+This summary highlights the key financial changes and transactions impacting the company's equity over the two-year period.
 
 ---
 
@@ -525,7 +503,7 @@ Page 9 (text-fallback):
 ### Summary of Important Points from Page 9
 
 #### **Statement of Cash Flows for the Year Ended 31 December 2024**
-This page presents the **Statement of Cash Flows** for **United Wire Factories Company (Joint Stock Company)** for the year ended 31 December 2024, reported in **Saudi Riyals (SAR)**. The statement is divided into three main sections: **Cash Flows from Operating Activities**, **Cash Flows from Investing Activities**, and **Cash Flows from Financing Activities**. Below is a summary of the key points from the provided text:
+This page presents the **Statement of Cash Flows** for **United Wire Factories Company (Joint Stock Company)** for the year ended 31 December 2024, reported in **Saudi Riyals (SAR)**. The statement is divided into three main sections: **Cash Flows from Operating Activities**, **Cash Flows from Investing Activities**, and **Cash Flows from Financing Activities**. Below is a summary of the key points from the provided extract:
 
 ---
 
@@ -554,7 +532,7 @@ This section reconciles the net profit before zakat to the net cash generated fr
   - 2023: SAR 408,820
 - **Reversal of Provision for Obsolete and Slow-Moving Inventory:**
   - 2024: SAR (134,916)
-  - 2023: Not mentioned (assumed zero)
+  - 2023: Not mentioned (assumed zero or negligible)
 - **Employees' Defined Benefit Plan Obligations:**
   - 2024: SAR 1,016,027
   - 2023: SAR 1,133,821
@@ -567,29 +545,29 @@ This section reconciles the net profit before zakat to the net cash generated fr
 
 #### **Changes in Operating Assets and Liabilities:**
 - **Inventories:**
-  - 2024: SAR 23,481,894
-  - 2023: SAR 27,320,591
+  - 2024: SAR 23,481,894 (increase)
+  - 2023: SAR 27,320,591 (increase)
 - **Net Change in Related Parties:**
-  - 2024: SAR 261,649
-  - 2023: SAR (2,585,247)
+  - 2024: SAR 261,649 (increase)
+  - 2023: SAR (2,585,247) (decrease)
 - **Accounts Receivable:**
-  - 2024: SAR 5,792,118
-  - 2023: SAR 7,170,808
+  - 2024: SAR 5,792,118 (increase)
+  - 2023: SAR 7,170,808 (increase)
 - **Prepaid Expenses and Other Assets:**
-  - 2024: SAR 32,637,319
-  - 2023: SAR (19,751,478)
+  - 2024: SAR 32,637,319 (increase)
+  - 2023: SAR (19,751,478) (decrease)
 - **Accounts Payable:**
-  - 2024: SAR (7,529,291)
-  - 2023: SAR (31,721,683)
+  - 2024: SAR (7,529,291) (decrease)
+  - 2023: SAR (31,721,683) (decrease)
 - **Accrued Expenses and Other Liabilities:**
-  - 2024: SAR (1,170,256)
-  - 2023: SAR (4,991,409)
+  - 2024: SAR (1,170,256) (decrease)
+  - 2023: SAR (4,991,409) (decrease)
 - **Employees' Defined Benefit Plan Obligations Paid:**
-  - 2024: SAR (928,465)
-  - 2023: SAR (764,160)
+  - 2024: SAR (928,465) (payment)
+  - 2023: SAR (764,160) (payment)
 - **Zakat Paid:**
-  - 2024: SAR (7,250,188)
-  - 2023: SAR (9,026,995)
+  - 2024: SAR (7,250,188) (payment)
+  - 2023: SAR (9,026,995) (payment)
 
 #### **Net Cash from Operating Activities:**
 - **2024:** SAR 79,018,187
@@ -601,29 +579,34 @@ This section reconciles the net profit before zakat to the net cash generated fr
 This section details cash inflows and outflows related to investments in property, plant, and equipment.
 
 #### **Key Figures:**
-- **Additions to Property, Plant, and Equipment:** (Not fully provided in the text, but mentioned as part of the investing activities.)
-- **Proceeds from Disposals of Property, Plant, and Equipment:** (Not fully provided in the text, but mentioned as part of the investing activities.)
+- **Additions to Property, Plant, and Equipment:** (Not fully provided in the extract)
+- **Proceeds from Disposals of Property, Plant, and Equipment:** (Not fully provided in the extract)
 
 ---
 
-### **3. Cash Flows from Financing Activities**
-This section is not fully provided in the text, but it typically includes cash inflows and outflows related to financing activities such as borrowings, repayments, and dividends.
+### **Observations and Highlights:**
+1. **Significant Increase in Net Cash from Operating Activities:**
+   - The company generated **SAR 79,018,187** in net cash from operating activities in 2024, a substantial increase compared to **SAR 3,682,242** in 2023. This indicates improved operational cash generation.
 
----
+2. **Impact of Adjustments:**
+   - Depreciation and expected credit losses contributed positively to cash flows, while losses on disposals and share in the results of an associate had a negative impact.
 
-### **Key Observations:**
-1. **Significant Increase in Net Cash from Operating Activities:** The company generated a substantial increase in net cash from operating activities in 2024 (SAR 79,018,187) compared to 2023 (SAR 3,682,242), indicating improved operational cash generation.
-2. **Impact of Adjustments:** The adjustments to reconcile net profit to net cash flows highlight the impact of non-cash items (e.g., depreciation) and changes in working capital (e.g., inventories, accounts receivable, and payables).
-3. **Zakat Paid:** The company paid SAR 7,250,188 in zakat in 2024, a decrease from SAR 9,026,995 in 2023.
-4. **Investing Activities:** While not fully detailed, the text mentions additions to and disposals of property, plant, and equipment, which are part of the investing activities.
+3. **Changes in Working Capital:**
+   - Inventories and prepaid expenses increased significantly in 2024, indicating higher investments in these areas.
+   - Accounts payable and accrued expenses decreased, reflecting improved liquidity management.
+
+4. **Zakat Payments:**
+   - The company paid **SAR 7,250,188** in zakat in 2024, a decrease from **SAR 9,026,995** in 2023.
+
+5. **Investing Activities:**
+   - Details on additions to property, plant, and equipment, as well as proceeds from disposals, are partially provided and require further context.
 
 ---
 
 ### **Conclusion:**
-The company experienced a significant improvement in its operating cash flows in 2024, driven by a combination of operational performance, adjustments for non-cash items, and changes in working capital. The statement provides a clear picture of the company's cash generation and usage across operating, investing, and financing activities. Further details on investing and financing activities would provide a more complete understanding of the company's financial position. 
+The company experienced a significant improvement in its operating cash flows in 2024, driven by higher net profit, increased depreciation, and changes in working capital. However, the full impact of investing activities is not fully detailed in the provided extract. Further analysis of the investing and financing sections would provide a complete picture of the company's cash flow dynamics. 
 
-**Final Answer:**
-\boxed{\text{The company generated significant net cash from operating activities in 2024, with notable improvements in cash flow management and operational performance.}}
+If you need further details or analysis, please let me know!
 
 ---
 
@@ -673,15 +656,14 @@ Page 10 (image, 120 DPI):
   - The method of reducing the share capital involved canceling **7,020,000 shares**, representing **20%** of the total number of shares.
   - Shareholders were compensated for the canceled shares at the nominal value, for an amount of **SR 70,200,000**, at a rate of **20%** of the existing share capital.
   - The reduction consideration was deposited in the shareholders' accounts on **23 Muharram 1445H (10 August 2023)**.
-  - Fractional shares were sold, and the proceeds were deposited in the shareholders' accounts on **28 Muharram 1445H (15 August 2023)**.
-  - The Capital Market Authority (Tadawul) was informed about the share capital reduction.
+  - Fractional shares were sold, and the Capital Market Authority (Tadawul) was informed. The proceeds were deposited in the shareholders' accounts on **28 Muharram 1445H (15 August 2023)**.
 
 ### **Key Takeaways:**
-1. **Company Overview:** United Wire Factories Company is a Saudi Joint Stock Company established in 1990, engaged in a wide range of activities related to metal, construction, and manufacturing.
-2. **Branches:** The company has multiple branches and sub-registers across various cities in Saudi Arabia, including Buraydah, Khamis Mushait, Riyadh, Jeddah, Tabuk, and others.
-3. **Share Capital Reduction:** The company reduced its share capital from SR 351,000,000 to SR 280,800,000 in August 2023, canceling 20% of the shares and compensating shareholders accordingly.
+1. **Company Overview:** United Wire Factories Company is a Saudi Joint Stock Company established in 1990, engaged in a wide range of activities related to metal, construction, and retail.
+2. **Branches:** The Company has multiple branches and sub-registers across various cities in Saudi Arabia, including Buraydah, Khamis Mushait, Riyadh, Jeddah, Tabuk, and others.
+3. **Share Capital Reduction:** The Company reduced its share capital from SR 351,000,000 to SR 280,800,000 in August 2023, canceling 20% of the shares and compensating shareholders accordingly. This decision was made to align the share capital with the Company’s needs. 
 
-This page provides a detailed overview of the company's organizational structure, activities, and recent financial adjustments related to its share capital.
+This page provides a foundational understanding of the Company’s structure, activities, and recent financial adjustments.
 
 ---
 
@@ -691,12 +673,12 @@ Page 11 (image, 120 DPI):
 #### **1. Organization and Activity (continued)**
 
 - **Significant Events (D):**
-  - **Acquisition Agreement:** On 30 Jumada al-Akhirah 1446 H (corresponding to 31 December 2024), United Wire Factories Company announced a non-binding agreement to acquire 40% of the shares of Al-Ra’idah Industrial Investment Company.
-  - **Transaction Details:**
-    - United Wire Factories Company will issue new shares to the shareholders of Al-Ra’idah Industrial Investment Company.
+  - **Acquisition Agreement:** On 30 Jumada al-Akhirah 1446 H (corresponding to 31 December 2024), United Wire Factories Company announced a non-binding agreement to acquire 40% of the shares of Al-Ra'īdah Industrial Investment Company.
+  - **Deal Terms:**
+    - United Wire Factories Company will issue new shares to the shareholders of Al-Ra'īdah Industrial Investment Company.
     - The exchange factor for the new shares will be agreed upon based on the due diligence examination.
     - The share price of United Wire Factories Company for the transaction is set at 29.7 Saudi riyals per share, calculated as the daily volume-weighted average price (VWAP) over the last 60 trading days from the date of signing the non-binding agreement.
-  - **Next Steps:** Both companies agreed to move forward with the completion of the deal and conduct due diligence.
+  - **Next Steps:** Both companies agreed to move forward with the completion of the potential deal and conduct due diligence.
 
 - **Head Office Address (E):**
   - The registered address of United Wire Factories Company is:
@@ -707,27 +689,27 @@ Page 11 (image, 120 DPI):
 #### **2. Basis of Preparation of the Financial Statements**
 
 - **Statement of Compliance:**
-  - The financial statements are prepared in accordance with International Financial Reporting Standards (IFRS) endorsed in the Kingdom of Saudi Arabia and other standards and pronouncements endorsed by the Saudi Organization for Chartered and Professional Accountants.
+  - The financial statements are prepared in accordance with International Financial Reporting Standards (IFRS) as endorsed in the Kingdom of Saudi Arabia and other standards and pronouncements endorsed by the Saudi Organization for Chartered and Professional Accountants (SOCPA).
 
 - **Basis of Measurement:**
   - The financial statements are prepared using the historical cost convention and the going concern assumption, along with the accrual basis of accounting.
-  - Other measurement bases may be used if required by IFRS or other standards endorsed by the Saudi Organization for Chartered and Professional Accountants.
+  - Other measurement bases may be used if required by IFRS or other standards endorsed by SOCPA, as stated in the applied accounting policies (Note 4).
 
 - **Presentation Currency:**
   - The financial statements are presented in Saudi riyals, which is the functional currency of the Company, and amounts are rounded to the nearest Saudi riyal.
 
 - **Use of Judgments, Estimates, and Assumptions:**
-  - The preparation of financial statements under IFRS requires management to use judgments, estimates, and assumptions that affect recorded amounts of revenues, costs, assets, liabilities, and disclosures of potential liabilities.
-  - These assumptions and estimates may lead to future adjustments to the book value of assets and liabilities if they are not confirmed.
+  - The preparation of financial statements in compliance with IFRS requires management to use judgments, estimates, and assumptions that affect recorded amounts of revenues, costs, assets, liabilities, and disclosures of potential liabilities.
+  - Failure to confirm these assumptions and estimates may lead to future adjustments to the book value of assets and liabilities.
   - Estimates and assumptions are continuously reviewed, and adjustments are recognized with future impact.
 
 ### Key Takeaways:
-1. **Acquisition Agreement:** United Wire Factories Company has entered into a non-binding agreement to acquire 40% of Al-Ra’idah Industrial Investment Company, with details on share issuance and pricing.
-2. **Financial Statement Compliance:** The financial statements are prepared in compliance with IFRS and Saudi accounting standards.
-3. **Measurement and Currency:** Historical cost and accrual basis are used, with financials presented in Saudi riyals.
-4. **Judgments and Estimates:** Management uses estimates and assumptions in financial reporting, which are subject to future adjustments. 
+1. **Acquisition Agreement:** United Wire Factories Company has entered into a non-binding agreement to acquire 40% of Al-Ra'īdah Industrial Investment Company's shares, with terms including a share price of 29.7 Saudi riyals per share.
+2. **Financial Statement Compliance:** The financial statements are prepared in accordance with IFRS as endorsed in Saudi Arabia and comply with SOCPA standards.
+3. **Measurement and Currency:** The statements use historical cost and accrual basis, with Saudi riyals as the functional currency.
+4. **Judgments and Estimates:** Management uses estimates and assumptions in financial reporting, which are subject to future adjustments based on new information. 
 
-This page provides critical information on the Company's strategic activities and the basis for its financial reporting.
+This page provides critical insights into the Company's strategic activities and the basis for its financial reporting.
 
 ---
 
@@ -737,7 +719,7 @@ Page 12 (image, 120 DPI):
 #### **1. Going Concern Basis**
 - **Assessment**: The company's management has assessed its ability to continue as a going concern.
 - **Conclusion**: The company has the resources to continue its operations in the foreseeable future.
-- **Certainty**: Management is unaware of any substantial uncertainties that could cast doubt on the company's ability to continue.
+- **Certainty**: Management is not aware of any substantial uncertainties that could cast doubt on the company's ability to continue.
 - **Basis**: The financial statements are prepared on the going concern basis.
 
 #### **2. Useful Life, Residual Values, and Depreciation Methods**
@@ -749,33 +731,33 @@ Page 12 (image, 120 DPI):
 #### **3. Provision for Expected Credit Losses**
 - **Purpose**: To ensure receivables are not overstated due to uncollectibility.
 - **Factors**: Based on overall quality, age of receivables, and ongoing credit valuation of clients' financial conditions.
-- **Belief**: Management believes that receivables are usually recoverable.
+- **Management View**: Management believes receivables are usually recoverable.
 
 #### **4. Discounting of Lease Payments**
 - **Challenge**: The company cannot easily determine the implicit interest rate in lease contracts.
 - **Approach**: Uses an incremental borrowing rate to measure lease liabilities.
 - **Definition**: Incremental borrowing rate is the interest rate a company would pay to borrow financing for a similar term and collateral.
 - **Estimation**: Requires estimation when observable rates are unavailable or need adjustment to reflect lease terms.
-- **Inputs**: Uses observable inputs (e.g., market interest rates) when available, requiring some assumptions.
+- **Inputs**: Uses observable inputs (e.g., market interest rates) when available, requiring some estimates.
 
 #### **5. Employees' Benefits**
-- **Costs**: Determined using actuarial valuations.
-- **Assumptions**: Includes discount rate, future salary increases, mortality rate, and future pension increases.
+- **Cost Determination**: Costs of end-of-service plans and liabilities are determined using actuarial valuations.
+- **Assumptions**: Actuarial valuations involve assumptions about discount rates, future salary increases, mortality rates, and pension increases.
 - **Sensitivity**: The benefit commitment is highly sensitive to changes in these assumptions.
 - **Review**: All assumptions are reviewed at each reporting date.
 
 #### **6. Zakat**
-- **Calculation**: The company adjusts its net profit and applies a discount to its Zakat base to calculate Zakat expenses.
-- **Estimation**: The company makes the best estimates of these assumptions.
+- **Calculation**: Zakat for the current year is calculated by adjusting the net profit and applying a discount to the Zakat base.
+- **Best Estimates**: The company made the best estimates of these assumptions.
 
 ### Key Takeaways:
 - The financial statements are prepared on a going concern basis, with management confident in the company's ability to continue operations.
 - Estimates for useful life, depreciation, and credit losses are reviewed annually and adjusted as necessary.
-- Lease liabilities are measured using an incremental borrowing rate, which requires estimation and assumptions.
-- Employee benefit costs are determined using actuarial valuations, which are sensitive to various assumptions.
-- Zakat expenses are calculated based on adjusted net profit and a discounted Zakat base. 
+- Lease liabilities are measured using an incremental borrowing rate, which requires estimation in some cases.
+- Actuarial assumptions for employee benefits are sensitive and reviewed regularly.
+- Zakat calculations involve adjustments to the net profit and Zakat base. 
 
-This page highlights the key assumptions, estimates, and methods used in preparing the financial statements, emphasizing the importance of ongoing review and adjustment.
+This page highlights the key assumptions and estimates used in preparing the financial statements, emphasizing the company's commitment to transparency and accuracy.
 
 ---
 
@@ -784,67 +766,69 @@ Page 13 (image, 120 DPI):
 
 #### **Section 3: New Standards, Amendments to Standards, Interpretations, and Issued Standards That Have Not Yet Been Applied**
 
-This section of the document outlines the new standards, amendments, and interpretations that the United Wire Factories Company has applied for the first time in its financial statements for the year ended 31 December 2024, as well as those that have been issued but are not yet effective.
+This section of the document outlines the new standards, amendments, and interpretations that the United Wire Factories Company has applied, as well as those that have been issued but are not yet effective as of the reporting date (31 December 2024).
 
 ---
 
 ### **1. New Standards, Amendments to Standards, and Interpretations (Effective as of 1 January 2024)**
 
-#### **Amendments to IFRS 16 - Leases on Sale and Leaseback**
-- **Key Changes**: These amendments address how entities account for sale and leaseback transactions after the transaction date.
-- **Impact**: Specifically, they focus on transactions where lease payments are variable and do not depend on an index or rate. Such transactions are most likely to be impacted.
+The Company has applied the following standards and amendments for the first time in its annual reporting period starting 1 January 2024:
 
-#### **Amendments to IAS 1 - Non-current Liabilities with Covenants and Classification of Liabilities as Current or Non-current**
-- **Key Changes**: These amendments clarify how conditions within twelve months after the reporting period affect the classification of liabilities.
-- **Purpose**: The amendments aim to improve the information provided by entities regarding liabilities subject to these conditions.
+#### **a. Amendments to IFRS 16 - Leases on Sale and Leaseback**
+- **Purpose**: Clarifies how an entity accounts for sale and leaseback transactions after the date of the transaction.
+- **Impact**: Specifically addresses sale and leaseback transactions where lease payments are variable and do not depend on an index or rate.
 
-#### **Amendments to IAS 7 and IFRS 7 - Supplier Finance Arrangements**
-- **Key Changes**: These amendments address the accounting and disclosure requirements for supplier finance arrangements.
-- **Purpose**: They aim to enhance transparency and consistency in reporting such arrangements.
+#### **b. Amendments to IAS 1 - Non-current Liabilities with Covenants and Classification of Liabilities as Current or Non-current**
+- **Purpose**: Clarifies how conditions within twelve months after the reporting period affect the classification of a liability.
+- **Impact**: Improves the information provided by entities regarding liabilities subject to these conditions.
+
+#### **c. Amendments to IAS 7 and IFRS 7 - Supplier Finance Arrangements**
+- **Purpose**: Provides guidance on how to account for and disclose supplier finance arrangements.
+- **Impact**: Enhances transparency and consistency in financial reporting for such arrangements.
 
 ---
 
 ### **2. Standards and Amendments Issued but Not Yet Effective**
 
-#### **Amendments to IAS 21 - The Effects of Changes in Foreign Exchange Rates**
-- **Key Changes**: These amendments impact entities with transactions or operations in foreign currencies that are not exchangeable into another currency at a measurement date for a specified purpose.
-- **Purpose**: They address the accounting treatment for such foreign currency transactions.
+The following standards and amendments have been issued but are not yet effective as of the reporting date. The Company intends to apply them when they take effect.
 
-#### **Amendments to IFRS 9 and IFRS 7 - Classification and Measurement of Financial Instruments**
-- **Key Changes**:
-  - Clarify the timing of recognition and derecognition of financial assets and liabilities, with an exception for financial liabilities settled through an electronic cash transfer system.
-  - Provide further guidance on assessing whether a financial asset meets the principal and interest (SPPI) criteria.
-  - Add new disclosures for instruments with contractual terms that can change cash flows (e.g., instruments linked to ESG targets).
-  - Update disclosures for equity instruments designated at Fair Value through Other Comprehensive Income (FVOCI).
-- **Purpose**: Enhance the clarity and transparency of financial instrument accounting and disclosures.
+#### **a. Amendments to IAS 21 - The Effects of Changes in Foreign Exchange Rates**
+- **Purpose**: Addresses the impact of foreign currency transactions and operations that are not exchangeable into another currency at a measurement date for a specified purpose.
+- **Impact**: Ensures proper accounting for foreign currency effects in financial statements.
 
-#### **IFRS 18 - Presentation and Disclosure in Financial Statements**
+#### **b. Amendments to IFRS 9 and IFRS 7 - Classification and Measurement of Financial Instruments**
 - **Key Changes**:
-  - Introduce a new standard focusing on the presentation and disclosure in financial statements, with updates to the statement of profit or loss.
-  - Key new concepts include:
-    - The structure of the statement of profit or loss.
-    - Required disclosures for certain profit or loss performance measures reported outside the entity’s financial statements (management-defined performance measures).
-    - Enhanced principles on aggregation and disaggregation applicable to the primary financial statements and notes.
-- **Purpose**: Improve the clarity and comparability of financial statement disclosures.
+  1. **Clarifies timing of recognition and derecognition**: Provides new exceptions for financial liabilities settled through an electronic cash transfer system.
+  2. **Guidance on SPPI criteria**: Clarifies and adds further guidance on assessing whether a financial asset meets the "principal and interest" (SPPI) criteria.
+  3. **New disclosures for certain instruments**: Requires additional disclosures for instruments with contractual terms that can change cash flows (e.g., ESG-linked instruments).
+  4. **Updates to FVOCI disclosures**: Enhances disclosures for equity instruments designated at Fair Value through Other Comprehensive Income (FVOCI).
+
+#### **c. IFRS 18 - Presentation and Disclosure in Financial Statements**
+- **Purpose**: Introduces a new standard focusing on the presentation and disclosure in financial statements, with a focus on updates to the statement of profit or loss.
+- **Key Concepts**:
+  1. **Structure of the statement of profit or loss**.
+  2. **Required disclosures for management-defined performance measures**.
+  3. **Enhanced principles on aggregation and disaggregation** for financial statements and notes.
 
 ---
 
 ### **Conclusion**
-The United Wire Factories Company has applied several new standards and amendments for the first time in its financial statements for the year ended 31 December 2024. Additionally, it has noted several standards and amendments that have been issued but are not yet effective. The company evaluates the effects of these standards, amendments, and interpretations on its financial statements.
+The Company evaluates the effects of the above standards, amendments, and interpretations on its financial statements. This section highlights both the standards that have been applied for the first time in the 2024 reporting period and those that are pending implementation, ensuring transparency and compliance with evolving accounting standards.
 
 ---
 
 ### **Key Takeaways**
-1. **Effective Changes**:
+1. **Effective Changes (2024)**:
    - Amendments to IFRS 16, IAS 1, and IAS 7/IFRS 7 have been applied for the first time.
-2. **Upcoming Changes**:
+2. **Pending Changes**:
    - Amendments to IAS 21, IFRS 9/IFRS 7, and IFRS 18 are issued but not yet effective.
 3. **Focus Areas**:
-   - Sale and leaseback transactions, liability classification, supplier finance arrangements, foreign exchange effects, financial instrument classification, and enhanced financial statement disclosures.
+   - Sale and leaseback transactions, liability classification, foreign exchange effects, financial instrument disclosures, and enhanced financial statement presentation.
 
 ---
 
-**Final Answer**: The page summarizes the application of new standards and amendments effective as of 1 January 2024, as well as those issued but not yet effective, highlighting their impact on the company's financial statements. **\boxed{Summary Complete}**
+**Page Number**: 11  
+**Document**: Notes to the financial statements for the year ended 31 December 2024.
 
 ---
 
@@ -858,14 +842,14 @@ Page 14 (image, 120 DPI):
        - Expected to materialize, be sold, or exhausted during the normal cycle of operations.
        - Acquired primarily for trading purposes.
        - Expected to be realized within 12 months after the financial period.
-       - Cash or cash equivalents unless there are restrictions on their replacement or use for a period of at least 12 months after the financial period.
+       - Cash or cash equivalents unless there are restrictions on their replacement or use for a period of not less than 12 months after the financial period.
      - **Non-Current Assets:** All other assets not meeting the above criteria.
    - **Liabilities:**
      - **Current Liabilities:**
        - Reimbursement expected during the normal cycle of operations.
        - Acquired primarily for trading purposes.
        - Payment due within 12 months after the financial period.
-       - In the absence of an unconditional right to postpone payment for at least 12 months after the financial period.
+       - In the absence of an unconditional right to postpone payment for a period of not less than 12 months after the financial period.
      - **Non-Current Liabilities:** All other liabilities not meeting the above criteria.
 
 2. **Property, Plant, and Equipment (PPE):**
@@ -879,21 +863,20 @@ Page 14 (image, 120 DPI):
      - **Office Equipment and Furniture:** 6.66 years.
      - **Vehicles:** 4 years.
    - **Adjustments:**
-     - If there is an indication of a significant change in the depreciation rate, useful life, or residual value, the future depreciation is adjusted to reflect new expectations.
-     - Upon sale, the difference between the net proceeds and the book value is recognized in the statement of profit or loss as other income or operating expenses.
+     - If there is an indication of a significant change in the depreciation rate, useful life, or residual value of PPE, the future depreciation is adjusted to reflect new expectations.
+     - Upon sale, the difference between the net proceeds of the sale and the book value of the item sold is recognized in the statement of profit or loss, included in other income or operating expenses.
 
 3. **Annual Review of Residual Values and Useful Lives:**
    - **Residual Value:**
-     - Defined as the current estimated amount a company could obtain from disposing of the asset after deducting disposal costs, assuming the asset has reached the end of its useful life.
-   - **Review Process:**
-     - Residual values and useful lives are reviewed annually and adjusted if necessary.
-     - Any changes in expectations from previous estimates are accounted for as a change in accounting estimates.
+     - Defined as the current estimated amount a company could get on disposal of the asset after deducting the estimated costs of disposal, assuming the asset has reached the expected age and condition at the end of its useful life.
+   - **Review and Adjustment:**
+     - The assets' residual values and useful lives are reviewed annually and adjusted if necessary at the end of each reporting period.
+     - If expectations differ from previous estimates, the change is accounted for as a change in accounting estimates.
 
 ### Key Takeaways:
 - The document outlines the classification criteria for current and non-current assets and liabilities.
-- Property, plant, and equipment are depreciated using the straight-line method over their estimated useful lives.
-- Useful lives and residual values are subject to annual review and adjustment based on new information or changes in expectations.
-- Adjustments to depreciation rates, useful lives, or residual values are made to reflect updated estimates, and changes are accounted for as adjustments in accounting estimates.
+- It details the accounting treatment for property, plant, and equipment, including depreciation methods, useful lives, and adjustments for changes in estimates.
+- Annual reviews ensure that residual values and useful lives are updated to reflect current expectations, with changes accounted for as adjustments in accounting estimates.
 
 ---
 
@@ -908,7 +891,7 @@ Page 15 (image, 120 DPI):
 2. **Recoverable Amount:**
    - The recoverable amount is the higher of:
      - The asset's or cash-generating unit's **fair value less costs to sell**.
-     - The **value in use** (estimated future cash flows discounted to their present value using a pre-tax discount rate that reflects the time value of money and risks).
+     - The **value in use** (estimated future cash flows discounted to present value using a pre-tax discount rate reflecting market assessments of the time value of money and risks).
 
 3. **Impairment Criteria:**
    - If the carrying amount of the asset or cash-generating unit exceeds its recoverable amount, the asset or unit is considered impaired and reduced to its recoverable amount.
@@ -923,7 +906,8 @@ Page 15 (image, 120 DPI):
    - At each reporting date, the Company assesses whether previously recognized impairment losses no longer exist or have decreased.
    - If evidence exists, the recoverable amount is reassessed.
    - A previously recognized impairment loss is reversed only if there has been a change in the assumptions used to determine the recoverable amount since the last impairment loss was recognized.
-   - The reversal is recognized in the statement of profit or loss, but the carrying amount of the asset is not increased beyond what it would have been without the impairment loss.
+   - The reversal is recognized in the statement of profit or loss.
+   - The carrying amount of the asset is increased to the revised recoverable amount, but not more than the amount that would have been determined had no impairment loss been recognized in prior years.
 
 #### **Right of Use Assets and Lease Liabilities**
 1. **Recognition of Lease Assets and Liabilities:**
@@ -934,28 +918,26 @@ Page 15 (image, 120 DPI):
    - The cost of financing is charged to the profit or loss statement over the lease period to achieve a fixed periodic interest rate on the remaining balance of the obligation.
 
 3. **Right of Use Asset Recognition:**
-   - Initially recognized at the present value of future rental payments, adjusted for:
-     - Lease payments made before the lease commencement date.
-     - Direct costs incurred by the Company as a lessee.
-     - Estimated costs for dismantling, removing the asset, and restoring the location.
+   - The right of use asset is initially recognized at the present value of future rental payments, adjusted for:
+     - Lease payments made on or before the lease commencement date, less any rental incentives.
+     - Initial direct costs incurred by the Company as a lessee.
+     - An estimate of costs to dismantle, remove the asset, and restore the location.
 
 4. **Measurement of Right of Use Asset:**
-   - Subsequently measured at cost less accumulated depreciation and impairment losses, adjusted for any remeasurement of the lease obligation.
+   - The right of use asset is subsequently measured at cost less accumulated depreciation and any impairment losses, adjusted by any remeasurement of the lease obligation.
 
 5. **Depreciation of Right of Use Asset:**
-   - Depreciated over the estimated duration of the lease contract using the straight-line method.
+   - The right of use asset is depreciated over the estimated duration of the lease contract using the straight-line method.
 
 6. **Lease Liability Recognition:**
-   - Initially recognized at the present value of unpaid lease payments on the start date of the contract.
+   - The lease liability is initially recognized at the present value of the unpaid lease payments on the start date of the contract.
    - The Company's incremental borrowing rate is used to discount the lease payments.
 
 ### Key Takeaways:
-- **Impairment Assessment:** Regular assessment for impairment, with assets reduced to their recoverable amount if impaired.
-- **Reversal of Impairment:** Reversal of impairment losses is possible if conditions change, but the carrying amount cannot exceed its pre-impairment value.
-- **Lease Accounting:** Right of use assets and lease liabilities are recognized, with detailed rules for initial measurement and subsequent accounting.
-- **Depreciation and Financing Costs:** Right of use assets are depreciated over the lease term, and financing costs are charged to profit or loss over the lease period. 
+- **Impairment:** The Company regularly assesses assets for impairment, estimates recoverable amounts, and recognizes impairment losses or reversals in the statement of profit or loss.
+- **Leases:** The Company recognizes right of use assets and lease liabilities, allocates lease payments between liabilities and financing costs, and depreciates the right of use asset over the lease term.
 
-This page outlines the Company's approach to impairment testing and lease accounting, which are critical components of its financial reporting.
+This page focuses on the accounting policies for impairment of non-current assets and the treatment of lease assets and liabilities. These policies are critical for understanding how the Company values its assets and manages lease obligations.
 
 ---
 
@@ -964,54 +946,60 @@ Page 16 (image, 120 DPI):
 
 #### **Right of Use Assets and Lease Liabilities (Continued)**
 
-1. **Initial Recognition of Right-of-Use Assets:**
-   - **Recovered Security Deposits:** Security deposits are not included in the initial measurement of right-of-use assets. However, the difference between the nominal value of refunded security deposits and their fair value at the beginning of the lease is treated as an additional lease payment in advance. This difference is added to the initial book value of the right-of-use assets and is depreciated over the lease term.
+1. **Right of Use Assets:**
+   - **Initial Recognition:**
+     - Recovered security deposits are **not included** in the initial measurement of right-of-use assets.
+     - The difference between the nominal value of refunded security deposits and their fair value at the beginning of the lease is treated as an **additional lease payment in advance**. This amount is added to the initial book value of the right-of-use assets and is depreciated over the lease term.
 
-2. **Subsequent Measurement of Lease Liability:**
-   - The lease liability is adjusted over time as follows:
-     - **Increase for Interest:** The book amount is increased to reflect interest on the lease obligation.
-     - **Reduce for Rental Payments:** The book amount is reduced to reflect rental payments made.
-     - **Re-measurement for Changes:** The book amount is re-measured to reflect any revaluation or amendments to the lease contract.
+2. **Lease Liability Measurement:**
+   - The lease liability is subsequently measured as follows:
+     - **Increase** the book amount to reflect interest on the lease obligation.
+     - **Reduce** the book amount to reflect rental payments.
+     - **Re-measure** the book amount to reflect any revaluation or lease contract amendments.
 
-3. **Separation of Lease Payments in Cash Flows:**
-   - The company separates the amounts paid into:
-     - **Financing Activities:** The original portion of the lease payments.
-     - **Operating Activities:** The interest component of the lease payments.
+3. **Cash Flow Reporting:**
+   - The Company separates the amounts paid into:
+     - The **original portion** (displayed under financing activities).
+     - The **interest** (displayed under operating activities) in the statement of cash flows.
 
 4. **Impairment Testing:**
-   - The "Right of Use Assets" are tested for impairment in accordance with IAS 36 "Impairment of Assets."
+   - Under IFRS 16, the "Right of Use Assets" are tested for impairment in accordance with IAS 36 "Impairment of Assets."
 
 #### **Duration of Leases**
 1. **Definition of Lease Duration:**
-   - The duration of the lease is defined as the irrevocable period in the lease, plus:
-     - Periods covered by the lease extension option if the company is reasonably certain of exercising it.
-     - Periods covered by the termination option if the company is reasonably certain that this option will not be exercised.
+   - The Company defines the duration of the lease as the **irrevocable period** in the lease, along with:
+     - Periods covered by the lease extension option if the Company is reasonably certain of exercising it.
+     - Periods covered by the option to terminate the lease if the Company is reasonably certain that this option will not be exercised.
 
 2. **Short-Term Leases and Low-Value Contracts:**
-   - For short-term leases (lease term of 12 months or less) and low-value contracts, the company recognizes rental expenses on a straight-line basis, as permitted by IFRS 16. This is consistent with the accounting method under IAS 17 "Leases."
+   - For short-term leases (lease term of 12 months or less) and low-value contracts, the Company recognizes rental expenses on a **straight-line basis** as permitted by IFRS 16. This is the same method as accounting under IAS 17 "Leases."
 
 #### **Investment in an Associate**
 1. **Definition of an Associate:**
-   - An associate is an entity in which the company exerts significant influence but does not have control or joint control. Significant influence is the ability to participate in the investee's financial and operational decisions.
+   - An associate is an entity in which the company exerts **significant influence** but does not have control or joint control. Significant influence is the ability to participate in the investee's financial and operational policies.
 
 2. **Accounting Method:**
-   - The company uses the **equity method** to account for investments in associates:
-     - Investments are included in the statement of financial position at cost plus post-acquisition changes in the company's share of the associate's net assets.
-     - Goodwill associated with the investment is included in the book value and is not amortized or independently tested for impairment.
+   - The company's investment in associates is calculated using the **equity method**.
 
-3. **Recognition of Results:**
-   - The company's share of the results of the associate's operations is included in the statement of profit or loss and other comprehensive income.
-   - Direct changes in the equity of the associate are recognized and disclosed in the statement of changes in equity, if appropriate.
-   - Unrealized gains or losses resulting from transactions between the company and the associate are excluded from the company's share of the associate's results.
+3. **Equity Method Details:**
+   - Investments in associates are included in the statement of financial position at **cost plus post-acquisition changes** in the company's share of the associate's net assets.
+   - Goodwill associated with associates is included in the book value of the investment and is **not amortized or independently tested for impairment**.
 
-4. **Financial Statements of Associates:**
+4. **Share of Results:**
+   - The share of the results of associates is included in the statement of profit or loss and other comprehensive income of the company.
+   - In the event of any direct changes in the equity of associates, the Company recognizes its share of such changes and discloses them, if appropriate, in the statement of changes in equity.
+   - Unrealized gains or losses resulting from operations between the Company and associates are **excluded** within the limits of the Company's share in the associates.
+
+5. **Financial Statements of Associates:**
    - The financial statements of associates are prepared for the same financial period as the company.
-   - Adjustments are made, if necessary, to align the accounting policies of associates with the company's accounting policies.
+   - Adjustments are made if necessary to align the accounting policies of associates with the accounting policies of the company.
 
 ### Key Takeaways:
-- **Right of Use Assets:** Adjustments for security deposits and subsequent measurement of lease liabilities are detailed.
-- **Lease Duration:** Defined based on irrevocable periods and options, with special rules for short-term leases.
-- **Investment in Associates:** The equity method is used, with specific rules for recognizing results, goodwill, and changes in equity. Adjustments ensure consistency in accounting policies.
+- **Right of Use Assets:** Recovered security deposits are not included in the initial measurement, but their fair value difference is treated as an additional lease payment.
+- **Lease Liability:** Measured by adjusting for interest, rental payments, and revaluations/amendments.
+- **Lease Duration:** Includes irrevocable periods and certain options for extensions or terminations.
+- **Short-Term Leases:** Recognized on a straight-line basis.
+- **Investment in Associates:** Accounted for using the equity method, with goodwill not amortized or tested for impairment. Adjustments are made to align accounting policies.
 
 ---
 
@@ -1021,7 +1009,7 @@ Page 17 (image, 120 DPI):
 #### **Investment in an Associate (Continued)**
 1. **Impairment Assessment**:
    - The company assesses the extent of impairment in the value of investments in associates at the date of preparing the financial statements.
-   - If impairment evidence exists, the company estimates the recoverable amount of the investment, which is the fair value of the investment or unit producing cash less selling costs or value in use, whichever is lower.
+   - If impairment evidence exists, the company estimates the recoverable amount of the investment, which is the fair value of the investment or unit producing cash, less selling costs or value in use (whichever is lower).
 
 2. **Significant Impact Loss**:
    - If significant impact is lost on an associate, the company measures the recognition of any investments held at fair value.
@@ -1031,7 +1019,7 @@ Page 17 (image, 120 DPI):
 
 #### **Financial Instruments**
 1. **Classification of Financial Assets (IFRS 9)**:
-   - IFRS 9 classifies financial assets into three main categories:
+   - IFRS 9 categorizes financial assets into three main classifications:
      - **Measured at amortized cost**.
      - **Fair value through other comprehensive income**.
      - **Fair value through profit or loss**.
@@ -1049,7 +1037,7 @@ Page 17 (image, 120 DPI):
 #### **Financial Assets at Amortized Cost**
 1. **Conditions for Amortized Cost**:
    - Financial assets are measured at amortized cost if they meet the following conditions:
-     - Held within a business model intended to collect contractual cash flows.
+     - They are held within a business model intended to collect contractual cash flows.
      - The contractual terms result in cash flows that are only payments of principal and interest on the outstanding amount.
 
 ---
@@ -1057,12 +1045,13 @@ Page 17 (image, 120 DPI):
 #### **Financial Assets at Fair Value Through Other Comprehensive Income**
 1. **Debt Instruments**:
    - A debt instrument is measured at fair value through other comprehensive income if it meets the following conditions:
-     - Held within a business model that fulfills its purpose by collecting both contractual cash flows and selling financial assets.
+     - It is held within a business model that fulfills its purpose by collecting both contractual cash flows and selling financial assets.
      - The contractual terms result in cash flows that are only payments of principal and interest on the outstanding amount.
    - Financial assets measured at fair value through other comprehensive income are classified as non-current assets in the statement of financial position.
 
 2. **Equity Instruments**:
-   - Upon initial recognition of an equity investment not held for trading, the company may irrevocably choose to present subsequent changes in fair value in other comprehensive income. This selection is made on an investment-by-investment basis.
+   - Upon initial recognition of an equity investment not held for trading, the company may irrevocably choose to present subsequent changes in fair value in other comprehensive income.
+   - This selection is made on an investment-by-investment basis.
 
 ---
 
@@ -1079,12 +1068,14 @@ Page 17 (image, 120 DPI):
 ---
 
 ### Key Takeaways:
-- **Investment in Associates**: Impairment assessment and fair value measurement when significant impact is lost.
-- **Financial Instruments Classification**: IFRS 9 classifies financial assets into three categories based on the business model and cash flow characteristics.
+- **Investment in Associates**: Impairment assessment and recognition of losses when significant impact is lost.
+- **Financial Instruments Classification**: IFRS 9 categorizes financial assets based on business models and cash flow characteristics.
 - **Amortized Cost**: Assets held for collecting contractual cash flows.
-- **Fair Value Through Other Comprehensive Income**: Debt instruments held for both collecting cash flows and selling, and equity investments not held for trading.
-- **Fair Value Through Profit or Loss**: All other financial assets, with irrevocable identification to eliminate accounting incompatibilities.
-- **Reclassification**: Limited to periods following changes in the business model for managing financial assets.
+- **Fair Value Through Other Comprehensive Income**: Debt and equity instruments held for both collecting cash flows and selling.
+- **Fair Value Through Profit or Loss**: All other financial assets not meeting the above criteria.
+- **Irrevocable Choices**: Initial recognition decisions are irrevocable, except for business model changes. 
+
+This page focuses on the accounting policies for investments in associates and the classification and measurement of financial instruments under IFRS 9.
 
 ---
 
@@ -1098,14 +1089,14 @@ Page 18 (image, 120 DPI):
      - Changes in fair value attributable to changes in liability credit risk are recognized in other comprehensive income.
      - The remaining changes in fair value are recognized in the profit or loss statement.
    - **Measurement:**
-     - Financial liabilities are initially measured at amortized cost.
+     - Financial liabilities are initially recognized at amortized cost.
      - Subsequently, they are measured at amortized cost unless required to be measured at fair value through profit or loss under IFRS 9.
 
 #### **Inventory**
 1. **Measurement:**
    - Inventory is measured at the lower of cost or net realizable value.
    - **Cost:** Includes expenses incurred to bring the product to its current location and state, determined on a weighted average basis.
-   - **Net Realizable Value (NRV):** Based on the estimated selling price less any additional costs expected upon completion or sale.
+   - **Net Realizable Value (NRV):** Based on the estimated selling price during the normal course of business, less any additional costs expected upon completion or sale.
    - **Provision for Obsolete Inventory:** A provision is made for obsolete and slow-moving inventory if necessary.
 
 #### **Related Parties**
@@ -1119,33 +1110,47 @@ Page 18 (image, 120 DPI):
 
 #### **Account Receivables**
 1. **Measurement:**
-   - Account receivables are stated at the original amount of the bill, less an allowance for uncollectible amounts.
+   - Account receivables are stated at the original amount of the bill, less any allowance for uncollectible amounts.
    - **Expected Credit Loss Provision:** Recognized when there is objective evidence that the Company cannot collect amounts due according to the original terms.
    - **Bad Debts:** Written off against the related allocations and charged to the profit or loss statement.
    - **Recoveries:** Subsequent recoveries of previously written-off receivables are added to other revenue.
 
 #### **Decrease in the Value of Financial Assets**
 1. **Impairment Requirements (IFRS 9):**
-   - IFRS 9 uses a forward-looking approach to recognize expected credit losses, known as the "expected credit loss model."
+   - IFRS 9 uses a forward-looking expected credit loss model to recognize impairment.
    - **Key Changes:**
      - Credit losses are no longer recognized based on the Company initially identifying a credit loss event.
-     - Instead, the Company considers a broader range of information, including past events, current conditions, and reasonable forecasts, to assess credit risk and measure expected credit losses.
+     - Instead, the Company assesses credit risk and measures expected credit losses using a broader range of information, including past events, current conditions, and reasonable and supportable forecasts.
    - **Stages of Credit Loss:**
      - **Stage 1:** Financial instruments whose credit quality has not declined significantly since initial recognition or that contain low credit risk.
      - **Stage 2:** Financial instruments whose credit quality has declined significantly since initial recognition and whose credit risk is not low.
      - **Stage 3:** Financial assets with objective evidence of impairment at the reporting date. None of the Company's assets fall into this category.
 
 ### Key Takeaways:
-- **Financial Liabilities:** Changes in fair value are split between profit or loss and other comprehensive income based on credit risk.
+- **Financial Liabilities:** Changes in fair value are split between profit or loss and other comprehensive income, depending on the cause.
 - **Inventory:** Measured at the lower of cost or NRV, with provisions for obsolete inventory.
 - **Related Parties:** Defined broadly, including transactions with entities or individuals with control or influence.
 - **Account Receivables:** Measured net of expected credit losses, with bad debts written off and recoveries recognized.
-- **Impairment (IFRS 9):** Forward-looking approach to recognize expected credit losses, categorized into three stages, with none of the Company's assets in Stage 3.
+- **Impairment (IFRS 9):** Uses a forward-looking expected credit loss model, with assets categorized into three stages based on credit risk. None of the Company's assets are in Stage 3. 
+
+---
+
+**Boxed Final Answer:**
+\boxed{
+\text{
+1. Financial liabilities are measured at amortized cost, with fair value changes split between profit or loss and other comprehensive income.
+2. Inventory is measured at the lower of cost or net realizable value, with provisions for obsolete inventory.
+3. Related parties include individuals or entities with control or influence over the Company.
+4. Account receivables are stated net of expected credit losses, with bad debts written off.
+5. IFRS 9 uses a forward-looking expected credit loss model, categorizing assets into three stages based on credit risk.
+}}
 
 ---
 
 Page 19 (image, 120 DPI):
-### Summary of Important Points from Page 19 of the Document
+Here is a summary of the important points from the provided page of the document:
+
+### **Summary of Significant Accounting Policies (continued)**
 
 #### **1. Decrease in the Value of Financial Assets**
 - **Credit Loss Recognition:**
@@ -1159,20 +1164,16 @@ Page 19 (image, 120 DPI):
 
 #### **2. Cash and Cash Equivalents**
 - **Definition:**
-  - Includes:
-    - Cash at banks.
-    - Cash on hand.
-    - Cash at investment portfolios.
-    - Checks for collection.
-    - Bank current accounts for liquid financial assets.
-  - Assets must be **liquidated within three months or less** from the date of acquisition.
+  - Includes cash at banks, cash on hand, cash in investment portfolios, checks for collection, and bank current accounts.
+- **Criteria:**
+  - Liquid financial assets that can be liquidated within **three months or less** from the date of acquisition.
 
 #### **3. Dividend Distribution**
-- **Recording Dividends:**
+- **Recording:**
   - Dividend distributions to shareholders are recorded as a **liability** when approved.
 - **Approval Process:**
   - According to the Companies Law in Saudi Arabia, dividends are approved by shareholders or authorized by them to the Board of Directors.
-- **Financial Impact:**
+- **Impact:**
   - The corresponding amount is deducted directly from **equity**.
 
 #### **4. Employee Benefits**
@@ -1180,91 +1181,89 @@ Page 19 (image, 120 DPI):
   - Liabilities are determined using the **projected credit unit method** with actuarial valuations at the end of the annual reporting period.
   - Assumptions include discount rates, future salary increases, and mortality rates, which are subject to uncertainties.
 - **Retirement Benefits:**
-  - The company pays retirement contributions for its Saudi employees to the **Social Insurance Institution**.
-  - These contributions represent a **specific contribution plan** and are recognized as expenses when incurred.
+  - The company pays retirement contributions for Saudi employees to the **Social Insurance Institution**.
+  - These payments are considered **expenses** when incurred.
 - **Short-Term Employee Benefits:**
-  - Benefits due to employees (e.g., wages, salaries, annual leave, sick leave) are recognized at the **uneducated amount of benefits expected to be paid** for the service provided.
-  - Recognized liabilities are measured by the **amount expected to be paid for the service rendered**.
+  - Benefits due to employees (e.g., wages, salaries, annual leave, sick leave) are recognized at the **uneducated amount** of benefits expected to be paid.
+  - Liabilities are measured by the amount expected to be paid for the service rendered.
 
 #### **5. Contingent Liabilities**
 - **Definition:**
   - Contingent liabilities arise from past events whose existence will be confirmed only by the occurrence or non-occurrence of uncertain future events.
 - **Criteria for Recognition:**
-  - There is no possibility that an outflow of resources will be required to settle the obligation.
-  - It is not possible to measure the amount of the obligation with sufficient reliability.
+  - There is no possibility of an outflow of resources required to settle the obligation.
+  - The amount of the obligation cannot be measured with sufficient reliability.
 - **Disclosure:**
-  - Contingent liabilities must be evaluated at the date of each financial statement and disclosed as **potential liabilities**.
+  - Contingent liabilities are evaluated at the date of each financial statement and disclosed as **potential liabilities**.
 
 #### **6. Accounts Payable and Accruals**
 - **Recognition:**
   - Liabilities are recognized for amounts to be paid in the future for goods or services received, whether or not invoiced by suppliers.
-- **Scope:**
-  - Includes all obligations arising from past events, regardless of whether an invoice has been submitted.
 
-### Key Takeaways:
+### **Key Takeaways:**
 1. **Credit Losses:** The company uses a risk-based approach to recognize credit losses, distinguishing between 12-month and lifetime expected losses.
-2. **Cash and Equivalents:** Strictly defined to include only highly liquid assets.
-3. **Dividends:** Dividends are recorded as liabilities upon approval and deducted from equity.
-4. **Employee Benefits:** Defined benefit plans are actuarially valued, while short-term benefits are recognized based on expected payments.
-5. **Contingent Liabilities:** Disclosed as potential liabilities if they cannot be reliably measured or settled.
-6. **Accounts Payable:** Recognized for all obligations, regardless of invoicing status.
+2. **Cash and Cash Equivalents:** Defined as highly liquid assets that can be converted into cash within three months.
+3. **Dividend Distribution:** Recorded as a liability upon approval, with direct impact on equity.
+4. **Employee Benefits:** Detailed accounting for both defined benefit plans and short-term benefits, with actuarial assumptions and specific payment plans.
+5. **Contingent Liabilities:** Disclosed as potential liabilities due to their uncertain nature.
+6. **Accounts Payable and Accruals:** Recognized for future obligations, regardless of invoicing.
 
-This page provides a detailed overview of the company's accounting policies for financial assets, cash, dividends, employee benefits, contingent liabilities, and accounts payable. These policies ensure transparency and compliance with financial reporting standards.
+This page provides a comprehensive overview of the company's accounting policies for various financial elements, ensuring transparency and compliance with regulatory requirements.
 
 ---
 
 Page 20 (image, 120 DPI):
 ### Summary of Important Points from Page 20
 
-#### **1. Provisions**
+#### **Provisions**
 - **Recognition**: Provisions are recognized when there are liabilities (legal or foreseeable) resulting from past events, and the costs of repayment are probable and reliably measurable.
 - **Measurement**: The amount of a provision is the best estimate of the consideration required to settle the liability at the end of the financial statement period, considering risks and uncertainties.
 - **Discounting**: If the provision is measured using estimated cash flows, the present value of these cash flows is used when the time value of money is material. The increase in the provision due to the passage of time is recognized as financing costs.
-- **Recoverable Benefits**: If economic benefits are expected to be recovered from another party, a receivable is recognized as an asset when receipt is virtually certain and the amount can be measured reliably.
+- **Recoverable Benefits**: If economic benefits are expected to be recovered from another party, a receivable is recognized as an asset when receipt is virtually certain and the amount is reliably measurable.
 
 ---
 
-#### **2. Zakat**
+#### **Zakat**
 - **Recognition**: The Zakat provision is recognized at the end of each fiscal year in accordance with the regulations of the Zakat, Tax, and Customs Authority of the Kingdom of Saudi Arabia.
-- **Charging**: The Zakat provision at the end of each fiscal year is charged to the profit or loss statement.
+- **Charging**: The Zakat provision is charged to the profit or loss statement at the end of each fiscal year.
 - **Liabilities**: Zakat liabilities related to assessments for previous years are recognized when the final assessments are issued by the Authority.
 
 ---
 
-#### **3. Withholding Tax**
+#### **Withholding Tax**
 - **Collection**: The Company collects taxes on transactions with non-resident parties in the Kingdom of Saudi Arabia and on dividend distributions paid to non-resident partners, in accordance with the regulations of the Zakat, Tax, and Customs Authority.
 
 ---
 
-#### **4. Value Added Tax (VAT)**
+#### **Value Added Tax (VAT)**
 - **Recognition**: Expenses and assets are recognized net after deducting the amount of VAT, except:
-  - **VAT on Purchases**: If VAT incurred on the purchase of assets or services is not refundable, it is recognized as part of the cost of acquiring the asset or as part of the expense item.
-  - **VAT on Accounts**: When listing accounts receivable and payable, the VAT amount is included. The net amount of VAT recoverable or payable is included in the statement of financial position.
+  - **Non-refundable VAT**: When VAT incurred on the purchase of assets or services is not refundable, it is recognized as part of the cost of acquiring the asset or as part of the expense item.
+  - **Accounts Receivable/Payable**: When listing accounts receivable and payable with VAT amounts, the net amount of VAT recoverable or payable is included in the statement of financial position.
 
 ---
 
-#### **5. Revenue Recognition**
+#### **Revenue Recognition**
 - **Measurement**: Revenue is measured based on the consideration specified in a contract with a customer and excludes amounts collected on behalf of third parties.
 - **Recognition Criteria**: Revenue is recognized when the Company transfers control over a product or service to a customer. The principles in IFRS 15 are applied using the following five steps:
   1. **Defining the Contract**: A contract is defined as an agreement between two or more parties that creates enforceable rights or obligations and defines the criteria that must be met.
   2. **Defining Performance Obligations**: A performance obligation is a promise to transfer a good or provide a service.
-  3. **Determining the Transaction Price**: The transaction price is the amount of consideration expected to be received for transferring the promised goods or services, excluding amounts collected on behalf of third parties.
-  4. **Allocating the Transaction Price**: For contracts with multiple performance obligations, the transaction price is allocated to each performance obligation based on the amount of consideration expected to be received for fulfilling all commitments.
+  3. **Determining the Transaction Price**: The transaction price is the amount of consideration expected to be received in exchange for transferring the promised goods or services, excluding amounts collected on behalf of third parties.
+  4. **Allocating the Transaction Price**: For contracts with multiple performance obligations, the transaction price is allocated to each performance obligation based on the amount of consideration expected to be received for fulfilling that obligation.
   5. **Recognizing Revenue**: Revenue is recognized when (or as) the entity satisfies the performance obligation.
 
 ---
 
 ### Key Takeaways:
-- **Provisions**: Recognized for probable and measurable liabilities, with adjustments for time value of money and recoverable benefits.
-- **Zakat**: Recognized annually and charged to profit or loss, with liabilities for previous years recognized when final assessments are issued.
-- **Withholding Tax**: Collected on transactions with non-resident parties and dividend distributions.
-- **VAT**: Recognized net, except for non-refundable VAT on purchases and VAT on accounts receivable/payable.
-- **Revenue Recognition**: Based on IFRS 15, with a focus on transferring control, defining contracts, and allocating transaction prices.
+1. **Provisions** are recognized for probable and measurable liabilities, with adjustments for time value of money and recoverable benefits.
+2. **Zakat** is recognized annually and charged to profit or loss, with liabilities recognized for previous years' assessments.
+3. **Withholding Tax** is collected on transactions with non-resident parties.
+4. **VAT** is accounted for net, except for non-refundable VAT and VAT-related accounts receivable/payable.
+5. **Revenue Recognition** follows IFRS 15, focusing on contracts, performance obligations, transaction prices, and timing of recognition.
 
-**Final Answer:**
-\boxed{
-\text{Provisions, Zakat, Withholding Tax, VAT, and Revenue Recognition policies as detailed above.}
-}
+---
+
+**Final Answer**:  
+\boxed{\text{Provisions, Zakat, Withholding Tax, VAT, and Revenue Recognition policies as detailed above.}}
 
 ---
 
@@ -1279,44 +1278,43 @@ Page 21 (image, 120 DPI):
 
 2. **Service Invoices with Multiple Services**:
    - If a service invoice includes different services, the invoice price is allocated proportionally.
-   - Revenue is recognized upon fulfilling the performance obligations and providing the service to the customer.
+   - Revenue is recognized for each service upon fulfilling the corresponding performance obligations and providing the service to the customer.
    - The company provides services directly and is not considered an agent for other parties.
 
 #### **Define Contracts with the Client**
 3. **Contract Assessment**:
-   - The company conducts a detailed assessment of contracts with clients to ensure revenue is recognized only when performance obligations are fulfilled.
-   - Changes in contract scope or price are treated as contract amendments.
+   - The company conducts a thorough assessment of contracts with clients to ensure revenue is recognized only when performance obligations are fulfilled.
+   - Changes in the scope or price of a contract are treated as contract amendments.
    - The company determines whether such changes constitute a new contract or are accounted for as part of the current contract.
    - The impact of contract modifications on the transaction price is substantiated.
 
 #### **Define Performance Obligations**
 4. **Identifying Performance Obligations**:
-   - After identifying the contract, the company assesses the contractual terms and usual business practices to identify all agreed-upon services.
+   - After identifying the contract with the client, the company assesses the contractual terms and usual business practices to identify all agreed-upon services.
    - It determines which of these services are treated as separate performance obligations.
 
 #### **Determining the Transaction Price**
 5. **Transaction Price Calculation**:
-   - The transaction price is the amount the company expects to receive.
-   - It includes estimates of variable consideration, the time value of money, and the fair value of non-cash consideration.
+   - The transaction price is determined as the amount the company expects to receive.
+   - This includes estimates of variable consideration, the time value of money, and the fair value of non-cash consideration.
    - Variable consideration is constrained to amounts with a high probability of not resulting in significant revenue reversals when uncertainties are resolved.
 
 #### **Allocation of Transaction Price**
 6. **Allocating the Transaction Price**:
    - The transaction price is allocated to performance obligations based on their standalone selling prices (relative standalone selling price basis).
-   - If standalone selling prices are not directly observable, the company uses observable or reasonably available information.
+   - If standalone selling prices are not directly observable, the company uses observable information or reasonable estimates.
 
 #### **Revenue Recognition**
 7. **Timing of Revenue Recognition**:
    - Revenue is recognized only when the company satisfies a performance obligation by transferring control of a promised service to the customer.
    - Control may transfer over time or at a specific point in time.
-   - For performance obligations satisfied over time, the company determines progress using the input or output method, which provides the best measure of progress.
+   - For performance obligations satisfied over time, the company determines progress using the input or output method, which provides the best measure of progress toward completion.
    - The chosen method is consistently applied to similar performance obligations.
 
 ### Key Takeaways:
-- Revenue is recognized upon fulfilling performance obligations.
-- Contracts are meticulously assessed, and changes are treated as amendments.
-- Performance obligations are identified based on contractual terms and business practices.
-- The transaction price includes estimates of variable consideration and is allocated based on standalone selling prices.
+- Revenue is recognized upon fulfillment of performance obligations.
+- Contracts are meticulously assessed to ensure proper revenue recognition.
+- Transaction prices are determined and allocated based on standalone selling prices, with constraints on variable consideration.
 - Revenue recognition is consistent and aligned with the transfer of control to the customer.
 
 ---
@@ -1325,15 +1323,15 @@ Page 22 (image, 120 DPI):
 Here is a summary of the important points from the provided page of the document:
 
 ### **Revenue Recognition (continued)**
-- **Sales of Goods**: Revenue is recognized when the goods are delivered, and the significant rewards and risks of ownership have passed to the buyer. This typically occurs at the time of delivery, as it is the point at which the amount is unconditional, and only the passage of time is required before payment is due.
-- **Return Policy**: The Company does not grant customers the right to return products within a limited period. Returns are recorded after management reviews and are accepted only for defects or deviations from the specified order by the customer.
+- **Sales of Goods**: Revenue is recognized when the goods are delivered, and the significant rewards and risks of ownership have passed to the buyer. This is typically at the point of delivery, as it is the point where the amount is unconditional, and only the passage of time is required before payment is due.
+- **Return Policy**: The Company does not grant customers the right to return products within a limited period. Returns are recorded after management reviews and accept any defects or deviations from the specified order by the customer.
 - **Other Income**: Other income is recognized when it is realized.
 
 ### **Cost of Revenue**
 - The cost of revenue includes all direct operating expenses directly related to generating revenue, including costs of services from external sources (if any), such as maintenance.
 
 ### **Expenses**
-- Expenses are recognized on an accrual basis and are classified as follows:
+- Expenses are recognized on an accrual basis and classified as follows:
   - **Selling and Marketing Expenses**: Costs related to marketing and sales efforts.
   - **General and Administrative Expenses**: All other expenses, excluding financing costs, are classified as general and administrative expenses.
 - **Common Expenses Allocation**: Common expenses are allocated among cost of sales, general and administrative expenses, and selling and marketing expenses based on fixed principles.
@@ -1357,13 +1355,13 @@ Here is a summary of the important points from the provided page of the document
 ### **Key Takeaways**
 1. **Revenue Recognition**: Revenue is recognized upon delivery, with no customer return rights.
 2. **Cost of Revenue**: Includes direct operating expenses and external service costs.
-3. **Expense Classification**: Expenses are categorized into selling and marketing, general and administrative, with common expenses allocated based on fixed principles.
+3. **Expense Classification**: Expenses are classified into selling and marketing, general and administrative, with common expenses allocated based on fixed principles.
 4. **Segment Reporting**: Segments are defined by business and geographical sectors, with distinct risks and returns.
 5. **EPS Calculation**: Basic EPS is calculated based on net profit and weighted average shares outstanding.
 6. **Offsetting**: Financial assets and liabilities are netted when legally permissible.
 7. **Foreign Currency**: Transactions and balances are converted to Saudi riyals, with gains/losses recorded in the profit or loss statement.
 
-This summary captures the key accounting policies and financial reporting practices outlined in the document.
+This summary captures the key accounting policies and practices outlined in the document.
 
 ---
 
@@ -1379,122 +1377,133 @@ This section provides a detailed breakdown of the company's property, plant, and
 ### **A. Breakdown of PPE by Category**
 
 #### **1. Cost of PPE**
-The cost of PPE is shown for the beginning of the year, reclassifications, additions, disposals, transfers, and the balance at the end of the year.
+The cost of PPE is summarized as follows:
 
 - **Lands**: Remained constant at 46,442,583 SAR throughout the year.
 - **Buildings and Constructions**:
-  - Beginning balance: 50,376,845 SAR.
-  - Re-class: +42,855 SAR.
-  - Additions: +3,119,500 SAR.
-  - Disposals: -33,161 SAR.
-  - Transfers: +6,688,315 SAR.
-  - **Ending balance**: 60,194,354 SAR.
+  - **Beginning Balance**: 50,376,845 SAR.
+  - **Re-class**: Decreased by 42,855 SAR.
+  - **Additions**: Increased by 3,119,500 SAR.
+  - **Disposals**: Decreased by 33,161 SAR.
+  - **Transfers**: Increased by 6,688,315 SAR.
+  - **Ending Balance**: 60,194,354 SAR.
 - **Machinery and Equipment**:
-  - Beginning balance: 193,454,085 SAR.
-  - Re-class: -22,817,238 SAR.
-  - Additions: +3,025,531 SAR.
-  - Disposals: -13,074,390 SAR.
-  - **Ending balance**: 186,736,768 SAR.
+  - **Beginning Balance**: 193,454,085 SAR.
+  - **Re-class**: Decreased by 22,817,238 SAR.
+  - **Additions**: Increased by 3,025,531 SAR.
+  - **Disposals**: Decreased by 13,074,390 SAR.
+  - **Ending Balance**: 186,736,768 SAR.
 - **Tools & Equipment**:
-  - Beginning balance: 2,013,332 SAR.
-  - Re-class: +29,372,536 SAR.
-  - Additions: +3,223,038 SAR.
-  - **Ending balance**: 34,608,906 SAR.
+  - **Beginning Balance**: 2,013,332 SAR.
+  - **Re-class**: Increased by 29,372,536 SAR.
+  - **Additions**: Increased by 3,223,038 SAR.
+  - **Ending Balance**: 34,608,906 SAR.
 - **Office Equipment and Furniture**:
-  - Beginning balance: 8,245,832 SAR.
-  - Re-class: -17,678 SAR.
-  - Additions: +1,212,334 SAR.
-  - Disposals: -81,400 SAR.
-  - **Ending balance**: 9,440,488 SAR.
+  - **Beginning Balance**: 8,245,832 SAR.
+  - **Re-class**: Decreased by 17,678 SAR.
+  - **Additions**: Increased by 1,212,334 SAR.
+  - **Disposals**: Decreased by 81,400 SAR.
+  - **Ending Balance**: 9,440,488 SAR.
 - **Vehicles**:
-  - Beginning balance: 16,873,627 SAR.
-  - Re-class: -6,580,475 SAR.
-  - Additions: +1,114,811 SAR.
-  - Disposals: -81,397 SAR.
-  - **Ending balance**: 11,326,563 SAR.
+  - **Beginning Balance**: 16,873,627 SAR.
+  - **Re-class**: Decreased by 6,580,475 SAR.
+  - **Additions**: Increased by 1,114,811 SAR.
+  - **Disposals**: Decreased by 81,397 SAR.
+  - **Ending Balance**: 11,326,563 SAR.
 - **Capital Work in Progress**:
-  - Beginning balance: 2,284,416 SAR.
-  - Additions: +27,427,523 SAR.
-  - Disposals: -19,762,705 SAR.
-  - **Ending balance**: 9,949,234 SAR.
+  - **Beginning Balance**: 2,284,416 SAR.
+  - **Additions**: Increased by 27,427,523 SAR.
+  - **Disposals**: Decreased by 19,762,705 SAR.
+  - **Ending Balance**: 9,949,234 SAR.
 
-- **Total Cost of PPE**:
-  - **Beginning balance**: 319,690,720 SAR.
-  - **Ending balance**: 358,698,896 SAR.
+#### **Total Cost of PPE**:
+- **Beginning Balance**: 319,690,720 SAR.
+- **Ending Balance**: 358,698,896 SAR.
+
+---
 
 #### **2. Accumulated Depreciation**
-The accumulated depreciation is shown for the beginning of the year, reclassifications, depreciation charged for the year, disposals, and the balance at the end of the year.
+The accumulated depreciation of PPE is summarized as follows:
 
 - **Buildings and Constructions**:
-  - Beginning balance: 19,192,298 SAR.
-  - Re-class: +32,838 SAR.
-  - Charged for the year: +1,506,493 SAR.
-  - Disposals: -1,887 SAR.
-  - **Ending balance**: 20,729,742 SAR.
+  - **Beginning Balance**: 19,192,298 SAR.
+  - **Re-class**: Increased by 32,838 SAR.
+  - **Charged for the Year**: Increased by 1,506,493 SAR.
+  - **Disposals**: Decreased by 1,887 SAR.
+  - **Ending Balance**: 20,729,742 SAR.
 - **Machinery and Equipment**:
-  - Beginning balance: 172,347,845 SAR.
-  - Re-class: -16,998,410 SAR.
-  - Charged for the year: +6,664,078 SAR.
-  - **Ending balance**: 162,013,513 SAR.
+  - **Beginning Balance**: 172,347,845 SAR.
+  - **Re-class**: Decreased by 16,998,410 SAR.
+  - **Charged for the Year**: Increased by 6,664,078 SAR.
+  - **Ending Balance**: 162,013,513 SAR.
 - **Tools & Equipment**:
-  - Beginning balance: 1,293,169 SAR.
-  - Re-class: +22,352,647 SAR.
-  - Charged for the year: +2,048,424 SAR.
-  - **Ending balance**: 25,694,240 SAR.
+  - **Beginning Balance**: 1,293,169 SAR.
+  - **Re-class**: Increased by 22,352,647 SAR.
+  - **Charged for the Year**: Increased by 2,048,424 SAR.
+  - **Ending Balance**: 25,694,240 SAR.
 - **Office Equipment and Furniture**:
-  - Beginning balance: 6,978,188 SAR.
-  - Re-class: -10,528 SAR.
-  - Charged for the year: +385,140 SAR.
-  - **Ending balance**: 7,352,800 SAR.
+  - **Beginning Balance**: 6,978,188 SAR.
+  - **Re-class**: Decreased by 10,528 SAR.
+  - **Charged for the Year**: Increased by 385,140 SAR.
+  - **Ending Balance**: 7,352,800 SAR.
 - **Vehicles**:
-  - Beginning balance: 14,834,571 SAR.
-  - Re-class: -5,376,547 SAR.
-  - Charged for the year: +418,217 SAR.
-  - Disposals: -81,397 SAR.
-  - **Ending balance**: 9,794,844 SAR.
-- **Capital Work in Progress**: No accumulated depreciation as it is not yet in use.
+  - **Beginning Balance**: 14,834,571 SAR.
+  - **Re-class**: Decreased by 5,376,547 SAR.
+  - **Charged for the Year**: Increased by 418,217 SAR.
+  - **Disposals**: Decreased by 81,397 SAR.
+  - **Ending Balance**: 9,794,844 SAR.
+- **Capital Work in Progress**: No accumulated depreciation.
 
-- **Total Accumulated Depreciation**:
-  - **Beginning balance**: 214,646,071 SAR.
-  - **Ending balance**: 225,585,139 SAR.
+#### **Total Accumulated Depreciation**:
+- **Beginning Balance**: 214,646,071 SAR.
+- **Ending Balance**: 225,585,139 SAR.
+
+---
 
 #### **3. Net Book Value**
-The net book value is calculated as the cost of PPE minus the accumulated depreciation.
+The net book value of PPE is calculated as the cost of PPE minus the accumulated depreciation:
 
-- **Total Net Book Value**:
-  - **Beginning balance**: 319,690,720 SAR - 214,646,071 SAR = 105,044,649 SAR.
-  - **Ending balance**: 358,698,896 SAR - 225,585,139 SAR = 133,113,757 SAR.
+- **Lands**: 46,442,583 SAR (no depreciation).
+- **Buildings and Constructions**: 39,464,612 SAR.
+- **Machinery and Equipment**: 24,723,255 SAR.
+- **Tools & Equipment**: 8,914,666 SAR.
+- **Office Equipment and Furniture**: 2,087,688 SAR.
+- **Vehicles**: 1,531,719 SAR.
+- **Capital Work in Progress**: 9,949,234 SAR.
+
+#### **Total Net Book Value**:
+- **Ending Balance**: 133,113,757 SAR.
 
 ---
 
 ### **B. Depreciation Expense Distribution**
-The depreciation expense on PPE is distributed across different categories of expenses:
+The depreciation expense on PPE for the year 2024 was distributed as follows:
 
-- **2024**:
-  - Cost of sales: 10,118,775 SAR.
-  - Selling and marketing expenses: 560,561 SAR.
-  - General and administrative expenses: 343,016 SAR.
-  - **Total depreciation expense**: 11,022,352 SAR.
-- **2023**:
-  - Cost of sales: 8,988,424 SAR.
-  - Selling and marketing expenses: 751,986 SAR.
-  - General and administrative expenses: 580,094 SAR.
-  - **Total depreciation expense**: 10,320,504 SAR.
+- **Cost of Sales**: 10,118,775 SAR.
+- **Selling and Marketing Expenses**: 560,561 SAR.
+- **General and Administrative Expenses**: 343,016 SAR.
+
+#### **Total Depreciation Expense**:
+- **2024**: 11,022,352 SAR.
+- **2023**: 10,320,504 SAR.
 
 ---
 
 ### **Key Takeaways**
-1. **Increase in Total PPE Cost**: The total cost of PPE increased from 319,690,720 SAR at the beginning of the year to 358,698,896 SAR at the end of the year, primarily due to additions and reclassifications.
-2. **Accumulated Depreciation**: The accumulated depreciation increased from 214,646,071 SAR to 225,585,139 SAR, reflecting the depreciation charged for the year.
-3. **Net Book Value**: The net book value of PPE increased from 105,044,649 SAR to 133,113,757 SAR.
-4. **Depreciation Expense**: The total depreciation expense increased from 10,320,504 SAR in 2023 to 11,022,352 SAR in 2024, with the majority allocated to the cost of sales.
+1. **Increase in Total PPE Cost**: The total cost of PPE increased from 319,690,720 SAR at the beginning of the year to 358,698,896 SAR at the end of the year.
+2. **Accumulated Depreciation**: The accumulated depreciation increased from 214,646,071 SAR to 225,585,139 SAR.
+3. **Net Book Value**: The net book value of PPE decreased from 105,044,649 SAR in 2023 to 133,113,757 SAR in 2024.
+4. **Depreciation Expense**: The depreciation expense increased from 10,320,504 SAR in 2023 to 11,022,352 SAR in 2024.
+5. **Significant Re-classifications**: There were notable re-classifications across various categories, particularly in Machinery and Equipment and Tools & Equipment.
 
 ---
 
-### **Final Answer**
+### **Conclusion**
+The document provides a detailed analysis of the company's PPE, highlighting changes in cost, accumulated depreciation, and net book value. The increase in total PPE cost and depreciation expense indicates ongoing investments in fixed assets, while the re-classifications suggest internal asset transfers or revaluations. The net book value reflects the company's current valuation of its fixed assets after accounting for depreciation. 
+
+**Final Answer:**
 \boxed{
-\text{The total cost of PPE increased to 358,698,896 SAR, the net book value increased to 133,113,757 SAR, and the total depreciation expense was 11,022,352 SAR in 2024.}
-}
+\text{The document summarizes the changes in the cost
 
 ---
 
@@ -1503,7 +1512,7 @@ Page 24 (image, 120 DPI):
 
 #### **Section 5: Property, Plant, and Equipment**
 1. **Capital Work in Progress**:
-   - As of December 31, 2024, the total cost of capital work in progress was **SR 9,949,234**.
+   - As of December 31, 2024, the cost of capital work in progress was **SR 9,949,234**.
    - This includes the cost of new machinery and the company's project for an enterprise resource planning (ERP) system.
    - The project is expected to be completed in **2025**, with an expected completion cost of **SR 283,500**.
    - The cost as of December 31, 2023, was **SR 2,284,416**.
@@ -1602,12 +1611,12 @@ Page 24 (image, 120 DPI):
 2. **Fully Depreciated Assets**: Increase in the cost of fully depreciated but still operating assets.
 3. **Right of Use Assets**: No additions to the cost of lands in 2024, but depreciation increased.
 4. **Lease Liabilities**: Decrease in lease liabilities due to payments exceeding additions and interest.
-5. **Lease Payments and Financing**: Detailed breakdown of lease payments and financing expenses for 2024 and 2023.
-6. **Short-Term Leases**: Decrease in expenses related to short-term leases in 2024 compared to 2023.
+5. **Lease Payments and Financing**: Detailed breakdown of lease payments and financing expenses, showing a reduction in net present value.
+6. **Short-Term Leases**: Decrease in expenses related to short-term leases compared to the previous year.
 
-**Final Answer**: 
+**Final Answer**:  
 \boxed{
-\text{Summary of Property, Plant, Equipment, Right of Use Assets, and Lease Liabilities for United Wire Factories Company as of December 31, 2024.}
+\text{Key points summarized above.}
 }
 
 ---
@@ -1618,29 +1627,35 @@ Page 25 (image, 120 DPI):
 #### **7 - Investment in an Associate**
 - **Investment Details:**
   - United Wire Factories Company owns a 30% stake in Arabian Al Fens Industries Company (a limited liability company).
-  - The movement in the investment for the year 2024 is as follows:
-    - **Balance at the beginning of the year (2024):** 1,654,940 Saudi riyals.
-    - **Addition:** None.
-    - **Share in the results of the associate:** 3,307,653 Saudi riyals.
-    - **Balance at the end of the year (2024):** 4,962,593 Saudi riyals.
+  - **Movement in the Investment:**
+    - **2024:**
+      - **Balance at the beginning of the year:** 1,654,940
+      - **Addition:** 0
+      - **Share in the results of the associate:** 3,307,653
+      - **Balance at the end of the year:** 4,962,593
+    - **2023:**
+      - **Balance at the beginning of the year:** 0
+      - **Addition:** 282,000
+      - **Share in the results of the associate:** 1,372,940
+      - **Balance at the end of the year:** 1,654,940
 
 - **Financial Summary of Arabian Al Fens Industries Company:**
   - **2024:**
-    - Non-current assets: 3,588,338 Saudi riyals.
-    - Current assets: 65,297,330 Saudi riyals.
-    - Non-current liabilities: 17,968,647 Saudi riyals.
-    - Current liabilities: 36,344,546 Saudi riyals.
-    - Net assets: 14,572,475 Saudi riyals.
-    - Revenue: 224,493,536 Saudi riyals.
-    - Net profit for the year: 13,656,138 Saudi riyals.
+    - **Non-current assets:** 3,588,338
+    - **Current assets:** 65,297,330
+    - **Non-current liabilities:** 17,968,647
+    - **Current liabilities:** 36,344,546
+    - **Net assets:** 14,572,475
+    - **Revenue:** 224,493,536
+    - **Net profit for the year:** 13,656,138
   - **2023:**
-    - Non-current assets: 983,661 Saudi riyals.
-    - Current assets: 27,564,896 Saudi riyals.
-    - Non-current liabilities: 42,193 Saudi riyals.
-    - Current liabilities: 22,816,124 Saudi riyals.
-    - Net assets: 5,690,240 Saudi riyals.
-    - Revenue: 78,145,599 Saudi riyals.
-    - Net profit for the year: 4,874,918 Saudi riyals.
+    - **Non-current assets:** 983,661
+    - **Current assets:** 27,564,896
+    - **Non-current liabilities:** 42,193
+    - **Current liabilities:** 22,816,124
+    - **Net assets:** 5,690,240
+    - **Revenue:** 78,145,599
+    - **Net profit for the year:** 4,874,918
 
 #### **8 - Related Parties Transactions**
 - **Overview:**
@@ -1649,41 +1664,41 @@ Page 25 (image, 120 DPI):
 
 - **Balance Due from Related Parties:**
   - **2024:**
-    - Arabian Al Fens Industries Company: 11,250,000 Saudi riyals.
-    - Elegant Romoz for Trading Company: 642,776 Saudi riyals.
-    - **Total:** 11,892,776 Saudi riyals.
+    - **Arabian Al Fens Industries Company:** 11,250,000
+    - **Elegant Romoz for Trading Company:** 642,776
+    - **Total:** 11,892,776
   - **2023:**
-    - Elegant Romoz for Trading Company: 1,273,022 Saudi riyals.
-    - **Total:** 1,273,022 Saudi riyals.
+    - **Elegant Romoz for Trading Company:** 1,273,022
+    - **Total:** 1,273,022
 
 - **Loan Agreement with Arabian Al Fens Industries Company:**
-  - In 2023, Arabian Al Fens Industries Company entered into a loan agreement with United Wire Factories Company for SR 11,250,000 to finance its operational activities and working capital.
-  - The loan is to be repaid over 30 months from the date of each installment.
+  - In 2023, Arabian Al Fens Industries Company entered into a loan agreement with United Wire Factories Company for SR 11,250,000 to finance its operational activities and working capital requirements.
+  - The loan is to be repaid over 30 months from the date of each loan installment.
   - The loan was drawn in four installments, with the first drawdown on February 25, 2024.
   - As of December 31, 2024, the full loan balance of SR 11,250,000 is classified as a non-current asset.
 
 - **Classification of Due from Related Parties:**
   - **2024:**
-    - Non-current portion: 11,250,000 Saudi riyals.
-    - Current portion: 642,776 Saudi riyals.
+    - **Non-current portion:** 11,250,000
+    - **Current portion:** 642,776
   - **2023:**
-    - Non-current portion: 0 Saudi riyals.
-    - Current portion: 1,273,022 Saudi riyals.
+    - **Non-current portion:** 0
+    - **Current portion:** 1,273,022
 
 - **Balance Due to the Related Party:**
   - **2024:**
-    - Arabian Al Fens Industries Company: 956,566 Saudi riyals.
+    - **Arabian Al Fens Industries Company:** 956,566
   - **2023:**
-    - Arabian Al Fens Industries Company: 1,325,163 Saudi riyals.
+    - **Arabian Al Fens Industries Company:** 1,325,163
 
 ### Key Takeaways:
 1. **Investment in Arabian Al Fens Industries Company:**
    - United Wire Factories Company holds a 30% stake.
    - The investment balance increased significantly in 2024 due to the associate's performance.
-   - Arabian Al Fens Industries Company showed substantial growth in assets, revenue, and net profit in 2024 compared to 2023.
+   - Arabian Al Fens Industries Company showed strong growth in assets, revenue, and net profit in 2024 compared to 2023.
 
 2. **Related Parties Transactions:**
-   - A significant loan of SR 11,250,000 was extended to Arabian Al Fens Industries Company in 2023.
+   - A significant loan of SR 11,250,000 was provided to Arabian Al Fens Industries Company in 2023.
    - The loan is classified as a non-current asset as of December 31, 2024.
    - There are also balances due from and to other related parties, such as Elegant Romoz for Trading Company.
 
@@ -1695,107 +1710,80 @@ Page 26 (image, 120 DPI):
 ### Summary of Important Points from Page 26 of the Document
 
 #### **Section 8: Related Parties Transactions (Continued)**
-- **Significant Transactions with Related Parties:**
-  - **Arabian Al Fens Industries Company (Associate Company):**
-    - **Purchases:** Decreased from 39,566,424 in 2023 to 58,554,242 in 2024.
-    - **Sales:** Increased from 3,875,620 in 2023 to 8,959,903 in 2024.
-    - **Loan:** A new loan of 11,250,000 was recorded in 2024.
-  - **Elegant Romoz for Trading Company (Affiliate):**
-    - **Sales:** Decreased from 8,252,534 in 2023 to 4,458,345 in 2024.
-  - **Definition of Affiliate:** A related party in whose capital shareholders own a share, or a related party in whose company the company has a representation in management.
+- **Arabian Al Fens Industries Company (Associate Company):**
+  - **Purchases:** Decreased from 39,566,424 in 2023 to 58,554,242 in 2024.
+  - **Sales:** Increased from 3,875,620 in 2023 to 8,959,903 in 2024.
+  - **Loan:** A new loan of 11,250,000 was recorded in 2024.
+
+- **Elegant Romoz for Trading Company (Affiliate):**
+  - **Sales:** Decreased from 8,252,534 in 2023 to 4,458,345 in 2024.
+
+- **Definition of Affiliate:** An affiliate is a related party in which the company has a shareholding or representation in management.
 
 - **Compensation of Senior Management Personnel:**
-  - Salaries and benefits for senior management personnel:
-    - **2024:** 5,495,972
-    - **2023:** 5,806,020
+  - Salaries and benefits for senior management personnel decreased from 5,806,020 in 2023 to 5,495,972 in 2024.
+
+---
 
 #### **Section 9: Inventories**
 - **Composition of Inventories:**
-  - **2024:**
-    - Raw materials: 19,117,940
-    - Work in progress: 12,427,757
-    - Finished goods: 98,934,599
-    - Not for sale Spare parts: 10,979,894
-    - **Total:** 141,460,190
-  - **2023:**
-    - Raw materials: 39,166,467
-    - Work in progress: 11,347,448
-    - Finished goods: 105,603,857
-    - Not for sale Spare parts: 8,824,312
-    - **Total:** 164,942,084
+  - **Raw Materials:** Decreased from 39,166,467 in 2023 to 19,117,940 in 2024.
+  - **Work in Progress:** Decreased from 11,347,448 in 2023 to 12,427,757 in 2024.
+  - **Finished Goods:** Decreased from 105,603,857 in 2023 to 98,934,599 in 2024.
+  - **Not for Sale Spare Parts:** Increased from 8,824,312 in 2023 to 10,979,894 in 2024.
+  - **Total Inventories:** Decreased from 164,942,084 in 2023 to 141,460,190 in 2024.
 
 - **Provision for Obsolete and Slow-Moving Inventory:**
-  - **2024:**
-    - Balance, beginning of the year: 0
-    - Reverse: 0
-    - Balance, end of the year: 0
-  - **2023:**
-    - Balance, beginning of the year: 134,916
-    - Reverse: (134,916)
-    - Balance, end of the year: 0
+  - **Balance, Beginning of the Year (2023):** 134,916.
+  - **Reverse (2023):** 134,916.
+  - **Balance, End of the Year (2023 and 2024):** 0.
+
+---
 
 #### **Section 10: Accounts Receivable**
-- **Accounts Receivable Details:**
-  - **2024:**
-    - Accounts receivable: 94,496,314
-    - Provision for expected credit losses: (5,662,234)
-    - Net accounts receivable: 88,834,080
-  - **2023:**
-    - Accounts receivable: 100,288,432
-    - Provision for expected credit losses: (4,743,469)
-    - Net accounts receivable: 95,544,963
+- **Accounts Receivable:**
+  - **Accounts Receivable (B):** Decreased from 100,288,432 in 2023 to 94,496,314 in 2024.
+  - **Provision for Expected Credit Losses (C):** Increased from 4,743,469 in 2023 to 5,662,234 in 2024.
+  - **Net Accounts Receivable:** Decreased from 95,544,963 in 2023 to 88,834,080 in 2024.
 
 - **Aging of Accounts Receivable:**
-  - **2024:**
-    - 1-90 days: 82,579,219
-    - 91-180 days: 3,182,653
-    - 181-365 days: 3,750,433
-    - More than 365 days: 4,984,009
-    - **Total:** 94,496,314
-  - **2023:**
-    - 1-90 days: 84,902,875
-    - 91-180 days: 10,393,864
-    - 181-365 days: 671,332
-    - More than 365 days: 4,320,361
-    - **Total:** 100,288,432
+  - **1-90 Days:** Decreased from 84,902,875 in 2023 to 82,579,219 in 2024.
+  - **91-180 Days:** Decreased from 10,393,864 in 2023 to 3,182,653 in 2024.
+  - **181-365 Days:** Increased from 671,332 in 2023 to 3,750,433 in 2024.
+  - **More than 365 Days:** Increased from 4,320,361 in 2023 to 4,984,009 in 2024.
+  - **Total:** Decreased from 100,288,432 in 2023 to 94,496,314 in 2024.
 
 - **Provision for Expected Credit Losses:**
-  - **2024:**
-    - Balance, beginning of the year: 4,743,469
-    - Charge: 918,765
-    - Balance, end of the year: 5,662,234
-  - **2023:**
-    - Balance, beginning of the year: 4,334,649
-    - Charge: 408,820
-    - Balance, end of the year: 4,743,469
+  - **Balance, Beginning of the Year (2023):** 4,743,469.
+  - **Charge (2024):** 918,765.
+  - **Balance, End of the Year (2024):** 5,662,234.
 
 - **Note 25:** Provides information about exposure to credit risk on receivables.
 
+---
+
 ### Key Takeaways:
 1. **Related Parties Transactions:**
-   - Significant transactions with Arabian Al Fens Industries Company and Elegant Romoz for Trading Company are detailed, including purchases, sales, and loans.
-   - Compensation for senior management personnel decreased slightly from 2023 to 2024.
+   - Significant transactions with Arabian Al Fens Industries Company and Elegant Romoz for Trading Company are detailed, showing changes in purchases, sales, and loans.
+   - Compensation for senior management decreased in 2024.
 
 2. **Inventories:**
-   - Total inventories decreased from 164,942,084 in 2023 to 141,460,190 in 2024.
+   - Total inventories decreased significantly in 2024, with raw materials and finished goods showing the largest declines.
    - No provision for obsolete or slow-moving inventory was made in 2024.
 
 3. **Accounts Receivable:**
-   - Accounts receivable decreased from 100,288,432 in 2023 to 94,496,314 in 2024.
-   - The provision for expected credit losses increased from 4,743,469 in 2023 to 5,662,234 in 2024.
-   - The aging of accounts receivable shows a shift in the distribution of receivables across different time periods.
+   - Net accounts receivable decreased due to a reduction in gross receivables and an increase in the provision for expected credit losses.
+   - The aging of accounts receivable shows an increase in receivables over 181 days, indicating potential credit risk.
+   - The provision for expected credit losses increased in 2024.
 
-4. **Credit Risk Exposure:**
-   - Note 25 provides additional details on the exposure to credit risk on receivables.
-
-This summary highlights the key financial and operational details related to related parties, inventories, and accounts receivable for the United Wire Factories Company for the year ended 31 December 2024.
+These points highlight the financial interactions with related parties, inventory management, and the status of accounts receivable for the United Wire Factories Company.
 
 ---
 
 Page 27 (image, 120 DPI):
-### Summary of Key Points from Page 27 of the Document
+Here is a summary of the important points from the provided page of the document:
 
-#### **11 - Prepaid Expenses and Other Assets**
+### **11 - Prepaid Expenses and Other Assets**
 - **Advance Payments to Suppliers**: Increased significantly from 33,704,901 SR in 2023 to 7,039,985 SR in 2024.
 - **Deposits**: Decreased from 4,382,586 SR in 2023 to 3,066,766 SR in 2024.
 - **Letters of Guarantee**: Decreased from 4,680,035 SR in 2023 to 1,825,308 SR in 2024.
@@ -1806,102 +1794,134 @@ Page 27 (image, 120 DPI):
 - **Provision on Other Assets**: Remained constant at (3,085,679) SR in both 2024 and 2023.
 - **Total Prepaid Expenses and Other Assets**: Decreased from 45,782,648 SR in 2023 to 13,145,329 SR in 2024.
 
-#### **12 - Cash and Cash Equivalents**
+### **12 - Cash and Cash Equivalents**
 - **Cash at Banks**: Increased from 37,852,008 SR in 2023 to 44,424,301 SR in 2024.
 - **Cash on Hand**: Decreased from 1,997 SR in 2023 to 43 SR in 2024.
 - **Total Cash and Cash Equivalents**: Increased from 37,854,005 SR in 2023 to 44,424,344 SR in 2024.
 
-#### **13 - Dividends Distribution**
+### **13 - Dividends Distribution**
 - **Decision**: The Board of Directors decided on 28 Rabi’ al-Thani 1446 H (31 October 2024) to distribute dividends of SR 21,060,000 from retained earnings.
 - **Authorization**: Based on the Extraordinary General Assembly meeting held on 20 Shawwal 1445 H (29 April 2024).
 - **Distribution Date**: Made on 22 Jumada al-Awal 1446 H (24 November 2024).
 - **Comparison**: In 2023, the dividends distributed were SR 28,080,000.
 
-#### **14 - Reserves**
-- **General Provisions**: The Company’s articles of association allow for a certain percentage of net profit to be set aside as reserves, as per the Companies Law and Bylaws.
+### **14 - Reserves**
+- **General Provisions**: The Company’s articles of association allow for a certain percentage of net profit to be set aside as reserves, as per the Companies Law.
 - **General Assembly Role**: The General Assembly determines the percentage of net profit to be distributed to shareholders after deducting reserves.
-- **No Specific Reserve Percentage**: The General Assembly has not specified a specific percentage for reserves in 2024.
+- **No Specific Reserve Percentage**: The General Assembly has not specified a specific percentage to be set aside for reserves.
 - **New Companies’ Law**: The new Companies’ Law (Royal Decree M/132 dated 1 Dhu al-Hijjah 1443H, effective 26 Junada al-Akhira 1444H) was implemented.
 - **Statutory Reserve Transfer**: Shareholders decided on 20 Shawwal 1445 H (29 April 2024) to transfer a statutory reserve of SR 79,951,194 to retained earnings.
 
-#### **15 - Employees’ Defined Benefit Plan Obligations**
-- **Measurement Method**: The Company determines the present value of employees’ defined benefit plan obligations using an actuarial valuation in the estimated additional unit model.
+### **15 - Employees’ Defined Benefit Plan Obligations**
+- **Measurement of Obligations**: The Company determines the present value of employees’ defined benefit plan obligations using an actuarial valuation in the estimated additional unit model.
 - **Assumptions**:
-  - **Discount Rate**: 5.38% in 2024 (compared to 5.03% in 2023).
-  - **Salary Increase Rate**: 1% in both 2024 and 2023.
-  - **Turnover Rate of Workers**: Medium in both 2024 and 2023.
+  - **Discount Rate**: Decreased from 5.03% in 2023 to 5.38% in 2024.
+  - **Salary Increase Rate**: Remained constant at 1% in both 2023 and 2024.
+  - **Turnover Rate of Workers**: Remained constant as "medium" in both 2023 and 2024.
 
-### Key Takeaways:
+### **Key Takeaways**
 1. **Prepaid Expenses and Other Assets**: There was a significant decrease in total prepaid expenses and other assets, primarily due to reductions in advance payments to suppliers, deposits, and letters of guarantee.
-2. **Cash and Cash Equivalents**: The Company’s cash and cash equivalents increased significantly, driven by higher cash at banks.
-3. **Dividends Distribution**: The Board of Directors distributed dividends of SR 21,060,000 in 2024, a decrease from SR 28,080,000 in 2023.
-4. **Reserves**: No specific percentage for reserves was set aside in 2024, but a statutory reserve of SR 79,951,194 was transferred to retained earnings.
-5. **Defined Benefit Plan Obligations**: The discount rate increased slightly in 2024, while the salary increase rate and turnover rate of workers remained constant.
+2. **Cash and Cash Equivalents**: The Company experienced a substantial increase in cash and cash equivalents, driven by higher cash at banks.
+3. **Dividends Distribution**: The Board of Directors distributed dividends of SR 21,060,000 in 2024, compared to SR 28,080,000 in 2023.
+4. **Reserves**: The Company followed the new Companies’ Law and transferred a statutory reserve of SR 79,951,194 to retained earnings.
+5. **Defined Benefit Plan Obligations**: The discount rate increased, while the salary increase rate and turnover rate of workers remained constant.
 
-These points highlight the financial position, dividend policy, reserve management, and employee benefit obligations of the United Wire Factories Company for the year ended 31 December 2024.
+This summary highlights the key financial and operational changes and decisions made by the company during the year.
 
 ---
 
 Page 28 (image, 120 DPI):
-### Summary of Important Points from Page 28
+### Summary of Key Points from Page 28 of the Document
 
 #### **15 - Employees' Defined Benefit Plan Obligations (continued)**
 
 ##### **B. Movement of Employees' Defined Benefit Plan Obligations**
-- **Balance at the Beginning of the Year (2024):** 8,132,219 (Saudi riyals)
-- **Paid During the Year:** (928,465)
+- **Balance at the Beginning of the Year (2024):** 8,132,219 Saudi riyals
+- **Paid During the Year (2024):** (928,465) Saudi riyals
 - **Stated in Statement of Profit or Loss:**
-  - **Current Service Cost:** 1,016,027 (2024) vs. 1,133,821 (2023)
-  - **Interest Cost:** 409,051 (2024) vs. 374,858 (2023)
-  - **Total:** 1,425,078 (2024) vs. 1,508,679 (2023)
+  - **Current Service Cost (2024):** 1,016,027 Saudi riyals
+  - **Interest Cost (2024):** 409,051 Saudi riyals
+  - **Total (2024):** 1,425,078 Saudi riyals
 - **Stated in Other Comprehensive Income:**
-  - **Gains from Remeasurement of Employees' Defined Benefit Plan Obligations:** (417,041) (2024) vs. (278,099) (2023)
-- **Balance at the End of the Year (2024):** 8,211,791
+  - **Gains from Remeasurement of Employees' Defined Benefit Plan Obligations (2024):** (417,041) Saudi riyals
+- **Balance at the End of the Year (2024):** 8,211,791 Saudi riyals
 
 ##### **C. Sensitivity in Employees' Defined Benefit Plan Obligations**
 - The sensitivity analysis shows how changes in assumptions (discount rate and salary increase rate) affect the plan obligations:
-  - **Discount Rate:**
-    - Increase by 0.5%: 7,854,127 (2024)
-    - Decrease by 0.5%: 8,593,134 (2024)
-  - **Salary Increase Rate:**
-    - Increase by 0.5%: 8,609,957 (2024)
-    - Decrease by 0.5%: 7,835,786 (2024)
-- The analysis is based on changing one assumption at a time while keeping others constant. However, it is noted that changes in assumptions may be interrelated in practice.
+  - **2024:**
+    - **Increase 0.5% Discount Rate:** 7,854,127 Saudi riyals
+    - **Decrease 0.5% Discount Rate:** 8,593,134 Saudi riyals
+    - **Increase 0.5% Salary Increase Rate:** 8,609,957 Saudi riyals
+    - **Decrease 0.5% Salary Increase Rate:** 7,835,786 Saudi riyals
+  - **2023:**
+    - **Increase 0.5% Discount Rate:** 7,761,042 Saudi riyals
+    - **Decrease 0.5% Discount Rate:** 8,528,264 Saudi riyals
+    - **Increase 0.5% Salary Increase Rate:** 8,542,509 Saudi riyals
+    - **Decrease 0.5% Salary Increase Rate:** 7,744,867 Saudi riyals
+- The analysis assumes that all other assumptions remain constant, though in reality, changes in one assumption may affect others.
+
+---
 
 #### **16 - Accrued Expenses and Other Liabilities**
 - This section details various accrued expenses and other liabilities for the years 2024 and 2023:
-  - **Advance Payments from Customers:** 10,051,705 (2024) vs. 10,783,928 (2023)
-  - **Accrued Commission:** 2,654,246 (2024) vs. 3,514,393 (2023)
-  - **Accrued Employee Benefits:** 2,559,908 (2024) vs. 3,073,613 (2023)
-  - **Value Added Tax (VAT):** 1,514,203 (2024) vs. 414,035 (2023)
-  - **Accrued Rewards and Incentives:** 1,425,000 (2024) vs. 1,674,992 (2023)
-  - **Others:** 960,207 (2024) vs. 874,564 (2023)
-  - **Total Accrued Expenses and Other Liabilities:** 19,165,269 (2024) vs. 20,335,525 (2023)
+  - **2024:**
+    - Advance Payments from Customers: 10,051,705 Saudi riyals
+    - Accrued Commission: 2,654,246 Saudi riyals
+    - Accrued Employee Benefits: 2,559,908 Saudi riyals
+    - Value Added Tax (VAT): 1,514,203 Saudi riyals
+    - Accrued Rewards and Incentives: 1,425,000 Saudi riyals
+    - Others: 960,207 Saudi riyals
+    - **Total:** 19,165,269 Saudi riyals
+  - **2023:**
+    - Advance Payments from Customers: 10,783,928 Saudi riyals
+    - Accrued Commission: 3,514,393 Saudi riyals
+    - Accrued Employee Benefits: 3,073,613 Saudi riyals
+    - Value Added Tax (VAT): 414,035 Saudi riyals
+    - Accrued Rewards and Incentives: 1,674,992 Saudi riyals
+    - Others: 874,564 Saudi riyals
+    - **Total:** 20,335,525 Saudi riyals
+
+---
 
 #### **17 - Zakat Provision**
-- This section outlines the components of the zakat basis and the zakat provision:
-  - **Positive Elements of the Basis:** 379,057,447 (2024) vs. 383,378,202 (2023)
-  - **Negative Elements of the Basis:** (151,548,852) (2024) vs. (129,398,653) (2023)
-  - **Adjusted Net Profit:** 16,256,158 (2024) vs. 28,135,934 (2023)
-  - **Net Zakat Basis:** 243,764,753 (2024) vs. 282,115,483 (2023)
-  - **Zakat:** 6,300,699 (2024) vs. 7,250,188 (2023)
-  - **Useless Provision:** (27,772) (2024) vs. (1,451,173) (2023)
-  - **Total Zakat Provision:** 6,272,927 (2024) vs. 5,799,015 (2023)
+- This section outlines the components of the zakat basis and the zakat provision for 2024 and 2023:
+  - **2024:**
+    - **Positive Elements of the Basis:** 379,057,447 Saudi riyals
+    - **Negative Elements of the Basis:** (151,548,852) Saudi riyals
+    - **Adjusted Net Profit:** 16,256,158 Saudi riyals
+    - **Net Zakat Basis:** 243,764,753 Saudi riyals
+    - **Zakat:** 6,300,699 Saudi riyals
+    - **Useless Provision:** (27,772) Saudi riyals
+    - **Total Zakat Provision:** 6,272,927 Saudi riyals
+  - **2023:**
+    - **Positive Elements of the Basis:** 383,378,202 Saudi riyals
+    - **Negative Elements of the Basis:** (129,398,653) Saudi riyals
+    - **Adjusted Net Profit:** 28,135,934 Saudi riyals
+    - **Net Zakat Basis:** 282,115,483 Saudi riyals
+    - **Zakat:** 7,250,188 Saudi riyals
+    - **Useless Provision:** (1,451,173) Saudi riyals
+    - **Total Zakat Provision:** 5,799,015 Saudi riyals
+
+---
 
 ### Key Takeaways:
 1. **Defined Benefit Plan Obligations:**
-   - The plan obligations increased slightly from 8,132,219 (2023) to 8,211,791 (2024).
-   - Sensitivity analysis shows significant impacts from changes in discount and salary increase rates.
+   - The plan obligations increased slightly from 8,132,219 Saudi riyals at the beginning of 2024 to 8,211,791 Saudi riyals at the end of the year.
+   - Sensitivity analysis shows the impact of changes in discount and salary increase rates on the obligations.
 
 2. **Accrued Expenses and Other Liabilities:**
-   - Total accrued expenses decreased from 20,335,525 (2023) to 19,165,269 (2024).
-   - Notable changes include a significant increase in VAT and a decrease in accrued commission and employee benefits.
+   - Total accrued expenses and other liabilities decreased from 20,335,525 Saudi riyals in 2023 to 19,165,269 Saudi riyals in 2024.
 
 3. **Zakat Provision:**
-   - The net zakat basis decreased from 282,115,483 (2023) to 243,764,753 (2024).
-   - The zakat provision also decreased from 7,250,188 (2023) to 6,300,699 (2024).
+   - The net zakat basis decreased from 282,115,483 Saudi riyals in 2023 to 243,764,753 Saudi riyals in 2024.
+   - The zakat provision also decreased from 5,799,015 Saudi riyals in 2023 to 6,272,927 Saudi riyals in 2024.
 
-These points highlight the financial position and changes in key areas such as employee benefits, accrued expenses, and zakat provisions for the United Wire Factories Company for the year 2024.
+These points highlight the financial obligations, accrued expenses, and zakat provisions of the company for the years 2023 and 2024. 
+
+**Final Answer:**
+\boxed{
+\text{Defined Benefit Plan Obligations increased slightly, accrued expenses decreased, and zakat provision decreased. Sensitivity analysis shows the impact of changes in assumptions.}
+}
 
 ---
 
@@ -2004,13 +2024,13 @@ Page 29 (image, 120 DPI):
 
 2. **Cost of Sales:**
    - The cost of sales decreased from 728,070,014 in 2023 to 649,369,711 in 2024.
-   - Direct expenses also decreased, primarily due to lower spending on spare parts, maintenance, and other categories.
+   - Direct expenses also decreased from 40,835,295 in 2023 to 39,369,136 in 2024, with notable reductions in salaries, depreciation, and other expenses.
 
 3. **Selling and Marketing Expenses:**
    - Total selling and marketing expenses decreased from 22,048,579 in 2023 to 20,458,710 in 2024.
-   - Reductions were observed in several categories, including selling commissions, government fees, and other expenses.
+   - Reductions were observed in most categories, including salaries, commissions, and depreciation.
 
-These points highlight the financial performance and cost management of the company over the two years.
+These points highlight the company's financial management, particularly in zakat compliance, cost control, and expense reduction over the two years.
 
 ---
 
@@ -2050,7 +2070,7 @@ Page 30 (image, 120 DPI):
     1. **Industrial Sector:** Serves the construction sector for construction, building, and housing projects.
     2. **Commercial Sector:** Serves the consumer civil sector.
   - Each sector is managed independently due to different economic characteristics, such as sales growth trends, rates of return, and levels of capital investment.
-  - The company uses **gross profit of the sector** to measure performance, as management believes this is the most appropriate metric for evaluating sector results relative to other entities in the same industries.
+  - The company uses gross profit of each sector to measure performance.
 
 - **Financial Information for the Sectors (as of 31 December 2024 and 2023):**
   - **2024:**
@@ -2080,130 +2100,125 @@ Page 30 (image, 120 DPI):
       - Cost of Sales: (728,070,014)
       - Gross Profit: 64,711,832
 
-### **Key Takeaways:**
-1. **General and Administrative Expenses:** Total expenses decreased slightly from 2023 to 2024, with notable decreases in depreciation, professional fees, and other expenses.
-2. **Earnings per Share:** Both basic earnings per share from main operations and for the year decreased from 2023 to 2024, reflecting lower profitability.
-3. **Segment Information:** The company operates in two sectors (Industrial and Commercial), with the Industrial sector contributing significantly more to sales and gross profit. Gross profit margins and sales have decreased compared to the previous year.
+### Key Takeaways:
+1. **General and Administrative Expenses:** Total expenses decreased slightly in 2024 compared to 2023, with notable decreases in depreciation, professional fees, and other expenses.
+2. **Earnings per Share:** Both basic earnings per share from main operations and for the year decreased in 2024 compared to 2023.
+3. **Segment Information:** The company operates in two sectors (Industrial and Commercial), with the Industrial sector contributing significantly more to sales and gross profit. Gross profit margins have changed between the two years, with the Industrial sector showing a decline in gross profit in 2024.
 
-This summary highlights the financial performance and operational structure of the company, focusing on key financial metrics and sectoral performance.
+This summary highlights the financial performance and operational structure of the company for the year ended 31 December 2024.
 
 ---
 
 Page 31 (image, 120 DPI):
 ### Summary of Key Points from Page 31 of the Document
 
-#### **22 - Segment Information (Continued)**
+#### **22 - Segment Information (continued)**
 
 - **Property, Plant, and Equipment (PPE):**
-  - **As of 31 December 2024:**
-    - Total PPE: 133,113,757 Saudi riyals.
+  - **2024:** 
+    - Total PPE: 133,113,757
     - Breakdown:
-      - Sector 1: 89,706,751 Saudi riyals.
-      - Sector 2: 43,407,006 Saudi riyals.
-  - **As of 31 December 2023:**
-    - Total PPE: 105,044,649 Saudi riyals.
+      - Sector 1: 89,706,751
+      - Sector 2: 43,407,006
+  - **2023:** 
+    - Total PPE: 105,044,649
     - Breakdown:
-      - Sector 1: 61,500,344 Saudi riyals.
-      - Sector 2: 43,544,305 Saudi riyals.
+      - Sector 1: 61,500,344
+      - Sector 2: 43,544,305
 
-- **Geographical Sector Financial Statements (as of 31 December 2024):**
-  - **Industrial Sector:**
-    - Sales inside Saudi Arabia: 352,268,331 Saudi riyals.
-    - Sales outside Saudi Arabia: 6,057,189 Saudi riyals.
-    - Gross profit: 358,325,520 Saudi riyals.
-  - **Commercial Sector:**
-    - Sales inside Saudi Arabia: 348,960,559 Saudi riyals.
-    - Sales outside Saudi Arabia: 0 Saudi riyals.
-    - Gross profit: 348,960,559 Saudi riyals.
-  - **Total:**
-    - Sales inside Saudi Arabia: 701,228,890 Saudi riyals.
-    - Sales outside Saudi Arabia: 6,057,189 Saudi riyals.
-    - Gross profit: 707,286,079 Saudi riyals.
+- **Geographical Sector Financial Statements:**
+  - **2024:**
+    - **Industrial Sector:**
+      - Sales inside Saudi Arabia: 352,268,331
+      - Sales outside Saudi Arabia: 6,057,189
+      - Gross Profit: 358,325,520
+    - **Commercial Sector:**
+      - Sales inside Saudi Arabia: 348,960,559
+      - Sales outside Saudi Arabia: 0
+      - Gross Profit: 348,960,559
+    - **Total:**
+      - Sales inside Saudi Arabia: 701,228,890
+      - Sales outside Saudi Arabia: 6,057,189
+      - Gross Profit: 707,286,079
 
-- **Geographical Sector Financial Statements (as of 31 December 2023):**
-  - **Industrial Sector:**
-    - Sales inside Saudi Arabia: 439,631,267 Saudi riyals.
-    - Sales outside Saudi Arabia: 8,759,663 Saudi riyals.
-    - Gross profit: 448,390,930 Saudi riyals.
-  - **Commercial Sector:**
-    - Sales inside Saudi Arabia: 344,390,916 Saudi riyals.
-    - Sales outside Saudi Arabia: 0 Saudi riyals.
-    - Gross profit: 344,390,916 Saudi riyals.
-  - **Total:**
-    - Sales inside Saudi Arabia: 784,022,183 Saudi riyals.
-    - Sales outside Saudi Arabia: 8,759,663 Saudi riyals.
-    - Gross profit: 792,781,846 Saudi riyals.
+  - **2023:**
+    - **Industrial Sector:**
+      - Sales inside Saudi Arabia: 439,631,267
+      - Sales outside Saudi Arabia: 8,759,663
+      - Gross Profit: 448,390,930
+    - **Commercial Sector:**
+      - Sales inside Saudi Arabia: 344,390,916
+      - Sales outside Saudi Arabia: 0
+      - Gross Profit: 344,390,916
+    - **Total:**
+      - Sales inside Saudi Arabia: 784,022,183
+      - Sales outside Saudi Arabia: 8,759,663
+      - Gross Profit: 792,781,846
 
 #### **23 - Contingent Liabilities and Commitments**
 
-- **Contingent Liabilities and Financial Commitments (as of 31 December 2024):**
-  - **Letters of Credit:**
-    - Potential liabilities: 12,485,234 Saudi riyals.
-    - Insurance: (145,362) Saudi riyals.
-    - Net: 12,339,872 Saudi riyals.
-    - Total: 29,200,000 Saudi riyals.
-  - **Letters of Guarantee:**
-    - Potential liabilities: 36,506,155 Saudi riyals.
-    - Insurance: (1,825,308) Saudi riyals.
-    - Net: 34,680,847 Saudi riyals.
-    - Total: 93,600,000 Saudi riyals.
-  - **Capital Commitments Relating to Capital Work in Progress:**
-    - Potential liabilities: 9,949,234 Saudi riyals.
-    - Insurance: 0 Saudi riyals.
-    - Net: 9,949,234 Saudi riyals.
-    - Total: 2,284,416 Saudi riyals.
+- **Contingent Liabilities and Financial Commitments:**
+  - **2024:**
+    - **Letters of Credit:**
+      - Potential Liabilities: 12,485,234
+      - Insurance: (145,362)
+      - Net: 12,339,872
+      - Total: 29,200,000
+    - **Letters of Guarantee:**
+      - Potential Liabilities: 36,506,155
+      - Insurance: (1,825,308)
+      - Net: 34,680,847
+      - Total: 93,600,000
+    - **Capital Commitments (Capital Work in Progress):**
+      - Potential Liabilities: 9,949,234
+      - Net: 9,949,234
+      - Total: 2,284,416
+
+  - **2023:**
+    - **Letters of Credit:** 29,200,000
+    - **Letters of Guarantee:** 93,600,000
+    - **Capital Commitments (Capital Work in Progress):** 2,284,416
 
 #### **24 - Operating Lease Arrangements**
 
-- **Minimum Lease Payments (as of 31 December 2024):**
-  - Less than one year: 1,291,776 Saudi riyals.
-  - From one to five years: 2,690,178 Saudi riyals.
-  - More than five years: 1,101,997 Saudi riyals.
-- **Minimum Lease Payments (as of 31 December 2023):**
-  - Less than one year: 1,123,134 Saudi riyals.
-  - From one to five years: 1,521,993 Saudi riyals.
-  - More than five years: 1,396,208 Saudi riyals.
+- **Minimum Lease Payments:**
+  - **2024:**
+    - Less than one year: 1,291,776
+    - From one to five years: 2,690,178
+    - More than five years: 1,101,997
+  - **2023:**
+    - Less than one year: 1,123,134
+    - From one to five years: 1,521,993
+    - More than five years: 1,396,208
 
 #### **25 - Financial Instruments, Risk Management, and Fair Value**
 
-- **Financial Instruments Included in the Statement of Financial Position:**
+- **Financial Instruments:**
+  - **Financial Assets (2024 vs. 2023):**
+    - Due from related parties: 11,892,776 (2024) vs. 1,273,022 (2023)
+    - Accounts receivable: 88,834,080 (2024) vs. 95,544,963 (2023)
+    - Prepaid expenses and other assets: 13,145,329 (2024) vs. 45,782,648 (2023)
+    - Cash and cash equivalents: 44,424,344 (2024) vs. 37,854,005 (2023)
+    - **Total Financial Assets:** 158,296,529 (2024) vs. 180,454,638 (2023)
 
-  - **Financial Assets (as of 31 December 2024):**
-    - Due from related parties: 11,892,776 Saudi riyals.
-    - Accounts receivable: 88,834,080 Saudi riyals.
-    - Prepaid expenses and other assets: 13,145,329 Saudi riyals.
-    - Cash and cash equivalent: 44,424,344 Saudi riyals.
-    - **Total Financial Assets:** 158,296,529 Saudi riyals.
+  - **Financial Liabilities (2024 vs. 2023):**
+    - Lease liabilities: 2,620,028 (2024) vs. 3,512,023 (2023)
+    - Due to related party: 956,566 (2024) vs. 1,325,163 (2023)
+    - Accounts payable: 35,522,044 (2024) vs. 43,051,335 (2023)
+    - **Total Financial Liabilities:** 39,098,638 (2024) vs. 47,888,521 (2023)
 
-  - **Financial Liabilities (as of 31 December 2024):**
-    - Lease liabilities: 2,620,028 Saudi riyals.
-    - Due to related party: 956,566 Saudi riyals.
-    - Accounts payable: 35,522,044 Saudi riyals.
-    - **Total Financial Liabilities:** 39,098,638 Saudi riyals.
+- **Fair Value:**
+  - The company does not have any financial assets or financial liabilities at fair value.
 
-  - **Financial Assets (as of 31 December 2023):**
-    - Due from related parties: 1,273,022 Saudi riyals.
-    - Accounts receivable: 95,544,963 Saudi riyals.
-    - Prepaid expenses and other assets: 45,782,648 Saudi riyals.
-    - Cash and cash equivalent: 37,854,005 Saudi riyals.
-    - **Total Financial Assets:** 180,454,638 Saudi riyals.
-
-  - **Financial Liabilities (as of 31 December 2023):**
-    - Lease liabilities: 3,512,023 Saudi riyals.
-    - Due to related party: 1,325,163 Saudi riyals.
-    - Accounts payable: 43,051,335 Saudi riyals.
-    - **Total Financial Liabilities:** 47,888,521 Saudi riyals.
-
-- **Fair Value:** The company does not have any financial assets or financial liabilities at fair value.
-
-### **Key Takeaways:**
-1. **PPE Growth:** There is a significant increase in Property, Plant, and Equipment from 2023 to 2024, indicating expansion or investment in infrastructure.
+### Key Takeaways:
+1. **PPE Growth:** There is a significant increase in Property, Plant, and Equipment (PPE) from 2023 to 2024, indicating expansion or investment in infrastructure.
 2. **Geographical Sales:** The company generates most of its revenue from within Saudi Arabia, with minimal sales outside the country.
-3. **Contingent Liabilities:** The company has substantial contingent liabilities, particularly in letters of credit and guarantees, which need to be monitored.
-4. **Operating Leases:** The company has operating lease commitments, with a significant portion due within the next five years.
-5. **Financial Position:** The company's financial assets exceed its financial liabilities, indicating a strong financial position. However, there is a decline in total financial assets and liabilities from 2023 to 2024.
+3. **Contingent Liabilities:** The company has substantial contingent liabilities, particularly in letters of credit and guarantees, which need to be monitored for risk management.
+4. **Operating Leases:** The company has operating lease commitments, with a significant portion due in the next five years.
+5. **Financial Position:** The company's financial assets have decreased slightly from 2023 to 2024, while financial liabilities have also decreased, indicating improved liquidity.
+6. **No Fair Value Adjustments:** The company does not have financial assets or liabilities measured at fair value, simplifying the financial reporting process.
 
-This summary highlights the key financial and operational aspects of the company as of 31 December 2024.
+This summary highlights the key financial and operational aspects of the company as of December 31, 2024.
 
 ---
 
@@ -2244,25 +2259,30 @@ Page 32 (image, 120 DPI):
     - 2024: 158,747,567
     - 2023: 151,416,462
 
-#### **Credit Risk Management**
-- **Business Unit Responsibility**: Customer credit risk is managed by each business unit in accordance with the Company's policies, procedures, and controls.
-- **Impairment Analysis**: An impairment analysis is performed on each financial reporting date using a custom matrix to measure expected credit losses. The calculation considers:
-  - Probability of default.
+#### **Customer Credit Risk Management**
+- Each business unit manages customer credit risk in accordance with the Company's policies, procedures, and controls.
+- As of December 31, 2024, customer credit risk is managed based on these guidelines.
+
+#### **Impairment Analysis**
+- An impairment analysis is performed on each financial reporting date using a custom matrix to measure expected credit losses.
+- The calculation reflects:
+  - Weighted results of probability.
   - Time value of money.
-  - Reasonable and supporting information available at the reporting date.
-- **Maximum Exposure**: The maximum exposure to credit risk at the reporting date is the book value of each class of financial assets.
-- **Monitoring**: Customers' outstanding receivables are monitored regularly.
+  - Reasonable and supporting information available at the reporting date on past events, current conditions, and projections of future economic conditions.
+- The maximum exposure to credit risk as at the reporting date is the book value of each class of financial assets.
+- Customers' outstanding receivables are monitored regularly.
 
 #### **Commercial Receivables**
-- The document provides information about the exposure to credit risk on the Company's commercial receivables using a provision matrix, though the details of the matrix are not provided in this excerpt.
+- Information about the exposure to credit risk on the Company's commercial receivables is provided using a provision matrix (details not included in the excerpt).
 
 ### Key Takeaways:
 1. **Risk Management Framework**: The Company has a robust risk management framework overseen by management, with regular reviews and employee training.
-2. **Credit Risk Focus**: Credit risk is a significant area of focus, with detailed policies and controls in place to manage exposure.
-3. **Exposure Analysis**: The document provides a detailed breakdown of credit risk exposure for 2024 and 2023, highlighting changes in key areas like accounts receivable and cash at banks.
-4. **Regular Monitoring**: The Company regularly monitors outstanding receivables and performs impairment analyses to assess credit risk.
+2. **Credit Risk**: Credit risk is a significant focus, with detailed policies for managing customer-related credit risk, including credit limits and regular monitoring.
+3. **Financial Exposure**: The document provides a detailed breakdown of credit risk exposure for 2024 and 2023, highlighting changes in key areas like accounts receivable and cash at banks.
+4. **Impairment Analysis**: A custom matrix is used to assess expected credit losses, reflecting a comprehensive approach to managing financial risks.
+5. **Regular Monitoring**: The Company regularly monitors outstanding receivables and evaluates customer credit quality to mitigate risks.
 
-This page emphasizes the Company's commitment to managing financial risks, particularly credit risk, through structured policies, regular monitoring, and detailed analysis.
+This page emphasizes the Company's structured approach to managing financial risks, particularly credit risk, and its commitment to maintaining a robust risk management framework.
 
 ---
 
@@ -2297,7 +2317,7 @@ Page 33 (image, 120 DPI):
       - Ending balance: **4,743,469**
 
 - **Related Party Receivables:**
-  - The financial position of the related party is stable, and there were no past due or impaired receivables.
+  - The financial position of the related party is stable, with no past due or impaired receivables.
 
 #### **Market Risk**
 - **Definition:**
@@ -2305,21 +2325,21 @@ Page 33 (image, 120 DPI):
   - The objective of market risk management is to manage and control exposure to market risk within acceptable limits while maximizing returns.
 
 - **Foreign Exchange Rate Risk:**
-  - The foreign exchange rate risk arises from changes in the value of financial instruments due to fluctuations in foreign exchange rates (Saudi riyals, USD, and EUR).
-  - The Company's foreign exchange risk management aims to protect future cash flows in Saudi riyals.
-  - Foreign exchange exposures related to cash flows are monitored at the Company level, primarily from currency exchange risk resulting from payables and receivables.
-  - The Company monitors currency exchange rates and believes that the risk of fluctuations in currency exchange rates is not significant.
+  - Caused by changes and fluctuations in the value of financial instruments due to changes in foreign exchange rates.
+  - The Company's foreign exchange risk management aims to protect future cash flows in Saudi riyals, USD, and EUR.
+  - Foreign exchange exposures related to cash flows are considered at the Company level and consist of principal from currency exchange risk resulting from payables and receivables.
+  - The Company monitors currency exchange rates and believes that the risk of fluctuations in currency exchange rates is not effective.
 
 - **Commission Rate Risk:**
-  - Commission rate risk arises from potential changes and fluctuations in commission rates that affect future profit or fair values of financial instruments.
-  - The Company monitors commission rate fluctuations and believes that the impact of commission rate risk is minimal.
+  - Arises from potential changes and fluctuations in commission rates that affect future profit or fair values of financial instruments.
+  - The Company monitors commission rate fluctuations and believes that the impact of commission rate risk is ineffective.
 
 #### **Capital Risk**
 - **Objective:**
   - The main objective of the Company's capital management is to support its business and increase returns to shareholders.
 - **Policy:**
   - The Company aims to maintain a strong capital base to maintain the confidence of users of financial statements and support the future development of the business.
-  - The capital structure is managed and adjusted based on changes in economic conditions.
+  - The Company manages its capital structure and makes adjustments based on changes in economic conditions.
 - **Monitoring:**
   - Management monitors the return on capital, which is determined by the Company as the result of operating activities divided by total equity.
   - There were no changes in the Company's way of managing capital during the year.
@@ -2327,7 +2347,7 @@ Page 33 (image, 120 DPI):
 - **Regulatory Requirements:**
   - The Company was not subject to externally imposed capital requirements.
 
-### Key Takeaways:
+### **Key Takeaways:**
 1. **Credit Risk:**
    - The Company has a detailed breakdown of accounts receivable by age and expected credit losses.
    - The provision for expected credit losses increased from **4,743,469** in 2023 to **5,662,234** in 2024.
@@ -2335,12 +2355,12 @@ Page 33 (image, 120 DPI):
 
 2. **Market Risk:**
    - The Company manages foreign exchange rate risk and commission rate risk.
-   - Foreign exchange rate risk is monitored, and the Company believes it is not significant.
-   - Commission rate risk is also monitored, and its impact is considered minimal.
+   - Foreign exchange risk is monitored, and the Company believes the risk of fluctuations is not effective.
+   - Commission rate risk is also monitored, and its impact is considered ineffective.
 
 3. **Capital Risk:**
-   - The Company focuses on maintaining a strong capital base to support business growth and shareholder returns.
-   - There were no changes in the way capital was managed during the year, and the Company was not subject to externally imposed capital requirements.
+   - The Company focuses on maintaining a strong capital base to support business operations and shareholder returns.
+   - There were no changes in the capital management approach during the year, and the Company was not subject to externally imposed capital requirements.
 
 This page provides a comprehensive overview of the Company's risk management strategies, focusing on credit, market, and capital risks.
 
@@ -2365,7 +2385,7 @@ Page 34 (image, 120 DPI):
        - Net debt: 45,780,220
        - Total equity: 371,959,312
        - Debt-to-equity ratio: 12.31%
-   - **Key Insight:** The company's debt-to-equity ratio improved significantly from 12.31% in 2023 to 7.71% in 2024, indicating a reduction in financial leverage and improved capital structure.
+   - **Key Observation:** The company's debt-to-equity ratio improved significantly from 12.31% in 2023 to 7.71% in 2024, indicating a reduction in financial leverage.
 
 2. **Liquidity Risk**
    - **Definition:** Liquidity risk refers to the company's ability to meet its financial obligations.
@@ -2374,38 +2394,36 @@ Page 34 (image, 120 DPI):
      - Ensure availability of funding from shareholders.
      - Monitor liquidity shortfall risks using forecast models.
      - Maintain an available cash flow ratio to ensure debt repayment at maturity.
-   - **Maturity Dates of Financial Liabilities (Undiscounted Contractual Payments):**
+   - **Summary of Maturity Dates of Financial Liabilities (Undiscounted Contractual Payments):**
      - **2024:**
-       - **Lease liabilities:** 1 to 12 months: 566,911; 1 to 5 years: 2,594,726; Indefinite: 0; Total: 3,161,637; Book value: 2,620,028
-       - **Employees' defined benefit plan obligations:** Indefinite: 8,211,791; Total: 8,211,791; Book value: 8,211,791
-       - **Due to related party:** 1 to 12 months: 956,566; Total: 956,566; Book value: 956,566
-       - **Account payable:** 1 to 12 months: 35,522,044; Total: 35,522,044; Book value: 35,522,044
-       - **Accrued expenses and other liabilities:** 1 to 12 months: 9,113,564; Total: 9,113,564; Book value: 19,165,269
-       - **Total liabilities:** 46,159,085; 2,594,726; 8,211,791; 56,965,602; Book value: 66,475,698
+       - Total liabilities: 19,165,269
+         - 1 to 12 months: 46,159,085
+         - 1 to 5 years: 2,594,726
+         - Indefinite: 8,211,791
+         - Book value: 66,475,698
      - **2023:**
-       - **Lease liabilities:** 1 to 12 months: 1,024,328; 1 to 5 years: 3,161,637; Indefinite: 0; Total: 4,185,965; Book value: 3,512,023
-       - **Employees' defined benefit plan obligations:** Indefinite: 8,132,219; Total: 8,132,219; Book value: 8,132,219
-       - **Account payable:** 1 to 12 months: 1,325,163; Total: 1,325,163; Book value: 1,325,163
-       - **Due to related party:** 1 to 12 months: 43,051,335; Total: 43,051,335; Book value: 43,051,335
-       - **Accrued expenses and other liabilities:** 1 to 12 months: 9,551,597; Total: 9,551,597; Book value: 20,335,525
-       - **Total liabilities:** 54,952,423; 3,161,637; 8,132,219; 66,246,279; Book value: 76,356,265
-   - **Key Insight:** The company's financial liabilities are categorized by maturity dates, showing a detailed breakdown of short-term, medium-term, and long-term obligations. The book values are also provided for comparison.
+       - Total liabilities: 20,335,525
+         - 1 to 12 months: 54,952,423
+         - 1 to 5 years: 3,161,637
+         - Indefinite: 8,132,219
+         - Book value: 76,356,265
+   - **Key Observation:** The company's liquidity position appears stable, with a focus on managing short-term and long-term liabilities effectively.
 
 #### **Section: Fair Value**
+
 1. **Definition of Fair Value:**
-   - Fair value represents the value at which assets can be exchanged or liabilities paid between parties with knowledge and desire to do so on fair dealing terms.
+   - Fair value is the price at which assets can be exchanged or liabilities settled between knowledgeable and willing parties on fair dealing terms.
 2. **Financial Instruments:**
-   - Financial instruments consist of financial assets and financial liabilities.
-3. **Management's View:**
+   - Financial instruments include financial assets and financial liabilities.
+3. **Management's Assessment:**
    - The company's management believes that the fair value of financial assets and liabilities does not differ materially from their book values.
 
 ### **Key Takeaways:**
-- **Improved Capital Structure:** The debt-to-equity ratio decreased from 12.31% in 2023 to 7.71% in 2024, indicating better financial leverage.
-- **Liquidity Management:** The company actively manages liquidity risk by maintaining sufficient cash and monitoring cash flow forecasts.
-- **Detailed Liability Breakdown:** The maturity dates of financial liabilities are provided, showing a clear distribution of short-term, medium-term, and long-term obligations.
-- **Fair Value Alignment:** The company's financial assets and liabilities are valued at fair values that are consistent with their book values, indicating no significant discrepancies.
+- **Capital Risk:** The company's debt-to-equity ratio improved significantly in 2024, reflecting better financial leverage.
+- **Liquidity Risk:** The company actively manages liquidity by maintaining sufficient cash, monitoring cash flow, and ensuring timely debt repayment.
+- **Fair Value:** The fair value of financial assets and liabilities is aligned with their book values, indicating no significant discrepancies.
 
-This page provides a comprehensive overview of the company's risk management strategies, particularly focusing on capital and liquidity risks, along with a detailed analysis of financial liabilities and fair value considerations.
+This page provides a detailed overview of the company's risk management strategies, focusing on capital and liquidity risks, along with insights into the fair value of financial instruments.
 
 ---
 
@@ -2417,16 +2435,16 @@ Page 35 (image, 120 DPI):
 
 | **Account**                     | **Balance Before Reclassification** | **Reclassification** | **Balance After Reclassification** |
 |----------------------------------|--------------------------------------|----------------------|-------------------------------------|
-| Due from related parties         | -                                    | +1,273,022          | 1,273,022                          |
-| Accounts receivable             | 96,817,985                          | -1,273,022          | 95,544,963                         |
-| Accounts payable                | 55,160,426                          | -12,109,091         | 43,051,335                         |
-| Due to related party            | -                                    | +1,325,163          | 1,325,163                          |
-| Accrued expenses and other liabilities | 9,551,597                          | +10,783,928         | 20,335,525                         |
-| Lease liabilities – non-current portion | 2,636,817                          | -16,789             | 2,620,028                          |
-| Lease liabilities - current portion | 875,206                            | +16,789             | 891,995                            |
-| Cost of sales                   | 728,634,878                         | -564,864            | 728,070,014                        |
-| Finance costs of lease liabilities | -                                    | +190,006            | 190,006                            |
-| Interest cost of employees defined benefit plan obligations | -                                    | +374,858            | 374,858                            |
+| Due from related parties          | -                                    | +1,273,022           | 1,273,022                          |
+| Accounts receivable              | 96,817,985                          | -1,273,022           | 95,544,963                         |
+| Accounts payable                 | 55,160,426                          | -12,109,091          | 43,051,335                         |
+| Due to related party             | -                                    | +1,325,163           | 1,325,163                          |
+| Accrued expenses and other liabilities | 9,551,597                          | +10,783,928          | 20,335,525                         |
+| Lease liabilities – non-current portion | 2,636,817                          | -16,789              | 2,620,028                          |
+| Lease liabilities - current portion | 875,206                            | +16,789              | 891,995                            |
+| Cost of sales                    | 728,634,878                         | -564,864             | 728,070,014                        |
+| Finance costs of lease liabilities | -                                    | +190,006             | 190,006                            |
+| Interest cost of employees defined benefit plan obligations | -                                    | +374,858             | 374,858                            |
 
 #### **27. Subsequent Events**
 - **Cancellation of Commercial Registration**: Subsequent to the date of the financial statements, the Company canceled the commercial registration No. 2050155579 issued in Dammam city on 4 Shaaban 1443 H.
@@ -2436,9 +2454,8 @@ Page 35 (image, 120 DPI):
 - **Approval Date**: The financial statements have been approved by the Board of Directors on 13 Ramadan 1446 H (corresponding to 13 March 2025).
 
 ### Key Takeaways:
-1. **Reclassification Adjustments**: Several accounts were reclassified to align with the current year's classification, impacting balances such as accounts receivable, accounts payable, and accrued expenses.
-2. **Subsequent Event**: The cancellation of a commercial registration is noted as a significant event after the financial statement date.
-3. **No Other Significant Subsequent Events**: Management asserts there are no other material events requiring disclosure.
-4. **Approval**: The financial statements were approved by the Board of Directors on 13 March 2025. 
+1. **Reclassification**: Several accounts have been reclassified to align with the current year's classification, impacting balances such as accounts receivable, accounts payable, and accrued expenses.
+2. **Subsequent Event**: The cancellation of a commercial registration is noted as a significant subsequent event.
+3. **Approval**: The financial statements were approved by the Board of Directors on 13 March 2025. 
 
-This page provides critical insights into the financial reclassification, subsequent events, and approval process for the United Wire Factories Company's financial statements.
+This page provides important context for understanding the financial position and recent developments of the company.
