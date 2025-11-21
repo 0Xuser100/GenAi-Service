@@ -1,45 +1,43 @@
 # models.py
 
 import torch
-from diffusers import DiffusionPipeline, StableDiffusionInpaintPipelineLegacy
-from PIL import Image
+from transformers import Pipeline, pipeline
 
-# try:
-#     from transformers import PreTrainedModel
-# except ImportError:  # transformers is optional until image generation runs
-#     PreTrainedModel = None
-# else:
-#     if not getattr(PreTrainedModel, "_patched_for_offload_state_dict", False):
-#         _original_from_pretrained = PreTrainedModel.from_pretrained.__func__
-
-#         def _from_pretrained_without_offload(
-#             cls,
-#             pretrained_model_name_or_path,
-#             *model_args,
-#             **kwargs,
-#         ):
-#             kwargs.pop("offload_state_dict", None)
-#             return _original_from_pretrained(
-#                 cls, pretrained_model_name_or_path, *model_args, **kwargs
-#             )
-
-#         PreTrainedModel.from_pretrained = classmethod(_from_pretrained_without_offload)
-#         PreTrainedModel._patched_for_offload_state_dict = True
-
+prompt = "How to set up a FastAPI project?"
+system_prompt = """
+Your name is FastAPI bot and you are a helpful
+chatbot responsible for teaching FastAPI to your users.
+Always respond in markdown.
+"""
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
-def load_image_model() -> StableDiffusionInpaintPipelineLegacy:
-    pipe = DiffusionPipeline.from_pretrained(
-        "segmind/tiny-sd", torch_dtype=torch.float32
+def load_text_model():
+    pipe = pipeline(
+        "text-generation",
+        model="TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+        torch_dtype=torch.bfloat16,
+        device=device,
     )
-    pipe = pipe.to(device)
     return pipe
 
 
-def generate_image(
-    pipe: StableDiffusionInpaintPipelineLegacy, prompt: str
-) -> Image.Image:
-    output = pipe(prompt, num_inference_steps=10).images[0]
+def generate_text(pipe: Pipeline, prompt: str, temperature: float = 0.7) -> str:
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": prompt},
+    ]
+    prompt = pipe.tokenizer.apply_chat_template(
+        messages, tokenize=False, add_generation_prompt=True
+    )
+    predictions = pipe(
+        prompt,
+        temperature=temperature,
+        max_new_tokens=256,
+        do_sample=True,
+        top_k=50,
+        top_p=0.95,
+    )
+    output = predictions[0]["generated_text"].split("</s>\n<|assistant|>\n")[-1]
     return output

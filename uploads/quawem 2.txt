@@ -1,0 +1,2499 @@
+   
+ 
+ 
+ 
+ 
+BANK ALJAZIRA 
+(A Saudi Joint Stock Company) 
+ 
+ 
+UNAUDITED INTERIM CONDENSED 
+CONSOLIDATED FINANCIAL INFORMATION  
+FOR THE THREE-MONTH ENDED 31 MARCH 2024 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-MONTH PERIOD ENDED 31 MARCH 2024  
+8 
+ 
+1. GENERAL 
+ 
+This interim condensed consolidated financial information includes the financial information of 
+Bank AlJazira (the “Bank”) and its subsidiaries (collectively referred to as the “Group”). Bank 
+AlJazira is a Saudi Joint Stock Company incorporated in the Kingdom of Saudi Arabia and formed 
+pursuant to Royal Decree number 46/M dated 12 Jumad Al-Thani 1395H (21 June 1975). The Bank 
+commenced its business on 16 Shawwal 1396H (9 October 1976) with the takeover of The National 
+Bank of Pakistan’s branches in the King dom of Saudi Arabia under commercial registration 
+number 4030010523 dated 29 Rajab 1396H (27 July 1976) issued in Jeddah. The Bank is regulated 
+by the Saudi Central Bank (SAMA). The Bank operates through its 75 branches (31 December 
+2023: 75 branches and 3 1 March 2 023: 82 branches) and 51 Fawri Remittance Centers (31 
+December 2023: 52 and 31 March 2023: 54 Fawri Remittance Centers) in the Kingdom of Saudi 
+Arabia. The Bank’s Head Office is located at the following address: 
+ 
+Bank AlJazira 
+7724 King Abdulaziz Road - Al-Shatea District 
+Jeddah 23513 - 3551 
+P.O. Box 6277, Jeddah 21442 
+Kingdom of Saudi Arabia 
+ 
+The objective of the Bank is to provide a full range of Shari’ah compliant (non -interest based) 
+banking products and services comprising of Mu rabaha, Istisna’a, Ijarah, Tawaraq, Musharaka, 
+Wa’ad Fx and Sukuk which are approved and supervised by an independent Shari’ah Board 
+established by the Bank. The Bank’s shares are listed on Saudi Exchange in the Kingdom of Saudi 
+Arabia. 
+ 
+The details of the Bank’s subsidiaries are as follows: 
+ 
+ 
+ 
+ 
+Country of 
+incorporation 
+ 
+ 
+ 
+Nature of business 
+Ownership 
+(direct and 
+indirect) 
+31 March  
+2024 
+Ownership 
+(direct and 
+indirect) 
+31 
+December  
+2023 
+Ownership 
+(direct and 
+indirect) 
+31 March  
+2023 
+Subsidiaries      
+AlJazira Capital Company Kingdom of 
+Saudi Arabia 
+Brokerage, margin 
+financing and asset 
+management 
+100% 100% 100% 
+      Aman Development and 
+Real Estate Investment 
+Company  
+Kingdom of 
+Saudi Arabia 
+Holding and managing 
+real estate collaterals 
+on behalf of the Bank 
+100% 100% 100% 
+      Aman Insurance Agency 
+Company (under 
+liquidation – note (a) 
+below) 
+Kingdom of 
+Saudi Arabia 
+Acting as an agent for 
+bancassurance 
+activities on behalf of 
+the Bank 
+100% 100% 100% 
+      AlJazira Securities Limited Cayman Islands Carryout Shari’ah 
+compliant derivative 
+and capital market 
+transactions  
+100% 100% 100% 
+       BAJ Sukuk Tier 1 Limited  Cayman Islands Trustee for issuance of 
+Tier 1 capital 
+certificates 
+100% 
+ 
+100% 
+ 
+100% 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+9 
+ 
+1. GENERAL (continued) 
+  
+The details of the Bank’s associate is as follows: 
+ 
+ 
+ 
+ 
+Country of 
+incorporation 
+ 
+Nature of business 
+Ownership 
+(direct and 
+indirect) 
+31 March 
+2024 
+Ownership 
+(direct and 
+indirect) 
+31 
+December  
+2023 
+Ownership 
+(direct and 
+indirect) 
+31 March 
+2023 
+Associate      
+AlJazira Takaful 
+Ta’awuni Company 
+Kingdom of  
+Saudi Arabia 
+Fully Shari’ah 
+compliant protection 
+and saving products 26.03% 26.03% 26.03% 
+ 
+a) During financial year 2021, Aman Insurance Agency Company (the Company) applied for its 
+license renewal from Saudi Central Bank (“SAMA”), however, it was not renewed, as SAMA 
+had issued rules governing bancassurance activities during May 2020 which require the banks to 
+carry out Bancassurance business directly. This, as a result, restricted the ability of the Company 
+to carry out business activities and therefore, management of the Company decided to initiate the 
+winding up procedures which are in process as at 31 March 2024. 
+ 
+b) The Group invests in structured entities with the objective to resell the investment in a shor t 
+period after the establishment. Structured entities are consolidated when the relationship between 
+the Group and the structured entity indicates that the Group has power over the relevant activities 
+of the structured entity, is exposed to variable returns, and can use that power to affect the variable 
+return exposure. In other cases, the Group may sponsor or have exposure to such an entity but 
+not consolidate the entities. 
+ 
+As at 31 March 2024, the Group has a substantial ownership in these entities amoun ting to SR 
+1,156.47 million (31 December 202 3: SR 1,113.98 million and 31 March 2023 : SR 1,160.13 
+million). For all these investments, the Group analyses whether and to what extent it controls the 
+investee and any underlying entities. A material structured entity is consolidated into the Group’s 
+financial statements where the Group controls the structured entity, as per the determination 
+above criteria. As at 31 March 2024, Group’s investments in material structured entities do not 
+meet the above criteria of control. Accordingly, such investments are recorded as fair value 
+through statement of income (FVIS) into this interim condensed consolidated financial 
+information. 
+ 
+2. BASIS OF PREPARATION 
+ 
+The interim condensed consolidated financial information of the Group as at and for the period 
+ended 31 March 2024, has been prepared in accordance with International Accounting Standard 
+34 Interim Financial Reporting ( “IAS 34”) that is endorsed in the Kin gdom of Saudi Arabia and 
+other standards and pronouncements issued by the Saudi Organization for Chartered and 
+Professional Accountants (“SOCPA”).  
+ 
+This interim condensed consolidated financial information does not include all of the information 
+required for full annual financial statements and should be read in conjunction with the Group ’s 
+annual consolidated financial statements for the year ended 31 December 2023. The consolidated 
+financial statements of the Group as at and for the year ended 31 December 2023, were prepared 
+in accordance with International Financial Reporting Standards (IFRS) that are endorsed in the 
+Kingdom of Saudi Arabia and other standards and pronouncements issued by SOCPA.  
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+10 
+ 
+2. BASIS OF PREPARATION (continued) 
+ 
+The preparation of interim condensed consolidated financial information requires management to 
+make judgments, estimates and assumptions that affect the application of accounting policies and 
+the reported amounts of assets and liabilities, income and expense. Actual results may differ from 
+these estimates. 
+ 
+In preparing th is interim condensed consolidated financial information, significant judgements 
+made by the management in applying the Group’s accounting policies and the key sources of 
+estimation were consistent with those that were applied to the consolidated financial statements as 
+at and for the year ended 31 December 2023, except for new amendments that are applicable from 
+the period beginning 1 January 2024 as disclosed in note 4(a). 
+ 
+This interim condensed consolidated financial information is expressed in Saudi Arabian Riyals 
+(SR) and is rounded off to the nearest thousands except where otherwise stated and the functional 
+currency of the Bank is Saudi Riyal.  
+ 
+The new Companies Law issued through Royal Decree M/132 on 1/12/1443H (corresponding to 
+30 June 2022) (hereinafter referred as "the Law”) came into force on 26/6/1444H (corresponding 
+to 19 January 2023). For certain provisions of the Law, full compliance is expected not later than 
+two years from 26/6/1444H (corresponding to 19 January 2023). The management is in process of 
+assessing the impact of the New Companies Law and will amend its by -laws for any changes to 
+align the by-laws to the provisions of the Law. Consequently, the Bank shall present the amended 
+by-laws to the shareholders in their Extraordinary / Annual General Assembly meeting for their 
+ratification. 
+ 
+3.  BASIS OF CONSOLIDATION 
+ 
+This interim condensed consolidated financial information comprises the interim condensed 
+financial statements of Bank AlJazira and its subsidiaries as set out in Note 1. The financial 
+information of the subsidiaries is prepared for the same reporting period as that of the Bank.  
+ 
+The interim condensed consolidated financial information has been prepared using uniform 
+accounting policies and valuation methods for like transactions and other events in similar 
+circumstances. The accounting policies of subsidiaries have been changed when necessary to align 
+them with the policies adopted by the Group. 
+ 
+a) Subsidiaries  
+ 
+Subsidiaries are entities which are controlled by the Bank. The Bank controls an entity when it is 
+exposed to, or has rights to, variable returns from its involvement with the entity and has the ability 
+to affect those returns through its power over the entity. To meet the definition of control, all of 
+the following three criteria must be met: 
+ 
+i. the Group has power over an entity;  
+ii. the Group has exposure, or rights, to variable returns from its involvement with the entity; 
+and  
+iii. the Group has the ability to use its power over the entity to affect the amount of the entity’s 
+returns. 
+ 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+11 
+ 
+3.  BASIS OF CONSOLIDATION (continued) 
+ 
+The Group re -assesses whether or not it controls an investee in case facts and circumstances 
+indicate that there are changes to one or more of the criteria of control. 
+ 
+Subsidiaries are consolidated from the date on which control is transferred to the Group and cease 
+to be consolidated from the date on which the control is transferred from the Group. The results of 
+subsidiaries acquired or disposed of during the period, if any, are included in the interim condensed 
+consolidated statement of income from the date of the acquisition or up to the dat e of disposal, as 
+appropriate. 
+ 
+b) Non-controlling interests 
+ 
+Non-controlling interests represent the portion of net income and net assets of subsidiaries not 
+owned, directly or indirectly, by the Group in its subsidiaries and are presented separately in the 
+interim condensed consolidated statement of income and within equity in the interim condensed 
+consolidated statement of financial position, separately from the Bank’s equity. Any losses 
+applicable to the non -controlling interests in a subsidiary are alloca ted to the non -controlling 
+interests even if doing so causes the non-controlling interests to have a deficit balance. Changes in 
+the Group’s interest in a subsidiary that do not result in a loss of control are accounted for as equity 
+transactions. 
+ 
+c) Transactions eliminated on consolidation 
+ 
+Balances between the Group entities, and any unrealized income and expenses (except for foreign 
+currency transaction gains or losses) arising from intra -group transactions, are eliminated in 
+preparing the interim condense d consolidated financial information. Unrealized losses are 
+eliminated in the same way as unrealized gains, but only to the extent that there is no evidence of 
+impairment. 
+ 
+d) Investment in an associate 
+ 
+Associates are entities over which the Group exercises significant influence. Investments in 
+associates are initially recognized at cost and subsequently accounted for under the equity method 
+of accounting and are carried in the interim condensed consolidated statement of financial position 
+at the lower of the equity-accounted value or the recoverable amount. 
+ 
+Equity-accounted value represents the cost plus post -acquisition changes in the Group’s share of 
+net assets of the associate (share of the results, reserves and accumulated gains/ (losses) based  on 
+the latest available financial information) less impairment, if any. 
+ 
+After application of the equity method, the Group determines whether it is necessary to recognise 
+an additional impairment loss on its investment in its associates. The Group determi nes at each 
+reporting date whether there is any objective evidence that the investment in the associate is 
+impaired. If this is the case, the Group calculates the amount of impairment as the difference 
+between the recoverable amount of the associate and its carrying value and recognises the amount 
+in ‘share in net income / (loss) of an associate’ in the interim condensed consolidated statement of 
+income. 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+12 
+ 
+3.  BASIS OF CONSOLIDATION (continued) 
+ 
+The previously recognized impairment loss in respect of investment in associate can be reversed 
+through the interim condensed consolidated statement of income, such that the carrying amount of 
+the investment in the interim condensed consolidated statement of financial position remains at the 
+lower of the equity-accounted (before allowance for impairment) or the recoverable amount. 
+ 
+Unrealized gains and losses on transactions between the Group and its associates are eliminated to 
+the extent of the Group’s interest in the associates. 
+ 
+4. MATERIAL ACCOUNTING POLICIES, ESTIMATES AND ASSUMPTIONS 
+ 
+The accounting policies adopted in the preparation of the interim condensed consolidated financial 
+information are consistent with those followed in the preparation of the Group’s annual 
+consolidated financial statements for the year ended 31 December 2023, except for the adoption of 
+new standards effective as of 1 January 2024. Several amendments apply for the first time in 2024 
+but do not have impact on this interim condensed consolidated financial information of the Group.  
+The Group has not early adopted any standard, interpretation or amendment that has been issued 
+but is not yet effective.   
+ 
+a) New standards, interpretations and amendments adopted by the Group 
+ 
+Following standard, interpretation or amendme nt are effective from the current year and are 
+adopted by the Group, however, these does not have any significant impact on the interim 
+condensed consolidated financial information of the Group, unless otherwise stated below: 
+Standard, 
+interpretation, 
+amendments 
+Description Effective date 
+Accounting & Financial reporting standards 
+Amendment to IFRS 
+16 – Leases on sale 
+and leaseback 
+These amendments include requirements for sale and 
+leaseback transactions in IFRS 16 to explain how an entity 
+accounts for a sale and leaseback after the date of the 
+transaction. Sale and leaseback transactions where some or all 
+the lease payments are variable lease payments that do not 
+depend on an index or rate are most likely to be impacted. 
+1 January 2024 
+Amendments to IAS 
+7 and IFRS 7 on 
+Supplier finance 
+arrangements 
+These amendments require disclosures to enhance the 
+transparency of supplier finance arrangements and their effects 
+on a company’s liabilities, cash flows and exposure to liquidity 
+risk. The disclosure requirements are the IASB’s response to 
+investors’ concerns that some companies’ supplier finance 
+arrangements are not sufficiently visible, hindering investors’ 
+analysis. 
+1 January 2024 
+Amendment to IAS 1 
+– Non-current 
+liabilities with 
+covenants 
+These amendments clarify how conditions with which an entity 
+must comply within twelve months after the reporting period 
+affect the classification of a liability. The amendments also aim 
+to improve information an entity provides related to liabilitie s 
+subject to these conditions. 
+ 
+1 January 2024 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+13 
+ 
+4. SIGNIFICANT ACCOUNTING POLICIES, ESTIMATES AND ASSUMPTIONS 
+(continued) 
+ 
+b) New standards, interpretations and amendments adopted by the Group (continued) 
+Standard, 
+interpretation, 
+amendments 
+Description Effective date 
+Other Standards 
+IFRS S1, ‘General 
+requirements for 
+disclosure of 
+sustainability-related 
+financial information 
+This standard includes the core framework for the disclosure of 
+material information about sustainability-related risks and 
+opportunities across an entity’s value chain. 
+ 
+1 January 2024 
+subject to 
+endorsement 
+from SOCPA 
+IFRS S2, ‘Climate -
+related disclosures’ 
+This is the first thematic standard issued that sets out 
+requirements for entities to disclose information about climate -
+related risks and opportunities. 
+1 January 2024 
+subject to 
+endorsement 
+from SOCPA 
+b) Accounting standards issued but not yet effective 
+ 
+The International Accounting Standard Board (IASB) has issued following accounting standards, 
+amendments and revisions which are effective from periods on or after 1 January 2024. The Group 
+has opted not to early adopt these pronouncements and they do not have a significant impact on the 
+interim condensed consolidated financial statements of the Group.  
+ 
+Standard, 
+interpretation, 
+amendments 
+Description Effective date 
+Amendment to 
+IFRS 21 – Lack 
+of 
+exchangeability 
+IASB amended IAS 21 to add requirements to help in 
+determining whether a currency is exchangeable into another 
+currency, and the spot exchange rate to use when it is not 
+exchangeable. Amendment set out a  framework under w hich 
+the spot exchange rate at the measurement date could be 
+determined using an observable exchange rate without 
+adjustment or another estimation technique. 
+1 January 2025 
+Amendments to 
+IFRS 10 and IAS 
+28- Sale or 
+Contribution of 
+Assets between 
+an Investor and 
+its Associate or 
+Joint Venture 
+Partial gain or loss recognition for transactions between an 
+investor and its associate or joint venture only apply to the gain 
+or loss resulting from the sale or contribution of assets that do 
+not constitute a b usiness as defined in IFRS 3 Business 
+Combinations and the gain or loss resulting from the sale or 
+contribution to an associate or a joint venture of assets that 
+constitute a business as defined in IFRS 3 is recognized in full. 
+Effective date 
+deferred indefinitely 
+ 
+IFRS 18 – 
+Presentation and 
+disclosure in 
+financial 
+statements 
+IFRS 18 will replace IAS 1; many of the other existing 
+principles in IAS 1 are retained, with limited changes. IFRS 18 
+will not impact the recognition or measurement of items in the 
+financial statements, but it might change what an entity reports 
+as its ‘operating profit or loss’. IFRS 18 will apply for reporting 
+periods beginning on or after 1 January 2027 and also applies 
+to comparative information. The c hanges in presentation and 
+disclosure required by IFRS 18 might require system and 
+process changes for many entities. 
+1 January 2027 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+14 
+ 
+5. INVESTMENTS, NET 
+ 
+Investments are classified as follows: 
+ 31 March 2024 (Unaudited) 
+SR’000 
+ Domestic International Total 
+    
+i) FVIS    
+    Mutual funds 134,880 1,383,937 1,518,817 
+    Equities – quoted 25,238 - 25,238 
+    Equities – unquoted - 20,487 20,487 
+ 160,118 1,404,424 1,564,542 
+ii) FVOCI    
+    Equities – unquoted 4,143 1,099 5,242 
+    Sukuk investments – equities 2,502,740 200,175 2,702,915 
+    Sukuk investments – debt  9,656,742 - 9,656,742 
+ 12,163,625 201,274 12,364,899 
+    Allowance for impairment (1,838) - (1,838) 
+ 12,161,787 201,274 12,363,061 
+iii) Amortised cost    
+   Sukuk investments 16,155,977 377,288 16,533,265 
+   Wakala floating rate notes 3,522,479 - 3,522,479 
+ 19,678,456 377,288 20,055,744 
+   Allowance for impairment (10,584) (343) (10,927) 
+ 19,667,872 376,945 20,044,817 
+Total 31,989,777 1,982,643 33,972,420 
+ 
+ 31 December 2023 (Audited) 
+SR’000 
+ Domestic International Total 
+    
+i) FVIS    
+Mutual funds 63,560 1,400,081 1,463,641 
+Equities – unquoted - 20,487 20,487 
+ 63,560 1,420,568 1,484,128 
+ii) FVOCI    
+Equities – unquoted 4,143 1,120 5,263 
+Sukuk investments - equities 2,441,792 197,080 2,638,872 
+Sukuk investments - debt 9,795,972 - 9,795,972 
+ 12,241,907 198,200 12,440,107 
+Allowance for impairment (1,624) - (1,624) 
+ 12,240,283 198,200 12,438,483 
+iii) Amortised cost    
+Sukuk investments 16,623,633 382,707 17,006,340 
+Wakala floating rate notes 3,523,409 - 3,523,409 
+ 20,147,042 382,707 20,529,749 
+Allowance for impairment (9,721) (349) (10,070) 
+ 20,137,321 382,358 20,519,679 
+Total 32,441,164 2,001,126 34,442,290 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+15 
+ 
+5. INVESTMENTS, NET (continued) 
+ 
+ 31 March 2023 (Unaudited) 
+SR’000 
+ Domestic International Total 
+    
+i) FVIS    
+    Mutual funds 24,269 1,319,853 1,344,122 
+    Equities – quoted 309 - 309 
+ 24,578 1,319,853 1,344,431 
+ii) FVOCI    
+    Equities – quoted 159,998                             -    159,998  
+    Equities – unquoted 4,143  1,108  5,251  
+    Sukuk investments – equity 1,914,290  199,341  2,113,631  
+    Sukuk investments – debt  8,219,460                               
+-    8,219,460  
+ 10,297,891 200,449 10,498,340 
+    Allowance for impairment (5,482) - (5,482) 
+ 10,292,409 200,449 10,492,858 
+iii) Amortised cost    
+    Sukuk investments 20,320,002 377,288 20,697,290 
+    Wakala floating rate notes 3,520,015 - 3,520,015 
+ 23,840,017 377,288 24,217,305 
+   Allowance for impairment (13,257) (1,183) (14,440) 
+ 23,826,760 376,105 24,202,865 
+Total 34,143,747 1,896,407 36,040,154 
+ 
+6. FINANCING, NET 
+ 
+The financing is classified as at amortized cost as follows: 
+ 
+  SR’000 
+ Credit cards Consumer Commercial Others Total 
+31 March 2024 (Unaudited)      
+      
+Performing financing  756,520 29,920,133 54,076,595 296,273 85,049,521 
+Non-performing financing  54,591 297,892 993,410 11,842 1,357,735 
+ ────── ────── ─────── ────── ─────── 
+Gross financing 811,111 30,218,025 55,070,005 308,115 86,407,256 
+Allowance for impairment (74,559) (225,345) (1,985,327) (5,768) (2,290,999) 
+ ────── ────── ─────── ────── ─────── 
+Financing, net  736,552 29,992,680 53,084,678 302,347 84,116,257 
+ ══════ ══════ ═══════ ══════ ═══════ 
+ 
+ 
+ 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+16 
+ 
+6. FINANCING, NET (continued) 
+ 
+  SR’000 
+ Credit cards Consumer Commercial Others Total 
+31 December 2023 (Audited)      
+      
+Performing financing 770,715 29,172,310 51,799,465 295,058 82,037,548 
+Non-performing financing 53,873 303,447 1,171,180 7,385 1,535,885 
+ ────── ────── ─────── ────── ─────── 
+Gross financing 824,588 29,475,757 52,970,645 302,443 83,573,433 
+Allowance for impairment (73,429) (214,083) (2,501,057) (3,963) (2,792,532) 
+ ────── ────── ─────── ────── ─────── 
+Financing, net  751,159 29,261,674 50,469,588 298,480 80,780,901 
+ ══════ ══════ ═══════ ══════ ═══════ 
+ 
+31 March 2023 (Unaudited)      
+      
+Performing financing  742,749 29,425,840 43,037,532 291,103 73,497,224 
+Non-performing financing  59,632 329,867 907,024 6,794 1,303,317 
+ ────── ────── ─────── ────── ─────── 
+Gross financing 802,381 29,755,707 43,944,556 297,897 74,800,541 
+Allowance for impairment (78,934) (226,571) (2,461,190) (3,757) (2,770,452) 
+ ────── ────── ─────── ────── ─────── 
+Financing, net  723,447 29,529,136 41,483,366 294,140 72,030,089 
+ ══════ ══════ ═══════ ══════ ═══════ 
+ 
+Financing, net represents Shari’ah compliant products in respect of Murabaha agreements, Ijarah, Istisnaat, 
+Musharaka and Tawarruq. 
+ 
+  
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+17 
+ 
+6. FINANCING, NET (continued) 
+ 
+a) Movement in allowance for impairment is as follows: 
+ 
+31 March 
+2023 
+(Unaudited) 
+SR’000 
+31 December  
+2023 
+(Audited) 
+SR’000 
+31 March  
+2024 
+(Unaudited) 
+SR’000 
+ 
+    
+2,718,645 2,718,645 2,792,532 Balance at the beginning of the period / year 
+87,564 379,084 88,103 Impairment charge for financing 
+(12,084) (192,107) (559,252) Bad debts written off 
+(23,673)  (113,090) (30,384) 
+(Reversal) / (recoveries) of amounts previously  
+provided 
+2,770,452 2,792,532 2,290,999 Balance at the end of the period / year 
+ 
+b) Net impairment charge for financing and other financial assets for the period in the interim 
+condensed consolidated statement of income comprised of: 
+ 
+ 31 March  
+2024 
+(Unaudited) 
+SR’000 
+31 March  
+2023 
+(Unaudited) 
+SR’000 
+Impairment charge for financing  88,103 87,564 
+(Reversal) / (recoveries) of amounts previously provided (30,384) (23,673) 
+(Recoveries) from debts previously written off (14,364) (8,453) 
+Net (reversal) / impairment charge for ECL in respect of due from banks 
+and other financial institutions (21) 3,841 
+Net impairment charge for ECL in respect of investments 1,071 445 
+Net impairment charge for ECL in respect of non -funded financing and 
+credit related commitments 10,973 275 
+ 
+Impairment charge for financing and other financial assets, net 55,378 59,999 
+ 
+ 
+ 
+  
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+18 
+ 
+6. FINANCING, NET (continued) 
+ 
+c) The following table explains changes in gross carrying amount of the financing to help 
+explain their significance to the changes in the loss allowance. 
+ 
+ 
+ 
+ 
+  31 March 2024 (Unaudited)  
+ 
+12 month 
+ECL 
+Life time 
+ECL not 
+credit 
+impaired 
+Lifetime 
+ECL credit 
+impaired Total 
+ (SR’000) 
+Gross carrying amount as at 1 January 
+2024 
+76,337,327 3,332,655 3,903,451 83,573,433 
+Transfer to 12-month ECL 385,687   (370,145)  (15,542) - 
+Transfer to lifetime ECL not credit – 
+Impaired 
+           
+(185,012)           188,173  (3,161) 
+- 
+Transfer to lifetime ECL credit impaired  (22,635)  (22,120) 44,755  - 
+New financial assets originated  4,342,672              25,098  1,698  4,369,468  
+Financial assets that have been 
+derecognized 
+        
+(2,662,401)  (39,013) (24,158) (2,725,572) 
+Changes in financing income accrual 16,061                       -    -    16,061  
+Other movements 1,897,317   (109,778) (54,421) 1,733,118   
+Write-offs -                         -     (559,252)  (559,252) 
+Gross carrying amount as at 31 March 
+2024 80,109,016 3,004,870 3,293,370 86,407,256 
+  31 December 2023 (Audited)  
+ 
+12 month 
+ECL 
+Life time ECL 
+not credit 
+impaired 
+Lifetime 
+ECL credit 
+impaired Total 
+ (SR’000) 
+Gross carrying amount as at 1 January 
+2023 
+66,966,856 2,840,214 3,510,584 73,317,654 
+Transfer to 12-month ECL 118,568  (115,551) (3,017) -  
+Transfer to lifetime ECL not credit – 
+   Impaired 
+(925,722) 983,692 (57,970) - 
+Transfer to lifetime ECL credit impaired (249,853) (637,837) 887,690  - 
+New financial assets originated  16,623,150  365,719 17,530  17,006,399  
+Financial assets that have been 
+derecognized 
+(6,992,517) (343,637) (35,334) (7,371,488) 
+Changes in financing income accrual 494,063  - - 494,063 
+Other movements 302,782 240,055 (223,925) 318,912 
+Write-offs - - (192,107) (192,107) 
+Gross carrying amount as at 31 December 
+2023 
+76,337,327 3,332,655 3,903,451 83,573,433 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+19 
+ 
+6. FINANCING, NET (continued) 
+ 
+ 
+Other movements mainly represent changes in exposures for customers where there has been no change 
+in the stage during the period. 
+ 
+d) An analysis of changes in ECL for financing is, as follows: 
+ 
+  31 March 2024 (Unaudited)  
+ 
+12 month 
+ECL 
+Life time 
+ECL not 
+credit 
+impaired 
+Lifetime 
+ECL credit 
+impaired Total 
+ (SR’000) 
+     
+ECL as at 1 January 2024 256,078 250,907 2,285,547 2,792,532 
+Transfer to 12-month ECL 11,259   (4,551)  (6,708) - 
+Transfer to lifetime ECL not credit – 
+impaired 
+                   
+(762)               2,162    (1,400) - 
+Transfer to lifetime ECL credit impaired  (117)  (416)                533  - 
+Net re-measurement of loss allowance  (36,851) 44,079         35,426   42,654 
+New financial assets originated  26,471  335          852  27,658 
+Financial assets that have been   
+derecognized 
+                
+(6,358)  (305)      (5,930) (12,593) 
+Write-offs -                         -     (559,252)  (559,252) 
+ECL as at 31March 2024 249,720 292,211 1,749,068 2,290,999 
+  31 March 2023 (Unaudited)  
+ 
+12 month 
+ECL 
+Life time ECL 
+not credit 
+impaired 
+Lifetime 
+ECL credit 
+impaired Total 
+ (SR’000) 
+Gross carrying amount as at 1 January 
+2023 66,966,856 2,840,214 3,510,584 73,317,654 
+Transfer to 12-month ECL 87,948  (75,617)  (12,331) - 
+Transfer to lifetime ECL not credit – 
+Impaired  (672,734) 679,624   (6,890) - 
+Transfer to lifetime ECL credit impaired  (33,025) (94,262) 127,287  - 
+New financial assets originated  3,939,107  9,586  28  3,948,721  
+Financial assets that have been 
+derecognized  (1,945,240) (54,342)  (11,322)  (2,010,904) 
+Changes in profit accrual 234,940  - - 234,940  
+Other movements  (808,436) 137,129   (6,479)  (677,786) 
+Write-offs - -  (12,084)  (12,084) 
+Gross carrying amount as at 31 March 
+2023 67,769,416 3,442,332 3,588,793 74,800,541 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+20 
+ 
+6. FINANCING, NET (continued) 
+ 
+ 
+  31 March 2023 (Unaudited)  
+ 
+12 month 
+ECL 
+Life time ECL 
+not credit 
+impaired 
+Lifetime ECL 
+credit 
+impaired Total 
+ (SR’000) 
+     
+ECL as at 1 January 2023 248,641 305,843 2,164,161 2,718,645 
+Transfer to 12-month ECL 6,327   (791)  (5,536) - 
+Transfer to lifetime ECL not credit – 
+impaired  (5,948) 8,902   (2,954) - 
+Transfer to lifetime ECL credit impaired  (218)  (3,652) 3,870  - 
+Net re-measurement of loss allowance  (2,170) 11,279  56,237  65,346  
+New financial assets originated  15,306  229  88  15,623  
+Financial assets that have been   
+derecognized  (5,782)  (3,902)  (7,394)  (17,078) 
+Write-offs - -  (12,084)  (12,084) 
+ECL as at 31 March 2023 256,156 317,908 2,196,388 2,770,452 
+ 
+ 
+ 
+  
+  31 December 2023 (Audited)  
+ 
+12 month 
+ECL 
+Life time ECL 
+not credit 
+impaired 
+Lifetime ECL 
+credit 
+impaired Total 
+ (SR’000) 
+     
+ECL as at 1 January 2023 248,641 305,843 2,164,161 2,718,645 
+Transfer to 12-month ECL 2,922  (1,460) (1,462) - 
+Transfer to lifetime ECL not credit – 
+impaired 
+(6,920) 12,428  (5,508) - 
+Transfer to lifetime ECL credit impaired (921) (208,571) 209,492  - 
+Net re-measurement of loss allowance (21,355) 149,851  111,555 240,051   
+New financial assets originated  59,261  1,156  7,568  67,985  
+Financial assets that have been   
+derecognized 
+(25,550) (8,340) (8,152) (42,042)  
+Write-offs - - (192,107) (192,107) 
+ECL as at 31 December 2023 256,078 250,907 2,285,547 2,792,532 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+21 
+ 
+7. INVESTMENT IN AN ASSOCIATE 
+ 
+ Investment in an associate represents the investment made by the Group in AlJazira Takaful 
+Ta’awuni Company (“ATT”). The Group effectively holds 26.03% (31 December 2023: 26.03% 
+and 31 March 2023: 26.03%) shareholding in ATT. 
+  
+ The share of total comprehensive income in an associate represents the Group’s share in the total 
+comprehensive income of ATT and was based on the latest available financial information of ATT 
+for the period ended 31 December 2023. ATT is listed with Saudi Stock Exchange (Tadawul) and 
+the market value of the investment in A TT as of 31 March 2024  was SR 318.82 million (31 
+December 2023: SR 292.02 million and 31 March 2023: SR 244.21 million) based on Saudi Stock 
+Exchange (Tadawul) market price. 
+  
+8. CUSTOMERS’ DEPOSITS 
+ 
+ 31 March 
+2024 
+(Unaudited) 
+SR’000 
+31 December 
+2023 
+(Audited) 
+SR’000 
+31 March 
+2023 
+(Unaudited) 
+SR’000 
+    
+Demand 36,264,221 33,411,088 37,446,127 
+Saving 2,355,269 2,045,058 713,353 
+Customers’ time investments 56,129,369 56,491,816 46,721,465 
+Other 2,518,878 2,106,439 1,986,280 
+    Total 97,267,737 94,054,401 86,867,225 
+    
+Customers’ time investments comprise deposits received on Shari’ah Compliant (non -
+commission based) Murabaha and Wakala products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+22 
+ 
+ 
+9. SHARIAH COMPLIANT DERIVATIVES  
+ 
+9.1 Nature/type of derivatives held 
+ 
+In the ordinary course of business, the Group utilizes the following Shari’ah compliant derivative 
+financial instruments for both trading and strategic hedging purposes: 
+ 
+a) Swaps 
+ 
+Swaps are commitments to exchange one set of cash flows for another. For profit rate 
+swaps, counterparties generally exchange fixed and floating rate profit payments in a single 
+currency without exchanging principal. For cross -currency profit rate swaps, principal, 
+fixed and floating profit payments are exchanged in different currencies. 
+ 
+b) Options (Wa’ad Fx) 
+ 
+Foreign exchange options are transactions, whereby a client, in consideration for the 
+payment of a fee agrees to enter into one or a series of trades in which one party (promisor) 
+gives a commitment as a unilateral undertaking, to a second party (promisee). 
+ 
+An option can be a unilateral promise or combinati on of promises. The Group enters into 
+the option depending on the client ’s risk profile, whereby the client may promise to buy, 
+sell or buy and sell a currency with or without conditions for hedging its exposure. 
+ 
+9.2 Purpose of derivatives 
+ 
+a) Held for trading purposes 
+ 
+Most of the Group’s derivative trading activities relate to sales, positioning and arbitrage. 
+Sales activities involve offering products to customers in order, to enable them to transfer, 
+modify or reduce current and future risks. Positioning involves managing market risk 
+positions with the expectation of profiting from favourable movements in prices, rates or 
+indices. Arbitrage involves identifying, with the expectation of profiting from, price 
+differentials between markets or products. 
+ 
+b) Held for hedging purposes 
+ 
+The Group uses Shari’ah compliant derivatives for hedging purposes in order to reduce its 
+exposure to profit rate risk and foreign exchange risk.  
+ 
+The Group has adopted a comprehensive system for the measurement and management of 
+risk. Part of the risk management process involves managing the Group ’s exposure to 
+fluctuations in foreign exchange and profit rates to reduce its exposure to currency and 
+profit rate risks to acceptable levels as determined by the Board of Directors wi thin the 
+guidelines issued by Saudi Central Bank. 
+ 
+As part of its financial asset and liability management, the Group uses Shari’ah compliant 
+derivatives for hedging purposes in order to adjust its own exposure to currency and profit  
+rate risk. This is generally achieved by hedging specific transactions. 
+  
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+23 
+ 
+9. SHARIAH COMPLIANT DERIVATIVES (continued) 
+ 
+9.2 Purpose of derivatives (continued) 
+ 
+b) Held for hedging purposes (continued) 
+ 
+Cash flow hedges 
+ 
+The Group is exposed to variability in future cash flows on non-trading assets and liabilities 
+which bear profit at a variable rate. The Group uses profit rate swaps as cash flow hedges 
+of these profit rate risks.  
+ 
+The (losses) / gains on cash flow hedges reclassified to the interim condensed consolidated 
+statement of income during the period are as follows: 
+ 
+The cash flow hedges of profit rate swap were highly effective in offsetting the variability 
+of return on investments, deposits and other financial liabilities.  
+ 
+Fair value gain on cash flow hedges amounting to SR 47.88 million (31 March 2023: loss 
+of SR 55.86 million) included in the interim condensed consolidated statement of 
+comprehensive income comprised of net unrealized loss of SR 49.95 million (31 March 
+2023: net unrealized loss of SR 67.99 million) and net realized gain of SR 97.82 million 
+(31 March 2023: net realized gain of SR 12.13 million) on terminated hedge relationships. 
+ 
+During the current and prior periods, the Group sold certain of its profit rate swaps used for 
+cash flows hedges. However, the gain / (loss) would continue to be classified in interim 
+condensed consolidated statement of comprehensive income as the related hedge items are 
+still outstanding. In accordance with the IFRS requirements, the gain / (loss) will be 
+reclassified to interim condensed consolidated statement of income in the period when the 
+cash flows pertaining to hedged items will affect the interim condensed consolidated 
+statement of income i.e. when profit receipts / payments impact the interim condensed 
+consolidated statement of income which is over the rem aining maturity of financial 
+instrument / hedge items.  
+ 
+9.3 Details of shar’iah compliant derivatives 
+ 
+The table below summarize the positive and negative fair values of the Group’s derivative 
+financial instruments, together with their notional amounts. The notional amounts, which 
+provide an indication of the volume of transactions outstanding at the end of the period, do 
+not necessarily reflect the amounts of future cash flows involved. These notional amounts, 
+therefore, are neither indicative of the Group’s exposure to credit risk, which is generally 
+limited to the positive fair value of the derivatives, nor market risk. 
+ 
+31 March 
+ 2024 
+(Unaudited) 
+SR’000 
+31 March 
+ 2023 
+(Unaudited) 
+SR’000 
+Income from investments and financing 1,511 3,197 
+Return on deposits and financial liabilities (3,953) (1,433) 
+ ────── ────── 
+Net (losses) / gains on cash flow hedges reclassified to the 
+interim condensed consolidated statement of income (2,442) 1,764 
+ ══════ ══════ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+24 
+ 
+9. SHARIAH COMPLIANT DERIVATIVES (continued) 
+ 
+ 
+ 
+ 
+31 December 2023 (Audited) 
+SR’000 
+ Positive fair 
+value 
+Negative fair 
+value Notional amount 
+Held for trading:    
+Options 35,198 35,198 1,174,611 
+Profit rate swaps 79,968 78,710 6,631,381 
+Cross currency profit rate swaps 411 8,715 1,875,000 
+Currency swaps 2,134 3,134 3,063,044 
+Currency forwards (Wa’ad) 4 93 7,245 
+Total 117,715 125,850 12,751,281 
+Held as cash flow hedge:    
+Profit rate swaps 104,793 21,211 3,600,000 
+    Total  222,508 147,061 16,351,281 
+ 
+ 
+ 
+ 
+Held for trading profit rate swaps (positive fair value / negative fair value) include accrued receivable 
+amounting to SR 31.15 million (31 December 2023: SR 11.29 million and 31 March 2023: SR 57.52 million) 
+and accrued payable amounting to SR 33.14 million (31 December 2023: SR 11.03 million and 31 March 
+2023: SR 63.03 million). Held as cash flow hedge profit rate swaps (positive fair value / negative fair value) 
+include accrued receivable amounting to SR 25.59 million (31 December 2023: SR 26.21 million and 31 
+March 2023: SR 29.43 million) and accrued payable amounting to SR 20.86 million (31 December 2023: SR 
+15.30 million and 31 March 2023: SR 24.53 million).   
+ 
+ 
+31 March 2024 (Unaudited) 
+SR’000 
+ Positive fair 
+value 
+Negative fair 
+value Notional amount 
+Held for trading:    
+Options 34,471 34,471 1,174,611 
+Profit rate swaps 73,422 71,051 5,106,871 
+Cross currency profit rate swaps 18,927 31,818 1,875,000 
+Currency swaps 1,552 1,388 3,399,434 
+Currency forwards (Wa’ad) 39 58 278,339 
+Total 128,411 138,786 11,834,255 
+Held as cash flow hedge:    
+Profit rate swaps 59,218 31,762 3,300,000 
+    Total  187,629 170,548 15,134,255 
+ 
+ 
+31 March 2023 (Unaudited) 
+SR’000 
+ Positive fair 
+value 
+Negative fair 
+value 
+Notional amount 
+Held for trading:    
+Options 6,181 6,181 576,870 
+Profit rate swaps 133,022 131,550 4,898,127 
+Cross currency profit rate swaps 18,927 31,750 1,875,000 
+Currency swaps 16,453 8,911 6,035,947 
+Currency forwards (Wa’ad) 105 113 5,913 
+Total 174,688 178,505 13,391,857 
+Held as cash flow hedge:    
+Profit rate swaps 98,037 57,140 4,600,000 
+    Total  272,725 235,645 17,991,857 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+25 
+ 
+10. SUBORDINATED SUKUK 
+ 
+On 8 December 2021, the Bank issued 2,000 Subordinated Sukuk Certificates (Sukuk) of SR 1 
+million each, with a profit distribution rate based on 6 month Saudi Inter -Bank Offered Rate 
+(SIBOR), reset semi-annually in advance, plus a margin of 155 basis point per annum and payable 
+semi-annually in arrears on 8 December  and 8 June each year until 8 December 2031, on which 
+date the Sukuk will expire. The Bank has a call option which can be exercised on or after 8 
+December 2026 on meeting certain conditions and as per the terms mentioned in the related offering 
+circular. The Sukuk may also be called upon occurrence of certain other conditions as per the terms 
+specified in the offering circular. These Sukuk are registered with Saudi Exchange (Tadawul). 
+ 
+11. SHARE CAPITAL AND EARNINGS PER SHARE 
+ 
+The authorized, issued and fully paid share capital of the Bank consists of 820 million shares of 
+SR 10 each (31 December 2023: 820 million shares of SR 10 each and 31 March 2023: 820 million 
+shares of SR 10 each). The Board of Directors had proposed a bonus issue of 1 bonus shares for 
+every 4 shares held by the shareholders  which has been approved in the shareholders’ Extra 
+Ordinary General Assembly Meeting held on April 24, 20 24 subsequent to the date of the 
+condensed interim consolidated financial information. Consequently, the Bank’s updated paid-up 
+share capital will be 1,025 million shares of SR 10 each. These changes will be incorporated into 
+the Group’s condensed interim consolidated financial information in the subsequent quarter. 
+ 
+The weighted average number of shares has been retrospectively adjusted for prior period to reflect 
+the effect of the changes in number of shares due to issue of bonus shares subsequent to period 
+end. 
+ 
+Basic earnings per share for the current and prior period is calculated by dividing the net income 
+for the period attributable to common equity holders of the Bank (adjusted for Tier 1 sukuk related 
+costs) by the weighted average number of ordinary shares outstanding, as follows: 
+ 
+ 
+ For the three month period ended 
+ 31 March 
+ 2024 
+(Unaudited) 
+SR’000 
+31 March 
+ 2023 
+(Unaudited) 
+SR’000 
+   
+Net income for the period attributable to ordinary 
+shareholders (adjusted for Tier 1 sukuk related costs)   
+For basic and diluted earnings per share 300,441 204,035 
+ Shares Shares 
+  Restated 
+Weighted-average number of ordinary shares   
+For basic and diluted earnings per share 820,000,000 820,000,000 
+Effect of bonus shares issue approved by shareholders 205,000,000 205,000,000 
+ 1,025,000,000 1,025,000,000 
+  Restated 
+Basic and diluted earnings per share (in SR) 0.29 0.20 
+ 
+        The calculations of basic and diluted earnings per share are same for the Bank. 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+26 
+ 
+12. OTHER RESERVES 
+ 
+ 
+31 March 2024 
+(Unaudited) Cash flow 
+hedges 
+SR’ 000 
+Fair value 
+reserve – 
+FVOCI 
+debt 
+SR’ 000 
+Fair value 
+reserve – 
+FVOCI 
+equity 
+SR’ 000 
+Actuarial 
+Gains   
+SR’ 000 
+ 
+Share in 
+OCI of 
+associate 
+SR’ 000 
+ 
+Total 
+SR’ 000 
+       
+Balance at beginning of 
+the period 31,290 (859,574) (75,324) 49,376 9,833 (844,399) 
+       
+Net change in fair value 47,878 (317,751) (12,005) - 984 (280,894) 
+Transfer to interim 
+condensed consolidated 
+statement of income 
+(note 9.2(b)) 2,442 - - - 
+ 
+ 
+ 
+- 2,442 
+ ───── ────── ────── ────── ────── ────── 
+Net movement during the 
+period 50,320 (317,751) (12,005) - 984 (278,452) 
+ ───── ────── ────── ────── ────── ────── 
+Balance at end of the 
+period 81,610 (1,177,325) (87,329) 49,376 10,817 (1,122,851) 
+ ══════ ══════ ══════ ══════ ══════ ══════ 
+ 
+ 
+ 
+31 December 2023 
+(Audited) Cash flow 
+hedges 
+SR’ 000 
+Fair value 
+reserve – 
+FVOCI debt 
+SR’ 000 
+Fair value 
+reserve – 
+FVOCI 
+equity 
+SR’ 000 
+Actuarial 
+gains  
+SR’ 000 
+ 
+Share in 
+OCI of 
+associate 
+SR’ 000 
+ 
+Total 
+SR’ 000 
+       
+Balance at beginning of 
+the year 73,235 (789,195) (81,637) 42,300 - (755,297) 
+       
+Net change in fair value (41,828) (70,379) 22,474 - 9,833 (79,900) 
+Transfers to retained 
+earnings on disposal - - (16,161) - - (16,161) 
+Transfer to consolidated 
+statement of income (117) - - - - (117) 
+  Actuarial gains on 
+employee benefit 
+obligation - - - 7,076 - 7,076 
+ ───── ────── ────── ────── ────── ────── 
+Net movement during the 
+year (41,945) (70,379) 6,313 7,076 9,833 (89,102) 
+ ───── ────── ────── ────── ────── ────── 
+Balance at end of the year 31,290 (859,574) (75,324) 49,376 9,833 (844,399) 
+ ══════ ══════ ══════ ══════ ══════ ══════ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+27 
+ 
+12. OTHER RESERVES (continued) 
+ 
+ 
+31 March 2023 
+(Unaudited) Cash flow 
+hedges 
+SR’ 000 
+Fair value 
+reserve – 
+FVOCI 
+debt 
+SR’ 000 
+Fair value 
+reserve – 
+FVOCI 
+equity 
+SR’ 000 
+Actuarial 
+gains   
+SR’ 000 
+ 
+Total 
+SR’ 000 
+      
+Balance at beginning of the 
+period 
+ 
+73,235 
+ 
+(789,195) 
+ 
+(81,637)  
+ 
+42,300 
+ 
+(755,297) 
+      
+Net change in fair value (55,858) 217,350 (5,301) - 156,191 
+Transfer to interim 
+condensed consolidated 
+statement of income (note 
+9.2(b)) 
+ 
+(1,764) 
+ 
+- 
+ 
+- 
+ 
+- 
+ 
+(1,764) 
+ ────── ────── ────── ────── ────── 
+Net movement during the 
+period 
+(57,622) 217,350 (5,301) - 154,427 
+ ────── ────── ────── ────── ────── 
+Balance at end of the period  
+15,613 
+ 
+(571,845) 
+ 
+(86,938) 
+ 
+42,300 
+ 
+(600,870) 
+ ══════   ══════ ══════ ══════ ══════ 
+ 
+13. TIER 1 SUKUK 
+ 
+During the year 2021, the Bank issued cross border Tier 1 Sukuk (the “Sukuk) through a Shari’ah 
+compliant arrangement (“the arrangement”) amounting to SR 1.875 billion (denominated in US 
+Dollars). This arrangement was approved by the regulatory authorities and the Board of Directors 
+of the Bank. The applicable profit rate is 3.95% per annum from date of issue up to June 2026 and 
+is subject to reset every 5 years. 
+ 
+In addition to the Tier 1 Sukuk issued above, during year 2023, the Bank completed the issuance 
+of an SAR-denominated additional Tier 1 sukuk of SR 2 billion (which is part of additional Tier 1 
+Capital Sukuk Programme of SR 5 billion) by way of a private placement in Saudi Arabia. This 
+arrangement was approved by the regulatory authorities and the Board of Directors of the Bank.  
+The applicable profit rate is 6% per annum from date of issue up to June 2028 and is subject to 
+reset every 5 years. 
+ 
+These Sukuks are perpetual securities in respect of which there is no fixed redemption dates and 
+represents an undivided ownership interest of the Sukuk -holders in the Sukuk assets, with each 
+Sakk constituting an unsecured, conditional and subordinated obligation of the Bank classified 
+under equity. However, the Bank shall have the exclusive right to redeem or call the Sukuk s in a 
+specific period of time, subject to the terms and conditions stipulated in the Sukuk agreement. 
+ 
+The applicable profit on the Sukuks is payable semi-annual in arrears on each periodic distribution 
+date, except upon the occurrence of a non -payment event or non -payment election by the Bank, 
+whereby the Bank may at its sole discretion (subject to certain terms and conditions) elect not to 
+make any distributions. Such non-payment event or non-payment election are not considered to be 
+events of default and the amounts not paid thereof shall not be cumulative or compound with any 
+future distributions. 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+28 
+ 
+14. COMMITMENTS AND CONTINGENCIES  
+ 
+a) The Group is subject to legal proceedings in the ordinary course of business. There was no 
+material change in the status of legal proceedings as disclosed at 31 December 2023. 
+ 
+b) The Bank’s credit related commitments and contingencies are as follows: 
+ 
+ 31 March 
+ 2024 
+(Unaudited) 
+SR’000 
+31 December 
+2023 
+ (Audited) 
+SR’000 
+31 March 
+ 2023 
+(Unaudited) 
+SR’000 
+    
+Letters of credit  3,088,008 3,008,148 2,905,102 
+Letters of guarantee  11,646,869 8,705,191 5,652,382 
+Acceptances 799,397 903,453 799,760 
+Irrevocable commitments to extend credit 773,375 1,138,489 1,234,836 
+Total 16,307,649 13,755,281 10,592,080 
+Allowance for impairment [b(ii)] (340,784) (329,811) (329,681) 
+Net exposure 15,966,865 13,425,470 10,262,399 
+ 
+- b)(i) The following table explains changes in gross carrying amount of the credit related 
+commitments and contingencies to help explain their significance to the changes in the credit loss 
+allowance for the same portfolio. 
+  31 March 2024 (Unaudited)  
+ 
+12 month 
+ECL 
+Life time ECL 
+not credit 
+impaired 
+Lifetime 
+ECL credit 
+impaired Total 
+ (SR’000) 
+Gross carrying amount as at 1 January 2024 13,187,483 48,116 519,682 13,755,281 
+Transfer to 12-month ECL 767            (750)                (17)                   -    
+Transfer to lifetime ECL not credit – impaired  (2,926)         2,926                     -    -    
+Transfer to lifetime ECL credit – impaired  (26,991)                -               26,991  -    
+New financial assets originated  867,482        43,836                     -          911,318  
+Financial assets derecognised during the period  (460,449)                -                       -        (460,449) 
+Other movements     2,080,188          2,881             18,430    2,101,499  
+Gross carrying amount as at 31 March 2024 15,645,554 97,009 565,086 16,307,649 
+ 
+  31 December 2023 (Audited)  
+ 12 month ECL 
+Life time ECL 
+not credit 
+impaired 
+Lifetime ECL 
+credit 
+impaired Total 
+ (SR’000) 
+Gross carrying amount as at 1 January 2023 8,818,321 40,135 546,850 9,405,306 
+Transfer to 12-month ECL 4,331 (4,331) - - 
+Transfer to lifetime ECL not credit – impaired (29,973) 29,973 - - 
+Transfer to lifetime ECL credit – impaired (6,681) (5,367) 12,048 - 
+New financial assets originated  3,318,760 21,684 300 3,340,744 
+Financial assets derecognised during the year (687,625) (3,222) (16,366) (707,213) 
+Other movements 1,770,350 (30,756) (23,150) 1,716,444 
+Gross carrying amount as at 31 December 2023 13,187,483 48,116 519,682 13,755,281 
+ 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+29 
+ 
+14. COMMITMENTS AND CONTINGENCIES (continued) 
+ 
+  31 March 2023 (Unaudited)  
+ 
+12 month 
+ECL 
+Life time ECL 
+not credit 
+impaired 
+Lifetime ECL 
+credit 
+impaired Total 
+ (SR’000) 
+Gross carrying amount as at 1 January 2023 8,818,321 40,135 546,850 9,405,306 
+Transfer to 12-month ECL 2,038   (2,038) - - 
+Transfer to lifetime ECL not credit – impaired  (7,961) 7,961  - - 
+Transfer to lifetime ECL credit – impaired -  (9) 9  - 
+New financial assets originated  980,037  627  300  980,964  
+Financial assets derecognised during the period  (675,892)  (734)  (14,675) (691,301) 
+Other movements 910,982   (4,770)  (9,101) 897,111  
+Gross carrying amount as at 31 March  2023 10,027,525 41,172 523,383 10,592,080 
+ 
+ 
+Other movements mainly represent changes in exposures for customers where there has been 
+no change in the stage during the period. 
+ 
+- b)(ii) An analysis of changes in allowance for ECL for credit related commitments and 
+contingencies is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  31 March 2024 (Unaudited)  
+ 
+12 month 
+ECL 
+Life time 
+ECL not 
+credit 
+impaired 
+Lifetime 
+ECL credit 
+impaired Total 
+ (SR’000) 
+     
+ECL as at 1 January 2024 44,753 301 284,757 329,811 
+Transfer to 12-month ECL 5 (5) - - 
+Transfer to lifetime ECL not credit – Impaired (12) 12 - - 
+Transfer to lifetime ECL credit – impaired (188) - 188 - 
+Net re-measurement of loss allowance 1,966              (31)        6,071         8,006  
+New financial assets originated         3,551                17                    -          3,568  
+Financial assets that have been derecognized  (601)                -                     -          (601) 
+ECL as at 31 March 2024 49,474 294 291,016 340,784 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+30 
+ 
+14. COMMITMENTS AND CONTINGENCIES (continued) 
+ 
+ 
+ 
+ 
+c) To resolve outstanding Zakat liabilities for the years 2006 to 2017, the Bank entered into a Settlement 
+Agreement (the “Agreement”) with the Zakat, Tax and Customs Authority (ZATCA) in 2018. This 
+agreement complied with Royal Decree No. (26/M) dated 20 Rabi Al-Awaal 1440 H (28 November 
+2018) and the Ministerial Resolution No. 1260 dated 5 Rabi Al-Thani 1440 H (12 December 2018). 
+All Zakat liabilities for those years were fully settled by December 1, 2023. The Agreement also 
+established a framework for settling 2018 Zakat in accordance with the aforementioned regulations. 
+Consequently, all Zakat -related disputes between the Bank and ZATCA for the period up to 2017 
+have been resolved. Furthermore, all Tax-related disputes between the Bank and the ZATCA for tax 
+years up to 2018 also stand resolved. 
+ 
+ 31 December 2023 (Audited) 
+ 
+12 month 
+ECL 
+Life time 
+ECL not 
+credit 
+impaired 
+Lifetime 
+ECL credit 
+impaired Total 
+ (SR’000) 
+     
+ECL as at 1 January 2023 21,713 174 307,519 329,406 
+Transfer to 12-month ECL 17 (17) - - 
+Transfer to lifetime ECL not credit –  impaired (93) 93 - - 
+Transfer to lifetime ECL credit  – impaired (24) (7) 31 - 
+Net re-measurement of loss allowance 9,811  (36) (14,865) (5,090) 
+New financial assets originated 15,050  98  179  15,327  
+Financial assets that have been 
+  derecognized 
+(1,721) (4) (8,107) (9,832) 
+ECL as at 31 December 2023 44,753 301 284,757 329,811 
+ 31 March 2023 (Unaudited) 
+ 
+12 month 
+ECL 
+Life time ECL 
+not credit 
+impaired 
+Lifetime 
+ECL credit 
+impaired Total 
+ (SR’000) 
+ECL as at 1 January 2023 21,713 174 307,519 329,406 
+Transfer to 12-month ECL 6   (6) - - 
+Transfer to lifetime ECL not credit – impaired  (23) 23  - - 
+Transfer to lifetime ECL credit – impaired -     - - 
+Net re-measurement of loss allowance 7,672  9 256  7,937  
+New financial assets originated  1,884  - 174  2,058  
+Financial assets that have been derecognized  (2,802)  (1)  (6,917) (9,720) 
+ECL as at 31 March 2023 28,450 199 301,032 329,681 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+31 
+ 
+14. COMMITMENTS AND CONTINGENCIES (continued) 
+ 
+ 
+During the year 2020, the Bank received VAT assessment for the years 2018 and 2019 with an 
+additional VAT of SR 39.3 million and associated delay fines amounting to SR 63.9 million. The 
+Bank objected to the imposition of additional VAT and associated delay fines with the Tax Violation 
+and Dispute Resolution Committee [TVDRC] as a result of which one of the assessment point was 
+dropped by ZATCA which resulted in a reduction of the overall liability to approximately SR 37 
+million. The Bank lodged another objection against the decision rendered by TVDRC with the Tax 
+Violation and Dispute Appeal Committee [TVDAC] on the remaining assessment points and awaits 
+for the decision. Subsequently, however, the Bank decided to settle the additional tax of SR 39.3 
+million “under protest” in order to avail the amnesty so that associated delay fines are waived. 
+ 
+The Bank has filed its zakat and income tax returns with the ZATCA and paid zakat and income tax 
+for the years up to and including the year 2023. 
+ 
+15. CASH AND CASH EQUIVALENTS 
+  
+Cash and cash equivalents included in the interim condensed consolidated statement of cash flows 
+comprise the following: 
+ 31 March  
+ 2024 
+(Unaudited) 
+SR’000 
+31 December 
+2023 
+ (Audited) 
+SR’000 
+31 March 
+ 2023 
+(Unaudited) 
+SR’000 
+Cash and balances with SAMA, excluding statutory 
+deposit 2,614,079 1,167,559 1,653,990 
+Due from banks and other financial institutions with an 
+original maturity of 90 days or less from the date of 
+acquisition 2,039,137 1,555,301 1,405,377 
+    Total 4,653,216 2,722,860 3,059,367 
+ 
+The reconciliation of cash and cash equivalents to cash and balances with Saudi Central Bank is as 
+follows: 
+ 
+  
+ 
+31 March  
+ 2024 
+(Unaudited) 
+SR’000 
+31 December 
+2023 
+ (Audited) 
+SR’000 
+31 March  
+ 2023 
+(Unaudited) 
+SR’000 
+    
+Cash and cash equivalents as per statement of cash flows 4,653,216 2,722,860 3,059,367 
+Statutory deposit 4,569,281 4,673,134 4,495,749 
+Due from banks and other financial institutions with 
+original maturity of 90 days  or less from the date of 
+acquisition (2,039,137) (1,555,301) (1,405,377)  
+ 
+Cash and balances with SAMA 7,183,360 5,840,693 6,149,739 
+ 
+  
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+32 
+ 
+15. CASH AND CASH EQUIVALENTS (continued) 
+ 
+15.1 Below is a reconciliation of liabilities arising from financing activities: 
+ 
+31 March 2024 (Unaudited) Subordinated 
+Sukuk 
+Dividend 
+Payable 
+lease liabilities 
+against right of use 
+assets 
+                                            (SR’ 000)  
+Balances as at 1 January 2024              2,004,346                   66,610          197,373 
+Changes from financing cash flows    
+Payment of leased liability - principal - - (26,109) 
+Dividend paid - (84) - 
+Other changes    
+Increase due to additions - - 18,796 
+Payment of leased liability - profit - - (2,805) 
+Financing cost 38,985 - 2,805 
+Amortisation of transaction cost                      435 - - 
+Other adjustments 1 - - 
+Balances as at 31 March 2024  2,043,767 66,526 190,060 
+ 
+31 March 2023 (Unaudited) Subordinated Sukuk Dividend 
+Payable 
+lease liabilities 
+against right of use 
+assets 
+                                            (SR’ 000)  
+Balances as at 1 January 2023            2,002,819                  66,730                  222,001  
+Changes from financing cash flows    
+Payment of leased liability - principal                        -                           -                    (17,898) 
+Dividend paid                        -                         (22)                          -    
+Other changes    
+Increase due to additions                        -                           -                        8,016  
+Payment of leased liability - profit - -                   (2,228) 
+Financing cost                 36,540                         -                        2,228  
+Amortisation of transaction cost                      435                         -                             -    
+Other adjustments                      106                         -                             -    
+Balances as at 31 March 2023            2,039,900                  66,708         212,119  
+ 
+16.     OPERATING SEGMENTS  
+ 
+The operating segments have been identified on the basis of internal reports about components of 
+the Group that are regularly reviewed by the chief operating decision maker (Chief Executive 
+Officer) in order to allocate resources to the segments and to assess their performance. 
+ 
+All of the Group’s operations are based in the Kingdom of Saudi Arabia.  
+ 
+Transactions between the operating segments are on normal commercial terms and conditions. The 
+revenue from  external parties reported to the chief operating decision maker is measured in a 
+manner consistent with that in the interim condensed consolidated statement of income. Segment 
+assets and liabilities comprise operating assets and liabilities.
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+33 
+ 
+16.     OPERATING SEGMENTS (continued) 
+ 
+There have been no changes to the basis of segmentation or the measurement basis for the segment 
+profit or loss since 31 December 2023. 
+ 
+For management purposes, the Group is organized into following main operating segments: 
+ 
+Personal banking 
+Deposit, credit and investment products for individuals. 
+ 
+Corporate banking 
+Financing, deposits and other credit products for corporate, small to medium sized businesses and 
+institutional customers. 
+ 
+Treasury  
+Treasury includes money market, foreign exchange, trading and treasury services. 
+ 
+Brokerage and asset management 
+Group provides shares brokerage services to customers (this segment includes the activities of the 
+Bank’s subsidiary AlJazira Capital Company). 
+ 
+Others 
+Others include investment in associate, inter segment income and expense eliminations and gain 
+on sale of other real estate. 
+ 
+The Group’s total assets and liabilities at 31 March 2024 and 31 March 2023, its total operating 
+income and expenses, and its net income for the three month periods then ended, by operating 
+segment, are as follows: 
+ 
+(SR’000) Personal 
+banking 
+Corporate 
+banking Treasury 
+Brokerage and 
+asset 
+management Others Total 
+31 March 2024 (Unaudited)       
+Total assets 38,852,594 44,033,078 49,074,283 3,616,544 244,667 135,821,166 
+Total liabilities 49,829,141 45,405,403 22,190,932 1,958,288 (81) 119,383,683 
+       
+Inter - segment income / (loss) 12,776 (566) (10,422) - (1,788) - 
+       
+Total operating income 373,922 248,813 224,948 116,796 (76,182) 888,297 
+Of which:       
+- Net financing and investment 
+income / (loss) 
+280,888 187,567 135,720 17,691 (1,787) 620,079 
+- Fees from banking services, net 52,000 45,193 1 74,796 (15,732) 156,258 
+- Net gain/ (loss) on FVIS financial 
+instruments 
+- - 3,655 14,797 (4,587) 13,865 
+       
+Total operating expenses (345,307) (101,687) (44,572) (55,925) 271 (547,220) 
+Of which:       
+- Impairment charge for financing 
+and other financial assets, net 
+(20,648) (33,680) (1,050) - - (55,378) 
+- Depreciation and amortization (35,346) (4,756) (4,356) (2,200) - (46,658) 
+       
+Share in net income of an associate - - - 884 5,302 6,186 
+       
+Net income / (loss) before zakat and 
+income tax 
+28,615 147,126 180,376 61,755 (70,609) 347,263 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+34 
+ 
+16. OPERATING SEGMENTS (continued) 
+ 
+ 
+ 
+(SR’000) Personal 
+banking 
+Corporate 
+banking Treasury 
+Brokerage 
+and asset 
+management Others Total 
+31 December 2023 
+(Audited)       
+Total assets 37,282,400 42,379,310 46,036,164 3,609,974 242,929 129,550,777 
+Total liabilities 44,402,369 48,153,639 18,516,718 2,062,638 (81) 113,135,283 
+       
+ 
+(SR’000) Personal 
+banking 
+Corporate 
+banking 
+Treasury Brokerage 
+and asset 
+management 
+Others Total 
+31 March 2023 
+(Unaudited)       
+Total assets 35,644,012 35,191,916 45,117,131 3,258,033 218,828 119,429,920 
+Total liabilities 48,599,869 36,407,437 18,563,941 1,891,251 (81) 105,462,417 
+       
+  
+Inter - segment income / 
+(loss) 75,514 34,770 (108,618) - (1,666) - 
+       
+Total operating income 408,447 210,155 154,188 79,657 (68,579) 783,868 
+Of which:       
+- Net financing and 
+investment income / (loss) 300,105 165,707 82,169 12,216 (1,665) 558,532 
+- Fees from banking 
+services, net 54,821 32,383 (19) 56,512 (14,302) 129,395 
+- Net (loss) / gain on FVIS 
+financial instruments (3,808) (963) (7,551) (2,167) - (14,489) 
+       Total operating expenses (337,378) (104,217) (46,860) (46,559) 44 (534,970) 
+Of which:       
+- Impairment charge for 
+financing and other financial 
+assets, net (13,743) (41,970) (4,286) - - (59,999) 
+- Depreciation and 
+amortization (35,299) (4,727) (4,144) (1,771) 1 (45,940) 
+       Share in net income of an 
+associate - - - 154 921 1,075 
+       Net income / (loss) before 
+zakat and income tax 71,069 105,938 107,328 33,252 (67,614) 249,973 
+ 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+35 
+ 
+17. FAIR VALUES OF FINANCIAL INSTRUMENTS 
+ 
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an 
+orderly transaction between market participants at the measurement date. The fair value 
+measurement is based on the presumption that the transaction takes place either: 
+ 
+a) in the accessible principal market for the asset or liability, or 
+b) in the absence of a principal market, in the most advantages accessible market for the asset 
+or liability. 
+Determination of fair value and fair value hierarchy 
+ 
+The Group uses the following hierarchy for determining and disclosing the fair value of financial 
+instruments: 
+Level 1: Quoted (unadjusted) market prices in active markets for identical assets or liabilities  
+Level 2:  Inputs other than quoted prices included in level 1 that are observable either directly 
+(i.e. as prices) or indirectly (i.e. derived from prices). This category includes 
+instruments valued using: quoted market prices in active markets for similar 
+instruments; quoted prices for identical or similar instruments in markets that are 
+considered less than active or other valuation techniques in which all significant 
+inputs are directly or indirectly observable from market data  
+Level 3:  Inputs that are unobserva ble. This category includes all instruments for which the 
+valuation technique include inputs that are not observable and the unobservable inputs 
+have a significant effect on the instrument’s valuation. This category includes 
+instruments that are valued based on quoted prices for similar instruments for which 
+significant unobservable adjustments or assumptions are required to reflect 
+differences between the instruments” 
+ 
+For assets and liabilities that are recognised at fair value on a recurring basis, the Group determines 
+whether transfers have occurred between levels in the hierarchy by re -assessing categorization 
+(based on the lowest level input that is significant to the fair value measurement as a whole) at the 
+end of each reporting period.  
+ 
+There were no changes in the Group’s valuation processes, valuation techniques, and types of 
+inputs used in the fair value measurements during the period.   
+ 
+a) The following table presents the Group’s financial assets and liabilities that are measured at fair 
+values: 
+   31 March 2024 (Unaudited)  
+   Fair value (SR’000) 
+  Carrying 
+Value Level 1 Level 2 
+ 
+Level 3 Total 
+Financial assets measured at fair 
+value:      
+FVIS - Mutual funds 1,518,817  1,518,817 - 1,518,817 
+FVIS – Equities 45,725 25,238  20,487 45,725 
+FVOCI – Sukuk – equity 2,702,915 - 2,702,915 - 2,702,915 
+FVOCI – Sukuk – debt 9,654,904 - 9,654,904 - 9,654,904 
+Shari’ah compliant derivatives 187,629 - 187,629 - 187,629 
+  ────── ───── ────── ──── ────── 
+Total  14,109,990 25,238 14,064,265 20,487 14,109,990 
+  ══════ ═════ ══════ ════ ══════ 
+Financial liabilities measured at 
+fair value:      
+Shari’ah compliant derivatives 170,548 - 170,548 - 170,548 
+  ══════ ═════ ══════ ════ ══════ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+36 
+ 
+17.   FAIR VALUES OF FINANCIAL INSTRUMENTS (continued) 
+   31 December 2023 (Audited) 
+   Fair value (SR’000) 
+  Carrying 
+Value Level 1 Level 2 
+ 
+Level 3 Total 
+Financial assets measured at fair 
+value:      
+FVIS - Mutual funds 1,463,641 - 1,463,641 - 1,463,641 
+FVIS – Equities 20,487 - - 20,487 20,487 
+FVOCI – Sukuk – equity 2,638,872 - 2,638,872 - 2,638,872 
+FVOCI – Sukuk – debt 9,794,348 - 9,794,348 - 9,794,348 
+Shari’ah compliant derivatives 222,508 - 222,508 - 222,508 
+  ────── ───── ────── ──── ────── 
+Total  14,139,856 - 14,119,369 20,487 14,139,856 
+  ══════ ═════ ═════ ════ ═════ 
+Financial liabilities measured at 
+fair value:      
+Shari’ah compliant derivatives 147,061 - 147,061 - 147,061 
+  ══════ ═════ ══════ ════ ══════ 
+ 
+   31 March 2023 (Unaudited) 
+   Fair Value (SR’000) 
+  Carrying 
+Value Level 1 Level 2 
+ 
+Level 3 Total 
+Financial assets measured at fair 
+value:      
+FVIS - Mutual funds 1,344,122 - 1,344,122 - 1,344,122 
+FVIS – Equities 309 309 - - 309 
+FVOCI – Equities  159,998 159,998 - - 159,998 
+FVOCI – Sukuk – equity 2,113,631 - 2,113,631 - 2,113,631 
+FVOCI – Sukuk – debt 8,213,978 - 8,213,978 - 8,213,978 
+Shari’ah compliant derivatives 272,725 - 272,725 - 272,725 
+  ────── ───── ────── ──── ────── 
+Total  12,104,763 160,307 11,944,456 - 12,104,763 
+  ══════ ═════ ═════ ════ ═════ 
+Financial liabilities measured at 
+fair value:      
+Shari’ah compliant derivatives 235,645 - 235,645 - 235,645 
+  ══════ ═════ ══════ ════ ══════ 
+ 
+Fair value of quoted investments is based on price quoted on the reporting date. Level 2 trading 
+and hedging derivatives comprise foreign exchange, options  and profit rate swaps. These foreign 
+exchange contracts have been fair valued using forward exchange rates that are quoted in an active 
+market. Profit rate swaps and wa'ad options are fair valued using forward profit rates extracted 
+from observable yield curves. The effects of discounting are generally insignificant for Level 2 
+derivatives. 
+ 
+There were no changes in valuation techniques during the period. 
+ 
+There were no transfers between levels 1 and 2 during the period. New investments acquired during 
+the period are classified under the relevant levels. Level 3 includes investment in unquoted equities 
+which have been valued using a valuation model. 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+37 
+ 
+ 
+17. FAIR VALUES OF FINANCIAL INSTRUMENTS (continued) 
+ 
+Investments amounting to SR 5.24 million (31 December 2023: SR 5.26 million and 31 March 2023: SR 
+5.25 million) are carried at cost and, accordingly, are not fair valued. 
+ 
+b) Following table represent fair values of financial assets and liabilities which are carried at amortised 
+cost. There are no financial assets and liabilities where fair value is measurable as level 1 and level 3 
+fair value. 
+ 31 March 2024 (Unaudited) 
+(SR’000) 
+ 
+Amortised cost 
+Fair value  
+Level 2  
+Financial assets:   
+Due from banks and other financial institutions, net 7,548,121 7,542,481 
+Investment held at amortised cost, net 20,044,817 19,201,175 
+Financing, net 84,116,257 84,380,854 
+   Total 111,709,195 111,124,510 
+   
+Financial liabilities:   
+Due to banks and other financial institutions 17,995,649 18,458,758 
+Customers’ deposits 97,267,737 97,256,111 
+Subordinated Sukuk 2,043,767 2,043,767 
+   Total 117,307,153 117,758,636 
+ 
+ 31 December 2023 (Audited) 
+(SR’000) 
+ 
+Amortised cost 
+Fair value  
+Level 2  
+Financial assets:   
+Due from banks and other financial institutions, net 5,691,774 5,689,434 
+Investment held at amortised cost, net 20,519,679 19,945,499 
+Financing, net 80,780,901 81,443,392 
+   Total 106,992,354 107,078,325 
+   
+Financial liabilities:   
+Due to banks and other financial institutions 14,985,733 15,425,259 
+Customers’ deposits 94,054,401 94,043,569 
+Subordinated Sukuk 2,004,346 2,004,346 
+   Total 111,044,480 111,473,174 
+ 
+ 
+  
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+38 
+ 
+ 
+17. FAIR VALUES OF FINANCIAL INSTRUMENTS (continued) 
+ 
+ 
+31 March 2023 (Unaudited) (SR’000) 
+ 
+Amortised cost 
+Fair value  
+Level 2  
+Financial assets:   
+Due from banks and other financial institutions, net 2,487,232 2,503,238 
+Investment held at amortised cost, net 24,202,865 23,941,222 
+Financing, net 72,030,089 72,526,109 
+   Total 98,720,186 98,970,569 
+   
+Financial liabilities:   
+Due to banks and other financial institutions 14,468,109 14,948,987 
+Customers’ deposits 86,867,225 87,162,211 
+Subordinated Sukuk 2,039,900 2,039,900 
+   Total 103,375,234 104,151,098 
+ 
+ 
+The fair value of the cash and balances with Saudi Central Bank, other assets and other liabilities 
+approximate to their carrying amount. The fair values of level 2 financial instruments are estimated as at 
+31 March 2024 at the current applicable yield cur ve taking into account the counterparty risks and 
+applicable market rate. 
+ 
+Valuation technique and significant unobservable inputs  
+ 
+The following table shows the valuation techniques used in measuring level 2 and Level 3 fair values at 
+31 March 2024, 31 December 2023 and 31 March 2023, as well as the significant unobservable inputs 
+used. 
+  
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+39 
+ 
+ 
+17. FAIR VALUES OF FINANCIAL INSTRUMENTS (continued) 
+ 
+Type 
+Accounti
+ng 
+Classifica
+tion Valuation Technique 
+Significa
+nt 
+unobserv
+able 
+Inputs 
+Inter-relationship 
+between 
+significant 
+unobservable 
+inputs and fair 
+value 
+measurement 
+ 
+Mutual Fund 
+units 
+ 
+FVIS 
+Fair valued using the net asset value determined by the 
+fund manager. The fund manager deploys various 
+techniques for the valuation of underlying assets 
+classified under level 2 of the respective fund’s fair 
+value hierarchy 
+Not 
+applicable Not applicable 
+Equities FVIS 
+Includes investment in unquoted equities which have 
+been valued using a valuation model. 
+Risk Free 
+Rate, 
+Asset 
+Volatility 
+Valuation is highly 
+sensitive to 
+changes in the 
+asset volatility 
+Investment 
+held at 
+FVOCI – 
+Sukuks (debt 
+& equity) 
+ 
+FVOCI Fair valued using the broker quoted prices or estimating 
+present value by discounting cash flows using adjusted 
+discount rate. 
+Not 
+applicable Not applicable 
+Forward 
+exchange 
+contracts 
+(Wa’ad) and 
+Profit rate 
+swaps 
+FVIS Forward exchange contracts (Wa’ad): Fair valued 
+using discounted Notional techniques that use 
+observable market data inputs for Foreign Exchange 
+(FX) and yield curves 
+Profit rate swaps: The fair value is determined by 
+discounting the future cash flows using observable 
+market data inputs for yield curves. 
+Not 
+applicable Not applicable 
+Due from 
+banks and 
+other 
+financial 
+institutions,  
+Financing,  
+Due to banks 
+and other 
+financial 
+institutions, 
+Customer 
+Deposits 
+Amortise
+d Cost 
+Market Data: Used observable market data inputs for 
+yield curves. 
+Fair value technique: The fair value is determined by 
+discounting the future cash flows. A discounted cash 
+flow is the product of: 
+• The anticipated nominal magnitude and sign of a 
+cash flow. 
+• The accumulated discount over the amount of time 
+remaining until the anticipated time of the cash 
+flow, at a rate of discount. 
+The fair value is determined only for the Customers’ 
+time investments. 
+Not 
+applicable Not applicable 
+Investment 
+held at 
+amortised 
+cost - net 
+Amortise
+d Cost Fair valued using the quoted prices, where available or 
+estimating present value by discounting cash flows using 
+adjusted discount rate. 
+Not 
+applicable Not applicable 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+40 
+ 
+ 
+18. CAPITAL ADEQUACY 
+ 
+The Group's objectives when managing capital are to comply with the capital requirements set by SAMA 
+to safeguard the Group's ability to continue as a going concern and to maintain a strong capital base. 
+ 
+Capital adequacy and the use of regulatory capital are monitored on a periodic basis by the Bank’s 
+management. SAMA requires holding the minimum level of the regulatory capital and maintaining a ratio 
+of total eligible capital to the risk-weighted assets at or above the agreed minimum percentage. 
+ 
+The Group monitors the adequacy of its capital using ratios established by SAMA. These ratios measure 
+capital adequacy by comparing the Group's eligible capital with its interim condensed consolidated 
+statement of financial position assets, commitments and notional amount of derivatives at a weighted 
+amount to reflect their relative risk. 
+ 
+The current period numbers are presented as per Basel IV regulation issued by SAMA (circular number 
+44047144) effective from January 01, 2023, while the prior period is based on Basel III regulations. 
+ 
+The following table summarizes the Bank's Pillar-I Risk Weighted Assets (RWA), Regulatory Capital and 
+Capital Adequacy Ratios: 
+ 
+   31 March 31 December  31 March  
+2024 2023 2023  
+(Unaudited) (Audited) (Unaudited) 
+     
+SR’000 SR’000 SR’000 
+    
+Credit Risk RWA 96,151,554 88,909,068 79,451,354 
+Market Risk RWA 2,069,924 2,407,944 2,467,632 
+Operational Risk RWA 4,860,836 4,537,448 4,537,448 
+    Total Pillar-I RWA    103,082,314 95,854,460 86,456,434 
+    
+Common Equity Tier 1 (CET 1) Capital 12,480,873 12,721,256 12,288,943 
+Additional Tier 1 (AT1) Capital 3,875,000 3,875,000 1,875,000 
+Tier I Capital 16,355,873 16,596,256 14,163,943 
+Tier II Capital 2,537,288 2,501,906 2,567,680 
+    
+Total Tier I and II Capital 18,893,161 19,098,162 16,731,623 
+    
+Capital Adequacy Ratio (%)    
+  Common Equity Tier I Ratio 12.11% 13.27% 14.21% 
+  Tier I ratio 15.87% 17.31% 16.38% 
+  Total Tier I and II Capital 18.33% 19.92% 19.35% 
+ 
+ 
+19. RELATED PARTY BALANCES AND TRANSACTIONS 
+ 
+In the ordinary course of its activities, the Group transacts business with related parties. The related party 
+transactions are governed by the limits set by the Banking Control Law and regulations issued by Saudi Central 
+Bank (SAMA).  
+ 
+The balances as at March 31 resulting from such transactions included in the interim condensed consolidated 
+financial statements information are as follows: 
+ 
+ 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+41 
+ 
+ 
+19. RELATED PARTY BALANCES AND TRANSACTIONS (Continued) 
+ 
+ 
+ 
+31 March 2024 
+(Unaudited) 
+SR’ 000 
+31 March 2023 
+(Unaudited) 
+SR’ 000 
+Subsidiary companies   
+Investments 501,480 501,480 
+Customer deposits 5,897 6,954 
+Due from banks and other financial institutions 1,801,682 1,765,846 
+Due to banks and other financial institutions 293,711 293,514 
+Receivables and other assets 285,179 225,920 
+Payables and liabilities 103,024 62,557 
+Commitments and contingencies 30,191 30,173 
+Notional values of outstanding shari’ah compliant contracts  3,597,082 5,818,955 
+Outstanding Sukuk liability 1,875,000 1,875,000 
+   
+Associate and affiliate entities with significant influence    
+Investments  244,748 218,909 
+Customer deposits 211,662 171,626 
+Contingencies and commitments 7,280 7,280 
+Sukuk liability 150,000 - 
+ 
+Directors, key management personnel, other major shareholders 
+and their affiliates 
+  
+Financing 301,525 583,890 
+Customers’ deposits 151,139 500,344 
+Contingencies and commitments  27,739 50,965 
+ 
+Other major shareholders represent shareholdings of more than 5% of the Bank’s issued share capital.  
+ 
+Mutual Funds under subsidiary’s management 
+  
+Investments  1,432,596 1,303,233 
+Customers’ deposits 130,159 121,557 
+ 
+ 
+
+Bank AlJazira 
+(A Saudi Joint Stock Company) 
+ 
+NOTES TO CONDENSED INTERIM CONSOLIDATED FINANCIAL INFORMATION 
+(UNAUDITED) 
+FOR THE THREE-THREE PERIOD ENDED 31 MARCH 2024 (CONTINUED) 
+42 
+ 
+ 
+19. RELATED PARTY BALANCES AND TRANSACTIONS (Continued) 
+ 
+Material i ncome, expenses and other transactions with related parties included in the interim condensed 
+consolidated financial statements information are as follows: 
+ 
+ Period ended 
+31 March 2024 
+SR’ 000 
+Period ended 
+31 March 2023 
+SR’000 
+Income from investments and financing 80,726 69,595 
+Return on deposits and financial liabilities 72,750 85,830 
+Fees income 1 - 
+Fee expense 1,872 1,851 
+Exchange loss  - 427 
+Insurance premium  57,962 57,192 
+Claims received 6,222 13,072 
+Directors’ remuneration 2,718 2,500 
+Income under shared service agreements 287 287 
+Operating expenses - 4,648 
+Reimbursement of building related expense 751 676 
+Rent expense for branches 316 316 
+   
+ 
+The total amount of compensation paid to directors and key management personnel during the period is as 
+follows:  
+ 
+ 
+ 
+Period ended 
+31 March 2024 
+SR’ 000 
+Period ended 
+31 March 2023 
+SR’000 
+Short-term employee benefits 32,190 29,925 
+Termination benefits 529 512 
+ 
+Key management personnel are those persons, including executive directors, having authority and 
+responsibility for planning, directing and controlling the activities of the Group, directly or indirectly.  
+ 
+ 
+20. COMPARATIVE FIGURES  
+ 
+Certain prior period amounts have been reclassified so as to align with the current period 
+presentation. However, there was no impact of such reclassifications on the interim condensed 
+consolidated statement of income and interim condensed consolidated statement of changes in 
+equity. 
+ 
+ 
+21. APPROVAL OF INTERIM CONDENSED CONSOLIDATED FINANCIAL 
+INFORMATION 
+ 
+The condensed interim consolidated financial information was authorized for issue by the Board 
+of Directors of the Bank on  1 May 2024 (corresponding to 22 Shawwal 1445H).
+

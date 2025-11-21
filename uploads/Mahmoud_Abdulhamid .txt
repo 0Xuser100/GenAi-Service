@@ -1,0 +1,88 @@
+Mahmoud Abdelhamid
+AI Engineer
++20 1559391185 - mahmoudabdulhamid22@gmail.com - Github - linkedin - Kaggle
+WORK EXPERIENCE
+AI Engineer
+ThinkTech Company jun 2025 - Ongoing
+Designed and deployed a production-grade Retrieval-Augmented Generation (RAG) service that ingests
+PDFs/XLSX/docs (local or Google Drive), runs OCR + embedding pipelines, and serves structured financial insights
+via FastAPI APIs.
+Implemented a job queue architecture with background threads to handle multi-analysis requests, stream progress,
+and persist results as JSON for polling endpoints.
+Built modular pipelines for document ingestion, OCR (YOLO + PaddleOCR + Tesseract), and LangChain-based
+chunking, feeding embeddings into Qdrant vector stores.
+Standardized outputs with Pydantic schemas and prompt templates to ensure multi-lingual, structured JSON
+responses for downstream systems.
+Integrated Tavily/Exa web agents and financial-specific analyses (ratios, entity background, bank statements) into
+RetrievalQA chains.
+Dockerized and CI/CD-enabled (Azure Pipelines) deployment, with configurable concurrency , monitoring hooks,
+and storage cleanup utilities.
+Tools & Technologies:
+• Python, FastAPI, Uvicorn, Pydantic, LangChain, LangSmith, Langfuse, OpenAI GPT-4.1/GPT-5 APIs, OpenAI
+embeddings, Qdrant, FAISS, PyMuPDF, Unstructured, pdfplumber, PaddleOCR, Ultralytics YOLO (DocLayNet),
+OpenCV, Tesseract, Pandas, openpyxl, Tavily , Exa, Google Drive API, Docker, Azure Pipelines, RotatingFileHandler
+logging.
+Remote AI & ML Engineer
+Upwork, Direct Clients, Udemy, Udacity July 2022 - Ongoing
+• Worked on diverse AI & ML projects for global clients, covering predictive modeling, NLP, and computer vision.
+• Led small teams and collaborated directly with clients to deliver tailored AI solutions.
+• Built and deployed practical end-to-end applications in machine learning and generative AI.
+• Transitioned into teaching, delivering AI courses and workshops with Udemy and Udacity to mentor aspiring
+engineers.
+TECHNICAL SKILLS
+Programming Languages: Python, R
+Generative AI & LLMs: LangChain, LangGraph, CrewAI,Phidata Framework Transformers (BERT, GPT, LLaMA,
+Mixtral), RAG, LLM APIs, Pydantic
+Deep Learning & NLP Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, spaCy , NLTK
+Data & Visualization: Pandas, NumPy , SciPy , Matplotlib, Seaborn
+Evaluation & Monitoring: Langfuse, Ragas, LangSmith
+Technologies & Tools: Docker, Linux, Git, GitHub, Streamlit, Flask, FastAPI
+Databases: SQL, MySQL, PostgreSQL, SQLite3, SQLAlchemy , Database Design, Query Optimization
+Core Concepts: Neural Networks, CNN, RNN, LSTM, Computer Vision, NLP, Deep Learning, RAG, API
+Development, OOP
+PROJECTS
+• Enterprise-Grade RAG Platform: Developed a FastAPI-based Retrieval-Augmented Generation system for
+ingesting and validating TXT/PDF/XLSX files. Built modular pipelines with LangChain for chunking, async
+MongoDB for persistence, and Dockerized deployment with Postman test coverage.
+Tools: Python, FastAPI, LangChain, MongoDB, Docker, Postman GitHub
+
+• Medical RAG Chatbot: Flask-based chatbot for clinical PDFs using LangChain retrieval and FAISS search. Added
+conversational memory , hallucination control, telemetry with Langfuse, and a responsive UI; deployed with Docker
+and CI/CD pipelines.
+Tools: Python, Flask, FAISS, LangChain, OpenAI, Langfuse, Jenkins GitHub
+• LangChain Chat with SQL DB: Enabled natural language access to databases using LangChain and Groq Cloud.
+Users query in plain English while the system dynamically translates into SQL and returns results.
+Tools: Python, Streamlit, LangChain, SQLAlchemy , Groq GitHub
+• Plant Disease CNN Classifier: Built a CNN model to detect plant diseases from images with high accuracy .
+Delivered via an interactive Streamlit app for farmers and researchers.
+Tools: Python, TensorFlow, Keras, Streamlit Try it!
+• Multi-Agent Financial Research Assistant: Designed a Phidata-based multi-agent system where Groq LLMs
+coordinate web and finance agents. Delivered Markdown-formatted insights with tables, news context, and market
+analysis.
+Tools: Python, Phidata, Groq LLMs, YFinance, DuckDuckGo GitHub
+• Graduation Project – MOA Prediction: Built a full-stack ML platform predicting drug mechanisms of action
+(Kaggle Lish-MOA). Integrated autoencoder-based deep learning, ensemble models, and a Flask API with a Next.js
+frontend.
+Tools: Python (TensorFlow, XGBoost, scikit-learn), Flask, Next.js, PostgreSQL GitHub
+• AnimeGPT-LLMOps (Personal Project): Created a retrieval-augmented anime recommender using ChromaDB
+and Groq LLMs. Added Streamlit UI, Langfuse observability , Docker/K8s deployment, and Grafana Cloud
+monitoring.
+Tools: Python, Streamlit, LangChain, ChromaDB, Groq, Docker, Kubernetes, Grafana GitHub
+EDUCATION
+Menoufia University Egypt – Menoufia
+B.S. in Computer Science May 2020 - May 2024
+GPA: 3.65/4.0 Achieved Excellent with Honors Ranked 7th in the college
+EXTRACURRICULAR ACTIVITIES
+• Kaggle Expert: Gained expert-level skills by competing in data science challenges, specializing in NLP, ML, Gen
+AI, Computer Vision, and Deep Learning.
+• Egyptian Collegiate Programming Contest (ECPC): Participated from 2020 to 2024, then transitioned to
+coaching in 2024 to mentor aspiring programmers in the competition.
+• Problem-Solving Training: Solved 1,000+ problems on platforms like Codeforces and Leetcode, with a focus on
+algorithms and data structures. Regularly competed in 20+ high-level contests, achieving a top 10% placement in
+several.
+PERSONAL INFORMATION
+• Date of Birth: 23 December 2002.
+• Military Status: Exempted.
+• Marital Status: Single.
+• Nationality: Egyptian
+
