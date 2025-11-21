@@ -1,72 +1,79 @@
 # 🚀 GenAI Service — Project Guide
 
-## 📦 Installation & Setup
+## Overview
 
-### 🔧 1) Install `uv`
+This repository contains a small GenAI service with a FastAPI backend and a Streamlit frontend. The project uses `uv` for environment bootstrapping and can use Qdrant as a vector store (optional).
+
+## Installation & Setup
+
+Install project dependencies and prepare the environment. Two common approaches are shown below.
+
+### Conda (recommended)
 ```bash
-pip install uv
+conda create -n genaiservice python=3.11
+conda activate genaiservice
+pip install -r requirements.txt
 ```
 
-### 🆕 2) Initialize a New Project
-
+### Using `uv`
 ```bash
+pip install uv
 uv init .
 uv add -r requirements.txt
 ```
 
-### 🔄 3) Sync Dependencies (if lockfile exists)
-
+### Sync dependencies (if a lockfile exists)
 ```bash
 uv sync
 # For strict lockfile enforcement (CI or reproducibility):
 uv sync --frozen
 ```
 
-## ▶️ Running the Project with uv
+## Running the services
 
-### ⚡ FastAPI (Development Mode with Auto-Reload)
-
+Start the FastAPI backend (development server with auto-reload):
 ```bash
 uv run uvicorn main:app --reload
+# or
 uv run fastapi dev
 ```
 
-### 🚀 FastAPI (Prod-style Uvicorn)
-
-```bash
-uv run uvicorn main:app --host 0.0.0.0 --port 8000
-```
-
-### 🎨 Streamlit Client UI
-
+In a separate terminal, launch the Streamlit client UI:
 ```bash
 uv run streamlit run client.py
 ```
 
-## 🗄️ Qdrant Vector Database (Docker)
+By default the FastAPI app listens on `http://127.0.0.1:8000` and Streamlit opens at `http://localhost:8501`.
 
-### 📥 Pull Latest Qdrant Image
+### Production-style Uvicorn
+```bash
+uv run uvicorn main:app --host 0.0.0.0 --port 8000
+```
 
+## Qdrant Vector Database (Docker)
+
+Pull the latest Qdrant image:
 ```bash
 docker pull qdrant/qdrant
 ```
 
-### ▶️ Run Qdrant with Persistent Local Storage
-
+Run Qdrant with persistent local storage:
 ```bash
 docker run -p 6333:6333 -p 6334:6334 -v "%cd%\\qdrant_storage":/qdrant/storage qdrant/qdrant
 ```
 
-### 🗑️ Remove Qdrant Container
-
+Remove the Qdrant container when done:
 ```bash
 docker rm qdrant
 ```
 
-If you want, I can also generate:
+## Quick Notes
+- The repository contains example code and experiments under `ch2/`, `ch3/`, and a `rag/` helper set. 
+- Use the Streamlit UI (`client.py`) to interact with the service locally.
 
-✅ A full **README.md**  
-✅ A version with **badges** (Python, FastAPI, Docker, Qdrant, uv)  
-✅ A version with **Project Structure**, **API docs**, or **RAG Architecture Diagram**
+If you'd like, I can also:
+- Generate a cleaned README with badges and a project structure section
+- Create a `dev` script or `Makefile` to simplify running the backend and UI
+- Commit the resolved merge and create a short changelog entry
 
-Just tell me!
+Tell me which of those you'd like next.
