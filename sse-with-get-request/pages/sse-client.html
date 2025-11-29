@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>SSE with EventSource API</title>
+</head>
+<body>
+
+<button id="streambtn">Start Streaming</button>
+
+<label for="messageInput">Enter your prompt:</label>
+<input type="text" id="messageInput" placeholder="Enter your prompt">
+
+<div style="padding-top: 10px" id="responseContainer"></div>
+
+<script>
+    let source;
+
+    const button = document.getElementById('streambtn');
+    const container = document.getElementById('responseContainer');
+    const input = document.getElementById('messageInput');
+
+    // ❗ التعديل هنا: لا نمسح الـ input بعد الآن
+    function resetForm(){
+        container.textContent = '';   // نمسح الرد فقط
+    }
+
+    function handleOpen() {
+        console.log('Connection opened');
+    }
+
+    function handleMessage(e){
+        if (e.data === '[DONE]') {
+            source.close();
+            console.log('Connection closed');
+            return;
+        }
+        container.textContent += e.data;
+    }
+
+    function handleClose(e){
+        console.error(e);
+        source.close();
+    }
+
+    button.addEventListener('click', function() {
+
+        const message = input.value.trim();
+        if (!message) {
+            alert("Please write a prompt first");
+            return;
+        }
+
+        resetForm(); // نمسح الرد فقط
+
+        const url = "http://localhost:8000/generate/text/stream?prompt=" +
+                    encodeURIComponent(message);
+
+        source = new EventSource(url);
+        source.addEventListener('open', handleOpen, false);
+        source.addEventListener('message', handleMessage, false);
+        source.addEventListener('error', handleClose, false);
+    });
+
+</script>
+
+</body>
+</html>
