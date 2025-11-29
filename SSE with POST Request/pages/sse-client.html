@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>SSE With POST Request + Retry + Clean Spacing</title>
+</head>
+<body>
+
+<h3>SSE Streaming with POST (Clean Output)</h3>
+
+<label>Enter your prompt:</label>
+<input type="text" id="messageInput" placeholder="Write something..." />
+
+<button id="streambtn">Start Streaming</button>
+
+<div style="padding-top: 20px; white-space: pre-wrap;" id="responseContainer"></div>
+
+<script>
+    const button = document.getElementById("streambtn");
+    const input = document.getElementById("messageInput");
+    const container = document.getElementById("responseContainer");
+
+    // Reset output only
+    function resetForm() {
+        container.textContent = "";
+    }
+
+    // Sleep helper for retry-backoff
+    function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    // Fix spacing between tokens (most important part)
+    function fixSpacing(previous, token) {
+        const trimmed = token.trim();
+
+        // If token empty → ignore
+        if (trimmed.length === 0) return "";
+
+        // If token is a punctuation → attach without space
+        if (",.!?;:".includes(trimmed)) {
+            return trimmed;
+        }
+
+        // If token already starts with a space → use it
+        if (token.startsWith(" ")) {
+            return token;
+        }
+
+        // If previous ends with space → attach directly
+        if (previous.endsWith(" ")) {
+            return token;
+        }
+
+        // Default: prepend space
+        return " " + token;
+    }
+
+    // POST SSE Streaming with retry + clean output
+    async function streamPrompt(
+        message,
+        maxRetries = 3,
+        initialDelay = 1000,
+        backoffFactor = 2
+    ) {
+        let delay = initialDelay;
+
+        for (let attempt = 0; attempt < maxRetries; attempt++) {
+
+            try {
+                const response = await fetch("http://localhost:8000/generate/text/stream", {
+                    method: "POST",
+                    cache: "no-cache",
+                    keepalive: true,
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Accept": "text/event-stream",
+                    },
+                    body: JSON.stringify({ prompt: message }),
+                });
+
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+
+                // Read SSE chunks
+                while (true) {
+                    const { value, done } = await reader.read();
+                    if (done) break;
+
+                    const chunk = decoder.decode(value);
+
+                    // Parse SSE "data:" format
+                    const lines = chunk.split("\n");
+
+                    for (const line of lines) {
+                        if (line.startsWith("data:")) {
+                            const content = line.replace("data:", "").trim();
+
+                            // If DONE → stop
+                            if (content === "[DONE]") return;
+
+                            // Apply spacing logic
+                            const previous = container.textContent;
+                            const fixed = fixSpacing(previous, content);
+
+                            // Append clean content
+                            container.textContent += fixed;
+                        }
+                    }
+                }
+
+                return;  // Stream succeeded → exit function
+            }
+
+            catch (error) {
+                console.warn(`Stream failed (attempt ${attempt + 1}): ${error}`);
+
+                if (attempt < maxRetries - 1) {
+                    await sleep(delay);
+                    delay *= backoffFactor;  // exponential increase
+                } else {
+                    throw error;  // give up
+                }
+            }
+        }
+    }
+
+    // Button click handler
+    button.addEventListener("click", async () => {
+        const message = input.value.trim();
+        if (!message) {
+            alert("Please enter a prompt.");
+            return;
+        }
+
+        resetForm();
+        await streamPrompt(message);
+    });
+</script>
+
+</body>
+</html>
