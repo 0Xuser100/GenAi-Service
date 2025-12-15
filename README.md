@@ -67,6 +67,13 @@ Remove the Qdrant container when done:
 docker rm qdrant
 ```
 
+## PostgreSQL (Docker)
+
+Run PostgreSQL with a persistent local volume (Windows CMD):
+```bash
+docker run -p 15432:5432 -e POSTGRES_USER=fastapi -e POSTGRES_PASSWORD=mysecretpassword -e POSTGRES_DB=backend_db -e PGDATA=/var/lib/postgresql/data -v "%cd%\dbstorage:/var/lib/postgresql/data" postgres:latest
+```
+
 ## Quick Notes
 - The repository contains example code and experiments under `ch2/`, `ch3/`, and a `rag/` helper set. 
 - Use the Streamlit UI (`client.py`) to interact with the service locally.
